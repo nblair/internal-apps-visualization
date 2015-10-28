@@ -1,0 +1,938 @@
+1428948911|Nicholas Blair|A|/.gitignore
+1428948911|Nicholas Blair|A|/README.md
+1428948911|Nicholas Blair|A|/pom.xml
+1428955770|Nicholas Blair|M|/pom.xml
+1428955770|Nicholas Blair|A|/star-war/pom.xml
+1428955770|Nicholas Blair|A|/star-war/src/etc/resources/log4j-developer.properties
+1428955770|Nicholas Blair|A|/star-war/src/main/resources/buildNumber.properties
+1428955770|Nicholas Blair|A|/star-war/src/main/webapp/app.js
+1428955770|Nicholas Blair|A|/star-war/src/main/webapp/index.html
+1428955770|Nicholas Blair|A|/star-war/src/main/webapp/navigation/navigation.html
+1428955770|Nicholas Blair|A|/star-war/src/main/webapp/navigation/navigation.js
+1428955770|Nicholas Blair|A|/star-war/src/main/webapp/welcome/welcome.html
+1429026001|Tim Zodrow|M|/pom.xml
+1429026001|Tim Zodrow|M|/star-war/pom.xml
+1429028772|Tim Zodrow|M|/star-war/pom.xml
+1429031901|Tim Zodrow|M|/pom.xml
+1429031901|Tim Zodrow|M|/star-war/pom.xml
+1429038472|Nicholas Blair|M|/pom.xml
+1429038472|Nicholas Blair|M|/star-war/pom.xml
+1429038472|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1429038472|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/ApplicationConfiguration.java
+1429038472|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebConfiguration.java
+1429038472|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/web/MainController.java
+1429038472|Nicholas Blair|A|/star-war/src/main/webapp/docs/index.html
+1429038472|Nicholas Blair|A|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ConfigurationTest.java
+1429038472|Nicholas Blair|A|/star-war/src/test/java/edu/wisc/doit/financials/star/web/MainControllerTest.java
+1429041626|Nicholas Blair|M|/pom.xml
+1429041626|Nicholas Blair|M|/star-war/pom.xml
+1429041626|Nicholas Blair|M|/star-war/src/etc/resources/log4j-developer.properties
+1429041626|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebConfiguration.java
+1429041758|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1429041972|Nicholas Blair|M|/README.md
+1429108970|Tim Zodrow|M|/pom.xml
+1429108970|Tim Zodrow|A|/star-api/pom.xml
+1429108970|Tim Zodrow|A|/star-api/src/main/xsd/star-model-v1.xsd
+1429108971|Tim Zodrow|M|/star-api/src/main/xsd/star-model-v1.xsd
+1429108972|Tim Zodrow|M|/pom.xml
+1429108972|Tim Zodrow|M|/star-api/pom.xml
+1429108972|Tim Zodrow|M|/star-api/src/main/xsd/star-model-v1.xsd
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/EmployeeService.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ProjectService.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/ChargedTime.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Employee.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Project.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Task.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Timecard.java
+1429108973|Tim Zodrow|A|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/TimecardDetail.java
+1429111073|Tim Zodrow|M|/pom.xml
+1429111081|Tim Zodrow|A|/star-impl/.gitignore
+1429111081|Tim Zodrow|A|/star-impl/pom.xml
+1429111081|Tim Zodrow|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/EmployeeDao.java
+1429111081|Tim Zodrow|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/ProjectDao.java
+1429111081|Tim Zodrow|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1429113490|Tim Zodrow|M|/pom.xml
+1429113490|Tim Zodrow|M|/star-api/src/main/java/edu/wisc/doit/financials/star/EmployeeService.java
+1429113490|Tim Zodrow|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1429113490|Tim Zodrow|M|/star-impl/pom.xml
+1429113490|Tim Zodrow|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/ProjectDao.java
+1429113490|Tim Zodrow|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1429113490|Tim Zodrow|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/EmployeeServiceImpl.java
+1429113490|Tim Zodrow|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/ProjectServiceImpl.java
+1429113490|Tim Zodrow|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1429113626|Tim Zodrow|M|/star-api/pom.xml
+1429114641|Tim Zodrow|M|/star-api/pom.xml
+1429114641|Tim Zodrow|D|/star-impl/.gitignore
+1429115088|Tim Zodrow|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/ChargedTime.java
+1429196269|Tim Zodrow|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/ChargedTime.java
+1429628614|Tim Zodrow|M|/pom.xml
+1429628614|Tim Zodrow|A|/star-database/pom.xml
+1429628614|Tim Zodrow|A|/star-database/src/main/java/edu/wisc/doit/financials/star/database/DatabaseMigrations.java
+1429628614|Tim Zodrow|A|/star-database/src/main/java/edu/wisc/doit/financials/star/database/FlywayDatabaseMigrations.java
+1429628615|Tim Zodrow|M|/star-database/pom.xml
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/README.md
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V10__create-doit_timecard_summary.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V11__create-doit_timecard_hrs_lookup.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V12__create-pa_compensation_details_all.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V13.1__create-doit_pa_project_task_view.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V13__create-export_lic_renewal_person.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V1__create-pa_projects_all.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V2__create-pa_tasks.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V3__create-pa_budget_versions.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V4__create-doit_employee_view.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V5__create-doit_pa_proj_task_expend_view.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V6__create-doit_timecard_admin.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V7__create-doit_timecard_detail.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V8__create-doit_timecard_holiday.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/cbs/V9__create-doit_timecard_proxy.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V14__insert_users_into_doit_employee_view.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V15__insert_2015_holidays.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V16__insert_users_into_export_lic_renewal_person_tbl.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V17__insert_into_doit_timecard_admin.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V18__insert_pa_projects_all.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V19__insert_pa_tasks.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V20__insert_doit_pa_proj_task_expend.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V21__insert_doit_timecard_summary.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/data/V22__insert_doit_timecard_detail.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/README.md
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V10__create-doit_timecard_summary.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V11__create-doit_timecard_hrs_lookup.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V12__create-pa_compensation_details_all.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V13.1__create-doit_pa_project_task_view.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V13__create-export_lic_renewal_person_tbl.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V1__create-pa_projects_all.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V2__create-pa_tasks.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V3__create-pa_budget_versions.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V4__create_apps_doit_employee_view.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V5__create-doit_pa_proj_task_expend_view.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V6__create-doit_timecard_admin.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V7__create-doit_timecard_detail.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V8__create-doit_timecard_holiday.sql
+1429628615|Tim Zodrow|A|/star-database/src/main/resources/database/migrations/local/V9__create-doit_timecard_proxy.sql
+1429628616|Tim Zodrow|M|/pom.xml
+1429628616|Tim Zodrow|M|/star-database/pom.xml
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V10__create-doit_timecard_summary.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V11__create-doit_timecard_hrs_lookup.sql
+1429628616|Tim Zodrow|D|/star-database/src/main/resources/database/migrations/local/V13.1__create-doit_pa_project_task_view.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V1__create-pa_projects_all.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V2__create-pa_tasks.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V3__create-pa_budget_versions.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V5__create-doit_pa_proj_task_expend_view.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V6__create-doit_timecard_admin.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V7__create-doit_timecard_detail.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V8__create-doit_timecard_holiday.sql
+1429628616|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V9__create-doit_timecard_proxy.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V15__insert_2015_holidays.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V16__insert_users_into_export_lic_renewal_person_tbl.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V17__insert_into_doit_timecard_admin.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V18__insert_pa_projects_all.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V19__insert_pa_tasks.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V20__insert_doit_pa_proj_task_expend.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V21__insert_doit_timecard_summary.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/data/V22__insert_doit_timecard_detail.sql
+1429628617|Tim Zodrow|M|/star-database/src/main/resources/database/migrations/local/V2__create-pa_tasks.sql
+1429628618|Tim Zodrow|A|/star-database/src/test/java/edu/wisc/doit/financials/star/database/FlywayDatabaseMigrationsTest.java
+1429628618|Tim Zodrow|A|/star-database/src/test/java/edu/wisc/doit/financials/star/database/TestConfiguration.java
+1429629710|Tim Zodrow|D|/star-database/src/main/resources/database/migrations/data/V16__insert_users_into_export_lic_renewal_person_tbl.sql
+1429629710|Tim Zodrow|D|/star-database/src/main/resources/database/migrations/local/V13__create-export_lic_renewal_person_tbl.sql
+1429629710|Tim Zodrow|M|/star-database/src/test/java/edu/wisc/doit/financials/star/database/TestConfiguration.java
+1429708692|Collin Cudd|M|/pom.xml
+1429708692|Collin Cudd|A|/star-security/pom.xml
+1429708692|Collin Cudd|A|/star-security/src/main/java/edu/wisc/doit/financials/star/security/AbstractCurrentUserAwareComponent.java
+1429708813|Collin Cudd|M|/star-war/pom.xml
+1429708813|Collin Cudd|A|/star-war/src/main/java/edu/wisc/doit/financials/star/SecurityWebApplicationInitializer.java
+1429708813|Collin Cudd|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1429708813|Collin Cudd|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebSecurityConfiguration.java
+1429708813|Collin Cudd|A|/star-war/src/main/java/edu/wisc/doit/financials/star/web/ProfileController.java
+1429798295|Collin Cudd|M|/README.md
+1432653385|Nicholas Blair|D|/star-api/src/main/xsd/star-model-v1.xsd
+1432654725|Nicholas Blair|M|/star-api/pom.xml
+1432654725|Nicholas Blair|M|/star-impl/pom.xml
+1432654808|Nicholas Blair|M|/pom.xml
+1432654808|Nicholas Blair|M|/star-database/pom.xml
+1432654808|Nicholas Blair|M|/star-war/pom.xml
+1432654808|Nicholas Blair|A|/star-war/src/etc/jetty-ds.xml
+1432654808|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1432654808|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/ApplicationConfiguration.java
+1432654808|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/DataSourceConfiguration.java
+1432654808|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/DatabaseMigrationConfiguration.java
+1432654808|Nicholas Blair|A|/star-war/src/main/resources/star.properties
+1432673141|Nicholas Blair|M|/pom.xml
+1432673141|Nicholas Blair|M|/star-war/pom.xml
+1433269640|Nicholas Blair|M|/pom.xml
+1433269640|Nicholas Blair|M|/star-war/pom.xml
+1433269640|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/ApplicationConfiguration.java
+1433269640|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebConfiguration.java
+1433269640|Nicholas Blair|M|/star-war/src/main/resources/buildNumber.properties
+1433269640|Nicholas Blair|M|/star-war/src/main/webapp/app.js
+1433269640|Nicholas Blair|M|/star-war/src/main/webapp/index.html
+1433272211|Nicholas Blair|A|/star-war/src/etc/tomcat/README.md
+1433272211|Nicholas Blair|A|/star-war/src/etc/tomcat/star.xml
+1433274294|Nicholas Blair|M|/pom.xml
+1433818517|Nicholas Blair|M|/pom.xml
+1433818517|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/ProjectService.java
+1433818517|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Project.java
+1433818517|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Task.java
+1433818517|Nicholas Blair|A|/star-database/src/test/resources/log4j.properties
+1433818517|Nicholas Blair|M|/star-impl/pom.xml
+1433818517|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/ProjectDao.java
+1433818517|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/ProjectRowMapper.java
+1433818517|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcProjectDaoImpl.java
+1433818517|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/TaskRowMapper.java
+1433818517|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/ProjectServiceImpl.java
+1433818517|Nicholas Blair|A|/star-impl/src/main/resources/database/sqlLibrary.xml
+1433818517|Nicholas Blair|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/ProjectRowMapperTest.java
+1433818517|Nicholas Blair|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/TaskRowMapperTest.java
+1433818517|Nicholas Blair|A|/star-impl/src/test/resources/log4j.properties
+1433818517|Nicholas Blair|A|/star-rest/pom.xml
+1433818517|Nicholas Blair|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ProjectRestController.java
+1433818517|Nicholas Blair|M|/star-war/pom.xml
+1433818517|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1433818517|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/ApplicationConfiguration.java
+1433818517|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1433818517|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebConfiguration.java
+1433818517|Nicholas Blair|D|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebSecurityConfiguration.java
+1433818517|Nicholas Blair|D|/star-war/src/main/java/edu/wisc/doit/financials/star/web/ProfileController.java
+1433818517|Nicholas Blair|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ConfigurationTest.java
+1433818517|Nicholas Blair|A|/star-war/src/test/resources/log4j.properties
+1433863131|Nicholas Blair|M|/pom.xml
+1433863131|Nicholas Blair|M|/star-api/pom.xml
+1433863131|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Project.java
+1433863131|Nicholas Blair|M|/star-rest/pom.xml
+1433956558|Nicholas Blair|M|/pom.xml
+1433956558|Nicholas Blair|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ProjectSearchResults.java
+1433956558|Nicholas Blair|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ProjectSearchService.java
+1433956558|Nicholas Blair|A|/star-api/src/main/java/edu/wisc/doit/financials/star/SearchCriteria.java
+1433956558|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/ProjectDao.java
+1433956558|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcProjectDaoImpl.java
+1433956558|Nicholas Blair|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ProjectSearchRestController.java
+1433956558|Nicholas Blair|A|/star-search/pom.xml
+1433956558|Nicholas Blair|A|/star-search/src/main/java/edu/wisc/doit/financials/star/search/LuceneProjectSearchServiceImpl.java
+1433956558|Nicholas Blair|A|/star-search/src/main/java/edu/wisc/doit/financials/star/search/ProjectDocument.java
+1433956558|Nicholas Blair|A|/star-search/src/main/java/edu/wisc/doit/financials/star/search/ProjectLuceneIndexDataProvider.java
+1433956558|Nicholas Blair|A|/star-search/src/test/java/edu/wisc/doit/financials/star/search/ProjectLuceneIndexPopulatorImplTest.java
+1433956558|Nicholas Blair|M|/star-war/pom.xml
+1433956558|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1433956558|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/SearchConfiguration.java
+1433956558|Nicholas Blair|M|/star-war/src/main/resources/star.properties
+1433956558|Nicholas Blair|M|/star-war/src/main/webapp/index.html
+1433956558|Nicholas Blair|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ConfigurationTest.java
+1433956558|Nicholas Blair|M|/star-war/src/test/resources/log4j.properties
+1433956867|Nicholas Blair|A|/star-search/src/test/java/edu/wisc/doit/financials/star/search/ProjectLuceneIndexDataProviderTest.java
+1433956867|Nicholas Blair|D|/star-search/src/test/java/edu/wisc/doit/financials/star/search/ProjectLuceneIndexPopulatorImplTest.java
+1434036619|Nicholas Blair|M|/pom.xml
+1434547201|Nicholas Blair|M|/star-search/src/main/java/edu/wisc/doit/financials/star/search/ProjectDocument.java
+1434548947|Nicholas Blair|A|/star-search/src/main/resources/README.md
+1434550747|Nicholas Blair|M|/README.md
+1434550747|Nicholas Blair|M|/pom.xml
+1434550747|Nicholas Blair|A|/star-app/pom.xml
+1434550747|Nicholas Blair|A|/star-localhost/pom.xml
+1434550747|Nicholas Blair|A|/star-localhost/src/etc/jetty-ds.xml
+1434550747|Nicholas Blair|A|/star-localhost/src/etc/resources/log4j-developer.properties
+1434550747|Nicholas Blair|A|/star-localhost/src/etc/tomcat/README.md
+1434550747|Nicholas Blair|A|/star-localhost/src/etc/tomcat/star.xml
+1434550747|Nicholas Blair|M|/star-war/pom.xml
+1434550747|Nicholas Blair|D|/star-war/src/etc/jetty-ds.xml
+1434550747|Nicholas Blair|D|/star-war/src/etc/resources/log4j-developer.properties
+1434550747|Nicholas Blair|D|/star-war/src/etc/tomcat/README.md
+1434550747|Nicholas Blair|D|/star-war/src/etc/tomcat/star.xml
+1434744354|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V2__create-pa_tasks.sql
+1434744379|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/data/V23__insert_projects_and_tasks.sql
+1434987589|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Timecard.java
+1434987589|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1434987589|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1434988723|Nicholas Blair|A|/star-localhost/src/main/webapp/index.html
+1435075922|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V10__create-doit_timecard_summary.sql
+1435075948|Nicholas Blair|M|/star-database/pom.xml
+1435075948|Nicholas Blair|A|/star-database/src/main/java/edu/wisc/doit/financials/star/database/DatabaseMigrationConfiguration.java
+1435075948|Nicholas Blair|D|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/DatabaseMigrationConfiguration.java
+1435076067|Nicholas Blair|A|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardException.java
+1435076067|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1435076067|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Timecard.java
+1435076067|Nicholas Blair|M|/star-impl/pom.xml
+1435076067|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1435076067|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/QueryLibrary.java
+1435076067|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImpl.java
+1435076067|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/TimecardRowMapper.java
+1435076067|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1435076067|Nicholas Blair|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1435076067|Nicholas Blair|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/JdbcTestConfiguration.java
+1435076067|Nicholas Blair|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImplTest.java
+1435076067|Nicholas Blair|M|/star-impl/src/test/resources/log4j.properties
+1435076067|Nicholas Blair|A|/star-impl/src/test/resources/test-environment.properties
+1435076067|Nicholas Blair|M|/star-localhost/pom.xml
+1435076067|Nicholas Blair|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/EmployeeRestController.java
+1435076067|Nicholas Blair|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1435076067|Nicholas Blair|M|/star-war/pom.xml
+1435076067|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1435076067|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1435076067|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebConfiguration.java
+1435084799|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImpl.java
+1435084799|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/EmployeeRestController.java
+1435084799|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1435084799|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/WebConfiguration.java
+1435086098|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1435086152|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/EmployeeRestController.java
+1435086165|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1435169241|Nicholas Blair|M|/pom.xml
+1435169241|Nicholas Blair|M|/star-api/pom.xml
+1435169241|Nicholas Blair|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ChargedTime.groovy
+1435169241|Nicholas Blair|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Project.groovy
+1435169241|Nicholas Blair|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Task.groovy
+1435169241|Nicholas Blair|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Timecard.groovy
+1435169241|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/EmployeeService.java
+1435169241|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1435169241|Nicholas Blair|D|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/ChargedTime.java
+1435169241|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Employee.java
+1435169241|Nicholas Blair|D|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Project.java
+1435169241|Nicholas Blair|D|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Task.java
+1435169241|Nicholas Blair|D|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Timecard.java
+1435169241|Nicholas Blair|D|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/TimecardDetail.java
+1435245229|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ChargedTime.groovy
+1435245229|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Project.groovy
+1435245229|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Task.groovy
+1435245229|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Timecard.groovy
+1435245229|Nicholas Blair|M|/star-impl/pom.xml
+1435245229|Nicholas Blair|A|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/LocalDateHelp.groovy
+1435245229|Nicholas Blair|A|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/ProjectRowMapper.groovy
+1435245229|Nicholas Blair|A|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/TaskRowMapper.groovy
+1435245229|Nicholas Blair|A|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/TimecardRowMapper.groovy
+1435245229|Nicholas Blair|D|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/ProjectRowMapper.java
+1435245229|Nicholas Blair|D|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/TaskRowMapper.java
+1435245229|Nicholas Blair|D|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/TimecardRowMapper.java
+1435245229|Nicholas Blair|M|/star-search/src/test/java/edu/wisc/doit/financials/star/search/ProjectLuceneIndexDataProviderTest.java
+1435599091|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/data/V14.1__insert_more_employee_view_users.sql
+1435599091|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/data/V14__insert_users_into_doit_employee_view.sql
+1435599091|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V4__create_apps_doit_employee_view.sql
+1435599154|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/data/V21__insert_doit_timecard_summary.sql
+1435599404|Nicholas Blair|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/CBSEmployeeRecord.groovy
+1435599404|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Timecard.groovy
+1435599404|Nicholas Blair|A|/star-api/src/main/java/edu/wisc/doit/financials/star/CBSEmployeeRecordService.java
+1435599404|Nicholas Blair|D|/star-api/src/main/java/edu/wisc/doit/financials/star/EmployeeService.java
+1435599404|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1435599404|Nicholas Blair|D|/star-api/src/main/java/edu/wisc/doit/financials/star/v2/Employee.java
+1435599404|Nicholas Blair|A|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/CBSEmployeeRecordRowMapper.groovy
+1435599404|Nicholas Blair|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/TimecardRowMapper.groovy
+1435599404|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/CBSEmployeeRecordDao.java
+1435599404|Nicholas Blair|D|/star-impl/src/main/java/edu/wisc/doit/financials/star/EmployeeDao.java
+1435599404|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1435599404|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/QueryLibrary.java
+1435599404|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcCBSEmployeeRecordDaoImpl.java
+1435599404|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImpl.java
+1435599404|Nicholas Blair|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/CBSEmployeeRecordServiceImpl.java
+1435599404|Nicholas Blair|D|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/EmployeeServiceImpl.java
+1435599404|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1435599404|Nicholas Blair|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1435599404|Nicholas Blair|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcCBSEmployeeRecordDaoImplTest.java
+1435599404|Nicholas Blair|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImplTest.java
+1435599404|Nicholas Blair|M|/star-impl/src/test/resources/log4j.properties
+1435599404|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/EmployeeRestController.java
+1435600070|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/CBSEmployeeRecord.groovy
+1435601846|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/CBSEmployeeRecord.groovy
+1435601846|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1435601846|Nicholas Blair|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/CBSEmployeeRecordRowMapper.groovy
+1435601846|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1435601846|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImpl.java
+1435601846|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/CBSEmployeeRecordServiceImpl.java
+1435601846|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1435601846|Nicholas Blair|A|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImplTest.groovy
+1435601846|Nicholas Blair|D|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImplTest.java
+1435601846|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/EmployeeRestController.java
+1435601846|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1435678500|Nicholas Blair|A|/star-app/src/main/webapp/my-app/history/history.html
+1435678500|Nicholas Blair|A|/star-app/src/main/webapp/my-app/home/home.html
+1435678500|Nicholas Blair|A|/star-app/src/main/webapp/my-app/main.js
+1435678500|Nicholas Blair|A|/star-app/src/main/webapp/my-app/routes.js
+1436286855|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/cbs/V10.1__create_T_DOIT_TIMECARD_SUMMARY_trigger.sql
+1436286855|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/cbs/V11.1__create_T_DOIT_TIMECARD_LOOKUP_trigger.sql
+1436286855|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/cbs/V6.1__create_T_DOIT_TIMECARD_ADMIN_trigger.sql
+1436286855|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/cbs/V7.1__create_T_DOIT_TIMECARD_DETAIL_trigger.sql
+1436286855|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/cbs/V8.1__create_T_DOIT_TIMECARD_HOLIDAY_trigger.sql
+1436286855|Nicholas Blair|A|/star-database/src/main/resources/database/migrations/cbs/V9.1__create_T_DOIT_TIMECARD_PROXY_trigger.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/data/V15__insert_2015_holidays.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/data/V22__insert_doit_timecard_detail.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V10__create-doit_timecard_summary.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V11__create-doit_timecard_hrs_lookup.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V6__create-doit_timecard_admin.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V7__create-doit_timecard_detail.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V8__create-doit_timecard_holiday.sql
+1436287892|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V9__create-doit_timecard_proxy.sql
+1436289707|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V10__create-doit_timecard_summary.sql
+1436289707|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V11__create-doit_timecard_hrs_lookup.sql
+1436289707|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V6__create-doit_timecard_admin.sql
+1436289707|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V7__create-doit_timecard_detail.sql
+1436289707|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V8__create-doit_timecard_holiday.sql
+1436289707|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V9__create-doit_timecard_proxy.sql
+1436291441|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V10__create-doit_timecard_summary.sql
+1436291441|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V11__create-doit_timecard_hrs_lookup.sql
+1436291441|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V6__create-doit_timecard_admin.sql
+1436291441|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V7__create-doit_timecard_detail.sql
+1436291441|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V8__create-doit_timecard_holiday.sql
+1436291441|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/V9__create-doit_timecard_proxy.sql
+1436296956|Collin Cudd|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ChargedTime.groovy
+1436296956|Collin Cudd|A|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapper.groovy
+1436296956|Collin Cudd|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/ChargedTimeDao.java
+1436296956|Collin Cudd|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImpl.java
+1436296956|Collin Cudd|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1436296956|Collin Cudd|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapperTest.java
+1436296956|Collin Cudd|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ChargedTime.groovy
+1436296956|Collin Cudd|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapper.groovy
+1436296956|Collin Cudd|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/LocalDateHelp.groovy
+1436296956|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/ChargedTimeDao.java
+1436296956|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImpl.java
+1436296956|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapperTest.java
+1436296956|Collin Cudd|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplTest.java
+1436296956|Collin Cudd|M|/star-database/src/main/resources/database/migrations/data/V22__insert_doit_timecard_detail.sql
+1436296956|Collin Cudd|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1436296956|Collin Cudd|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ChargedTimeException.java
+1436296956|Collin Cudd|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ChargedTime.groovy
+1436296957|Collin Cudd|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ChargedTime.groovy
+1436296957|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/ChargedTimeDao.java
+1436296957|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImpl.java
+1436296957|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapperTest.java
+1436296957|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplTest.java
+1436297273|Collin Cudd|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapper.groovy
+1436297273|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImpl.java
+1436297273|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapperTest.java
+1436302843|Collin Cudd|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplIntegrationTest.java
+1436302843|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplTest.java
+1436368584|Nicholas Blair|M|/pom.xml
+1436368584|Nicholas Blair|M|/star-database/src/main/resources/database/migrations/local/README.md
+1436368584|Nicholas Blair|M|/star-security/pom.xml
+1436368584|Nicholas Blair|A|/star-security/src/main/java/edu/wisc/doit/financials/star/security/LocalUsersUdsPersonServiceImpl.java
+1436368584|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/UdsPersonConfiguration.java
+1436368584|Nicholas Blair|M|/star-war/src/main/resources/star.properties
+1436368584|Nicholas Blair|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ConfigurationTest.java
+1436368584|Nicholas Blair|A|/star-war/src/test/resources/UDSPerson.wsdl
+1436376250|Collin Cudd|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ValidationResult.groovy
+1436376250|Collin Cudd|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ChargedTimeService.java
+1436376250|Collin Cudd|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ChargedTimeValidationException.java
+1436376250|Collin Cudd|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ChargedTimeValidator.java
+1436376250|Collin Cudd|A|/star-api/src/main/java/edu/wisc/doit/financials/star/ProjectTaskValidator.java
+1436376250|Collin Cudd|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/ChargedTimeServiceImpl.java
+1436376250|Collin Cudd|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1436376250|Collin Cudd|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ProjectTaskValidatorImpl.java
+1436376250|Collin Cudd|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ChargedTimeResponseSupport.java
+1436376250|Collin Cudd|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ChargedTimeRestController.java
+1436376250|Collin Cudd|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ChargedTime.groovy
+1436376250|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/ChargedTimeRowMapperTest.java
+1436376250|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplIntegrationTest.java
+1436376250|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplTest.java
+1436376250|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImpl.java
+1436376250|Collin Cudd|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardResponseSupport.java
+1436376250|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1436376250|Collin Cudd|A|/star-war/src/test/java/edu/wisc/doit/financials/star/web/TimecardRestControllerTest.java
+1436376250|Collin Cudd|A|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ChargedTimeRestControllerTest.java
+1436376250|Collin Cudd|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/ApplicationConfiguration.java
+1436376250|Collin Cudd|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.java
+1436376250|Collin Cudd|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/validation/ProjectTaskValidatorImplTest.java
+1436376250|Collin Cudd|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/StarControllerAdvice.java
+1436391668|Collin Cudd|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ValidationFailure.groovy
+1436391668|Collin Cudd|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ValidationResult.groovy
+1436391668|Collin Cudd|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ValidationSuccess.groovy
+1436391668|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1436391668|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ProjectTaskValidatorImpl.java
+1436391668|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.java
+1437677785|Nicholas Blair|M|/star-app/pom.xml
+1437752776|Nicholas Blair|A|/star-war/src/etc/tomcat/star.xml
+1437752842|Nicholas Blair|M|/README.md
+1437752842|Nicholas Blair|A|/star-app/README.md
+1437752842|Nicholas Blair|A|/star-war/README.md
+1437752842|Nicholas Blair|M|/star-war/pom.xml
+1437753893|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/history/history.html
+1437753893|Joe Van Boxtel|A|/star-app/src/main/webapp/my-app/history/history.js
+1437753893|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/home/home.html
+1437753893|Joe Van Boxtel|A|/star-app/src/main/webapp/my-app/home/home.js
+1437753893|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/main.js
+1437753893|Joe Van Boxtel|A|/star-app/src/main/webapp/my-app/my-app.css
+1437753893|Joe Van Boxtel|A|/star-war/src/main/webapp/welcome/welcome.js
+1438093142|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1438093142|Nicholas Blair|M|/star-war/src/main/webapp/index.html
+1438093142|Nicholas Blair|M|/star-war/src/main/webapp/navigation/navigation.html
+1438093142|Nicholas Blair|M|/star-war/src/main/webapp/welcome/welcome.html
+1438098642|Nicholas Blair|A|/star-database/README.md
+1438108316|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/home/home.js
+1438112145|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/main.js
+1438280434|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1438281545|Craig Knuth|A|/star-app/src/main/webapp/WEB-INF/web.xml
+1438283586|Craig Knuth|M|/pom.xml
+1438283586|Craig Knuth|M|/star-app/pom.xml
+1438286586|Craig Knuth|A|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1438286586|Craig Knuth|A|/star-app/src/main/resources/endpointDefault.properties
+1438286586|Craig Knuth|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1438362188|Craig Knuth|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1438362188|Craig Knuth|D|/star-app/src/main/resources/endpointDefault.properties
+1438362188|Craig Knuth|A|/star-app/src/main/resources/restApiDefault.properties
+1438362411|Craig Knuth|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1438362567|Craig Knuth|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1438697576|Collin Cudd|M|/star-localhost/pom.xml
+1438698813|Collin Cudd|M|/star-localhost/pom.xml
+1438707976|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplIntegrationTest.java
+1438707976|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.java
+1438712990|Nicholas Blair|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1438713097|Nicholas Blair|M|/star-app/pom.xml
+1438713097|Nicholas Blair|A|/star-app/src/etc/resources/log4j-developer.properties
+1438713097|Nicholas Blair|A|/start-app.sh
+1438715560|Nicholas Blair|M|/README.md
+1438715560|Nicholas Blair|M|/pom.xml
+1438715560|Nicholas Blair|D|/star-localhost/pom.xml
+1438715560|Nicholas Blair|D|/star-localhost/src/etc/jetty-ds.xml
+1438715560|Nicholas Blair|D|/star-localhost/src/etc/resources/log4j-developer.properties
+1438715560|Nicholas Blair|D|/star-localhost/src/etc/tomcat/README.md
+1438715560|Nicholas Blair|D|/star-localhost/src/etc/tomcat/star.xml
+1438715560|Nicholas Blair|D|/star-localhost/src/main/webapp/index.html
+1438715560|Nicholas Blair|M|/star-war/pom.xml
+1438715560|Nicholas Blair|A|/star-war/src/etc/jetty-ds.xml
+1438715560|Nicholas Blair|A|/star-war/src/etc/resources/log4j-console.properties
+1438715560|Nicholas Blair|A|/star-war/src/etc/resources/log4j-file.properties
+1438715560|Nicholas Blair|A|/start-service.sh
+1438715946|Nicholas Blair|M|/README.md
+1438718768|Nicholas Blair|M|/star-war/pom.xml
+1438718768|Nicholas Blair|D|/star-war/src/etc/resources/log4j-console.properties
+1438718768|Nicholas Blair|D|/star-war/src/etc/resources/log4j-file.properties
+1438718768|Nicholas Blair|A|/star-war/src/main/resources/log4j-console.properties
+1438718768|Nicholas Blair|A|/star-war/src/main/resources/log4j-file.properties
+1438781695|Nicholas Blair|M|/pom.xml
+1438782357|Nicholas Blair|M|/star-app/pom.xml
+1438782357|Nicholas Blair|M|/start-app.sh
+1438795390|Craig Knuth|M|/.gitignore
+1438795390|Craig Knuth|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/CBSEmployeeRecord.groovy
+1438795390|Craig Knuth|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/CBSEmployeeRecordRowMapper.groovy
+1438876985|Craig Knuth|M|/star-database/src/main/resources/database/migrations/data/V14__insert_users_into_doit_employee_view.sql
+1438876985|Craig Knuth|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcCBSEmployeeRecordDaoImplTest.java
+1438882126|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/history/history.html
+1438882126|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/home/home.html
+1438882126|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/main.js
+1438882126|Joe Van Boxtel|A|/star-app/src/main/webapp/my-app/partials/nav.html
+1438885664|Dan Cash|A|/star-database/src/main/resources/database/migrations/data/V24__insert_doit_timecard_summary.sql
+1438885664|Dan Cash|A|/star-database/src/main/resources/database/migrations/data/V25__insert_doit_timecard_detail.sql
+1438895860|Craig Knuth|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/CBSEmployeeRecord.groovy
+1438895860|Craig Knuth|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/CBSEmployeeRecordRowMapper.groovy
+1438895860|Craig Knuth|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcCBSEmployeeRecordDaoImplTest.java
+1438962594|Craig Knuth|A|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardValidationException.java
+1438962594|Craig Knuth|A|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardValidator.java
+1438962594|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1438962594|Craig Knuth|A|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImpl.java
+1438962594|Craig Knuth|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImplTest.java
+1438962597|Craig Knuth|A|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/jdbc/TimecardValidatorImplTest.groovy
+1438962597|Craig Knuth|D|/star-impl/src/test/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImplTest.java
+1438962599|Craig Knuth|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/jdbc/TimecardValidatorImplTest.groovy
+1438966995|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/CBSEmployeeRecordDao.java
+1438966995|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcCBSEmployeeRecordDaoImpl.java
+1438966995|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1438966995|Craig Knuth|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1438966995|Craig Knuth|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcCBSEmployeeRecordDaoImplTest.java
+1438968803|Nicholas Blair|M|/star-app/pom.xml
+1438968803|Nicholas Blair|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1438968803|Nicholas Blair|A|/star-app/src/main/java/edu/wisc/doit/financials/star/app/WebSecurityConfiguration.java
+1438968803|Nicholas Blair|A|/star-app/src/main/resources/buildNumber.properties
+1438968803|Nicholas Blair|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1438972838|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1438972838|Craig Knuth|D|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/jdbc/TimecardValidatorImplTest.groovy
+1438972838|Craig Knuth|A|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.groovy
+1438972838|Craig Knuth|A|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/TimecardValidatorImplTest.groovy
+1438972838|Craig Knuth|D|/star-impl/src/test/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.java
+1438972896|Nicholas Blair|M|/pom.xml
+1438972896|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.js
+1438972896|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1438976429|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1438976429|Craig Knuth|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.groovy
+1438977380|Craig Knuth|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardValidationException.java
+1438977380|Craig Knuth|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardValidator.java
+1438977380|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcCBSEmployeeRecordDaoImpl.java
+1438977380|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1438977380|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImpl.java
+1438978608|Nicholas Blair|M|/pom.xml
+1438978608|Nicholas Blair|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1438978608|Nicholas Blair|D|/star-app/src/main/java/edu/wisc/doit/financials/star/app/WebSecurityConfiguration.java
+1438978608|Nicholas Blair|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1438981359|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1438981359|Craig Knuth|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.groovy
+1439222516|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1439222516|Craig Knuth|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImpl.java
+1439222516|Craig Knuth|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.groovy
+1439222516|Craig Knuth|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/TimecardValidatorImplTest.groovy
+1439234404|Collin Cudd|M|/pom.xml
+1439234404|Collin Cudd|M|/star-war/pom.xml
+1439234404|Collin Cudd|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1439234404|Collin Cudd|M|/star-app/pom.xml
+1439234404|Collin Cudd|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1439234404|Collin Cudd|M|/pom.xml
+1439234404|Collin Cudd|M|/star-app/src/main/resources/restApiDefault.properties
+1439234404|Collin Cudd|M|/star-war/src/etc/jetty-ds.xml
+1439234404|Collin Cudd|M|/star-war/src/main/resources/star.properties
+1439234404|Collin Cudd|M|/star-war/src/main/webapp/index.html
+1439234975|Collin Cudd|M|/star-war/src/etc/jetty-ds.xml
+1439235004|Collin Cudd|M|/pom.xml
+1439235004|Collin Cudd|M|/star-war/src/main/webapp/index.html
+1439308404|Dan Cash|A|/star-database/src/main/resources/database/migrations/cbs/V14__DOIT_UPLOAD_TIMECARDS.pks
+1439308628|Dan Cash|A|/star-database/src/main/resources/database/migrations/cbs/V14.1__DOIT_UPLOAD_TIMECARDS.pkb
+1439326192|Craig Knuth|M|/star-app/src/main/webapp/my-app/home/home.js
+1439326192|Craig Knuth|M|/star-database/src/main/resources/database/migrations/data/V14.1__insert_more_employee_view_users.sql
+1439326192|Craig Knuth|M|/star-database/src/main/resources/database/migrations/data/V14__insert_users_into_doit_employee_view.sql
+1439326599|Craig Knuth|M|/README.md
+1439393477|Nicholas Blair|M|/pom.xml
+1439393477|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1439838220|Collin Cudd|M|/pom.xml
+1439838220|Collin Cudd|M|/star-app/pom.xml
+1439838220|Collin Cudd|M|/star-app/pom.xml
+1439838220|Collin Cudd|A|/star-app/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1439838220|Collin Cudd|A|/star-app/src/main/resources/preauth.properties
+1439838220|Collin Cudd|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1439838382|Collin Cudd|M|/pom.xml
+1439838382|Collin Cudd|M|/star-app/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1439838382|Collin Cudd|D|/star-app/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1439838382|Collin Cudd|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1439838383|Collin Cudd|M|/pom.xml
+1439838383|Collin Cudd|M|/star-app/pom.xml
+1439838383|Collin Cudd|A|/star-app/src/main/java/edu/wisc/doit/financials/star/app/STARWebSecurityConfiguration.java
+1439838383|Collin Cudd|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1439838383|Collin Cudd|M|/star-app/pom.xml
+1439838383|Collin Cudd|M|/star-app/README.md
+1440014242|Collin Cudd|D|/star-app/src/main/java/edu/wisc/doit/financials/star/app/STARWebSecurityConfiguration.java
+1440014242|Collin Cudd|A|/star-app/src/main/java/edu/wisc/doit/financials/star/app/StarWebSecurityConfiguration.java
+1440014242|Collin Cudd|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1440014242|Collin Cudd|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1440014242|Collin Cudd|D|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/STARWebSecurityConfiguration.java
+1440014242|Collin Cudd|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/StarWebSecurityConfiguration.java
+1440529129|Nicholas Blair|M|/pom.xml
+1440529129|Nicholas Blair|M|/star-app/pom.xml
+1441212294|Nicholas Blair|M|/star-app/src/main/webapp/my-app/history/history.html
+1441212294|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441215717|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/ChargedTimeService.java
+1441215717|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/ChargedTimeDao.java
+1441215717|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImpl.java
+1441215717|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/ChargedTimeServiceImpl.java
+1441215717|Nicholas Blair|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplIntegrationTest.java
+1441215717|Nicholas Blair|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImplTest.java
+1441215717|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ChargedTimeRestController.java
+1441215717|Nicholas Blair|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ChargedTimeRestControllerTest.java
+1441216859|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/StarWebSecurityConfiguration.java
+1441224970|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ChargedTimeRestController.java
+1441289699|Nicholas Blair|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ChargedTimeRestControllerTest.java
+1441292214|Nicholas Blair|M|/star-api/pom.xml
+1441292214|Nicholas Blair|A|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/TimecardStatus.groovy
+1441292214|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1441292214|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardValidator.java
+1441292214|Nicholas Blair|A|/star-api/src/test/groovy/edu/wisc/doit/financials/star/v2/TimecardStatusTest.groovy
+1441292214|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1441292214|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImpl.java
+1441292214|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1441292214|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImpl.java
+1441292214|Nicholas Blair|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1441292214|Nicholas Blair|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImplTest.groovy
+1441292214|Nicholas Blair|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/TimecardValidatorImplTest.groovy
+1441292214|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1441292677|Nicholas Blair|M|/star-app/src/main/webapp/my-app/history/history.html
+1441292677|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441292677|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441292677|Nicholas Blair|A|/star-app/src/main/webapp/my-app/partials/header.html
+1441293353|Paul Erickson|M|/star-app/src/main/webapp/my-app/history/history.html
+1441293353|Paul Erickson|M|/star-app/src/main/webapp/my-app/history/history.js
+1441293353|Paul Erickson|A|/star-app/src/main/webapp/my-app/history/import/controller.js
+1441293353|Paul Erickson|A|/star-app/src/main/webapp/my-app/history/import/dropdown.html
+1441293353|Paul Erickson|A|/star-app/src/main/webapp/my-app/history/import/module.js
+1441293353|Paul Erickson|M|/star-app/src/main/webapp/my-app/home/home.js
+1441293353|Paul Erickson|M|/star-app/src/main/webapp/my-app/main.js
+1441294531|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImpl.java
+1441294531|Nicholas Blair|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/TimecardValidatorImplTest.groovy
+1441294896|Collin Cudd|M|/star-app/src/main/webapp/my-app/history/history.html
+1441294896|Collin Cudd|M|/star-app/src/main/webapp/my-app/history/history.html
+1441294896|Collin Cudd|M|/star-app/src/main/webapp/my-app/history/history.js
+1441294896|Collin Cudd|M|/star-app/src/main/webapp/my-app/main.js
+1441300302|Collin Cudd|A|/star-app/src/main/webapp/my-app/history/import/dropdown.html
+1441307689|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/history/history.html
+1441307689|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/history/history.js
+1441307689|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/home/home.js
+1441307689|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/main.js
+1441377694|Collin Cudd|M|/pom.xml
+1441378475|Nicholas Blair|D|/star-app/src/main/webapp/my-app/history/history.html
+1441378475|Nicholas Blair|D|/star-app/src/main/webapp/my-app/history/history.js
+1441378475|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441378475|Nicholas Blair|M|/star-app/src/main/webapp/my-app/partials/nav.html
+1441378475|Nicholas Blair|M|/star-app/src/main/webapp/my-app/routes.js
+1441378475|Nicholas Blair|A|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441378475|Nicholas Blair|A|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441378475|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Timecard.groovy
+1441378475|Nicholas Blair|A|/star-api/src/test/groovy/edu/wisc/doit/financials/star/v2/TimecardTest.groovy
+1441378475|Nicholas Blair|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1441378475|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441378674|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441378674|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441378674|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441378674|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441378674|Nicholas Blair|A|/star-app/src/main/webapp/my-app/projects/projects.js
+1441378674|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441378730|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441378778|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441386330|Nicholas Blair|D|/star-app/src/main/webapp/my-app/history/import/controller.js
+1441386330|Nicholas Blair|D|/star-app/src/main/webapp/my-app/history/import/dropdown.html
+1441386330|Nicholas Blair|D|/star-app/src/main/webapp/my-app/history/import/module.js
+1441386330|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441386330|Nicholas Blair|A|/star-app/src/main/webapp/my-app/timecard/import/controller.js
+1441386330|Nicholas Blair|A|/star-app/src/main/webapp/my-app/timecard/import/dropdown.html
+1441386330|Nicholas Blair|A|/star-app/src/main/webapp/my-app/timecard/import/module.js
+1441387412|Collin Cudd|M|/pom.xml
+1441387412|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441387413|Collin Cudd|M|/star-app/src/main/webapp/my-app/main.js
+1441387413|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441387413|Collin Cudd|M|/star-rest/pom.xml
+1441387413|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ChargedTimeRestController.java
+1441387413|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1441387413|Collin Cudd|A|/star-rest/src/test/java/edu/wisc/doit/financials/star/rest/ChargedTimeResponseSupportTest.java
+1441387413|Collin Cudd|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ChargedTimeRestControllerTest.java
+1441387413|Collin Cudd|M|/star-app/src/main/webapp/my-app/main.js
+1441388014|Collin Cudd|M|/star-rest/src/test/java/edu/wisc/doit/financials/star/rest/ChargedTimeResponseSupportTest.java
+1441388014|Collin Cudd|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ChargedTimeRestControllerTest.java
+1441391734|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/history/history.html
+1441391734|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/history/history.js
+1441393343|Collin Cudd|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Timecard.groovy
+1441393343|Collin Cudd|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/TimecardRowMapper.groovy
+1441393343|Collin Cudd|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1441398619|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441398619|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441398619|Nicholas Blair|D|/star-app/src/main/webapp/my-app/partials/nav.html
+1441398619|Nicholas Blair|A|/star-app/src/main/webapp/samples/sidebar.json
+1441638150|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441638150|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441722158|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441722463|Collin Cudd|M|/star-app/src/main/webapp/my-app/my-app.css
+1441722463|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441724456|Joe Van Boxtel|D|/star-app/src/main/webapp/my-app/history/history.js
+1441727214|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441727506|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441737889|Paul Erickson|M|/.gitignore
+1441737889|Paul Erickson|M|/pom.xml
+1441737889|Paul Erickson|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/ValidationResult.groovy
+1441737889|Paul Erickson|M|/star-api/src/main/java/edu/wisc/doit/financials/star/ChargedTimeValidationException.java
+1441737889|Paul Erickson|M|/star-app/src/main/webapp/my-app/main.js
+1441737889|Paul Erickson|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/TimecardValidatorImpl.java
+1441737889|Paul Erickson|M|/star-security/src/main/java/edu/wisc/doit/financials/star/security/LocalUsersUdsPersonServiceImpl.java
+1441739312|Collin Cudd|M|/star-app/src/main/webapp/my-app/main.js
+1441739312|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441739312|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441739313|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/EmployeeRestController.java
+1441739313|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ProjectSearchRestController.java
+1441739313|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/StarControllerAdvice.java
+1441739313|Collin Cudd|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/TimecardRowMapperTest.java
+1441739342|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/StarControllerAdvice.java
+1441739342|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441739342|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441739944|Joe Van Boxtel|D|/star-app/src/main/webapp/my-app/history/history.js
+1441745375|Nicholas Blair|M|/.gitignore
+1441745375|Nicholas Blair|M|/pom.xml
+1441745375|Nicholas Blair|M|/star-app/pom.xml
+1441745375|Nicholas Blair|A|/star-app/src/main/webapp/bower.json
+1441745375|Nicholas Blair|A|/star-app/src/main/webapp/config.js
+1441745375|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441745375|Nicholas Blair|A|/star-app/src/main/webapp/package.json
+1441745375|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441745375|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.js
+1441745375|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441745375|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441745375|Nicholas Blair|M|/star-app/src/main/webapp/my-app/my-app.css
+1441745376|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441745376|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.js
+1441745376|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441745376|Nicholas Blair|M|/star-rest/pom.xml
+1441745376|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1441746218|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1441746218|Nicholas Blair|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1441746218|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1441808174|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1441808174|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.js
+1441808174|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1441910950|Nicholas Blair|M|/star-app/src/main/webapp/samples/sidebar.json
+1441999665|Collin Cudd|M|/star-app/src/main/webapp/my-app/main.js
+1441999665|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441999665|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1441999665|Collin Cudd|M|/pom.xml
+1441999665|Collin Cudd|M|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/jdbc/TaskRowMapper.groovy
+1441999665|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcProjectDaoImpl.java
+1441999665|Collin Cudd|M|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/TaskRowMapperTest.java
+1441999665|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1441999665|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442009127|Collin Cudd|M|/pom.xml
+1442009160|Collin Cudd|M|/star-search/src/main/java/edu/wisc/doit/financials/star/search/LuceneProjectSearchServiceImpl.java
+1442009160|Collin Cudd|M|/star-search/src/main/java/edu/wisc/doit/financials/star/search/ProjectDocument.java
+1442343291|Collin Cudd|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/StarControllerAdvice.java
+1442343291|Collin Cudd|A|/star-rest/src/test/java/edu/wisc/doit/financials/star/rest/StarControllerAdviceTest.java
+1442437614|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/home/home.html
+1442437614|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/home/home.js
+1442437614|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442438393|Joe Van Boxtel|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442510647|Nicholas Blair|A|/star-war/src/etc/tomcat/ROOT.xml
+1442510647|Nicholas Blair|D|/star-war/src/etc/tomcat/star.xml
+1442512275|Nicholas Blair|M|/pom.xml
+1442512275|Nicholas Blair|M|/star-war/README.md
+1442512275|Nicholas Blair|M|/star-war/pom.xml
+1442512275|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1442523037|Nicholas Blair|M|/star-war/pom.xml
+1442609205|Nicholas Blair|M|/pom.xml
+1442609205|Nicholas Blair|M|/star-security/src/main/java/edu/wisc/doit/financials/star/security/LocalUsersUdsPersonServiceImpl.java
+1442609205|Nicholas Blair|M|/star-war/pom.xml
+1442609205|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/StarApplicationInitializer.java
+1442609205|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/LocalEmployeesConfiguration.java
+1442609205|Nicholas Blair|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/StarWebSecurityConfiguration.java
+1442609205|Nicholas Blair|A|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/UdsEmployeesConfiguration.java
+1442609205|Nicholas Blair|A|/star-war/src/main/resources/serviceAccounts.properties
+1442609205|Nicholas Blair|M|/star-war/src/main/resources/star.properties
+1442609205|Nicholas Blair|M|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ConfigurationTest.java
+1442845500|Collin Cudd|M|/star-app/src/main/webapp/my-app/main.js
+1442845500|Collin Cudd|M|/star-app/src/main/webapp/my-app/main.js
+1442845500|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1442845643|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442845643|Collin Cudd|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImpl.java
+1442845643|Collin Cudd|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/validation/ChargedTimeValidatorImplTest.groovy
+1442866875|Collin Cudd|M|/pom.xml
+1442866875|Collin Cudd|M|/star-app/src/main/resources/restApiDefault.properties
+1442868467|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442868467|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1442868467|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442868467|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442927160|Collin Cudd|M|/star-app/src/main/webapp/my-app/my-app.css
+1442927160|Collin Cudd|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1442936815|Craig Knuth|M|/star-war/src/main/java/edu/wisc/doit/financials/star/configuration/ApplicationConfiguration.java
+1442936815|Craig Knuth|A|/star-war/src/main/java/edu/wisc/doit/financials/star/logging/AuthenticationSwitchUserEventListener.java
+1442937919|Nicholas Blair|M|/star-rest/pom.xml
+1442937919|Nicholas Blair|A|/star-rest/src/test/java/edu/wisc/doit/financials/star/rest/ChargedTimeRestControllerTest.java
+1442937919|Nicholas Blair|A|/star-rest/src/test/java/edu/wisc/doit/financials/star/rest/TimecardRestControllerTest.java
+1442937919|Nicholas Blair|D|/star-war/src/test/java/edu/wisc/doit/financials/star/web/ChargedTimeRestControllerTest.java
+1442937919|Nicholas Blair|D|/star-war/src/test/java/edu/wisc/doit/financials/star/web/TimecardRestControllerTest.java
+1442940414|Nicholas Blair|M|/star-war/src/main/webapp/docs/index.html
+1442940521|Nicholas Blair|M|/README.md
+1442941291|Nicholas Blair|M|/star-app/src/main/resources/restApiDefault.properties
+1442950066|Craig Knuth|M|/star-war/src/main/java/edu/wisc/doit/financials/star/logging/AuthenticationSwitchUserEventListener.java
+1442950651|Nicholas Blair|M|/star-app/src/main/resources/restApiDefault.properties
+1442950651|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.html
+1442950651|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.js
+1442950651|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1442950651|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1442950651|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1442950651|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ChargedTimeResponseSupport.java
+1442950651|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ChargedTimeRestController.java
+1442950651|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1442950651|Nicholas Blair|M|/star-rest/src/test/java/edu/wisc/doit/financials/star/rest/ChargedTimeRestControllerTest.java
+1442952404|Joe Van Boxtel|M|/star-app/README.md
+1442952404|Joe Van Boxtel|M|/star-app/src/main/webapp/bower.json
+1442952404|Joe Van Boxtel|M|/star-app/src/main/webapp/package.json
+1442952404|Joe Van Boxtel|A|/star-app/src/main/webapp/tests/e2e/features/example.feature
+1442952404|Joe Van Boxtel|A|/star-app/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1442952404|Joe Van Boxtel|A|/star-app/src/main/webapp/tests/e2e/protractor-conf.js
+1442952522|Joe Van Boxtel|M|/star-app/README.md
+1442954952|Joe Van Boxtel|M|/README.md
+1442955025|Joe Van Boxtel|M|/README.md
+1442955055|Joe Van Boxtel|M|/README.md
+1442955178|Joe Van Boxtel|M|/README.md
+1442955219|Joe Van Boxtel|M|/README.md
+1442969868|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1445451569|Nicholas Blair|M|/pom.xml
+1445451569|Nicholas Blair|M|/star-app/src/main/webapp/config.js
+1445451635|Nicholas Blair|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1445451635|Nicholas Blair|A|/star-app/src/main/java/edu/wisc/doit/financials/star/app/WebConfiguration.java
+1445451635|Nicholas Blair|A|/star-app/src/main/java/edu/wisc/doit/financials/star/app/rest/Build.java
+1445451635|Nicholas Blair|A|/star-app/src/main/java/edu/wisc/doit/financials/star/app/rest/CustomSessionController.java
+1445451635|Nicholas Blair|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1445451635|Nicholas Blair|A|/star-app/src/main/webapp/js/app-config.js
+1445452015|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445452015|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445456469|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445456469|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445456469|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445456469|zekeWitter|A|/star-app/src/main/webapp/my-app/partials/pagination.html
+1445456551|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445456551|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445459400|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445459400|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445459600|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445529847|Nicholas Blair|M|/star-app/pom.xml
+1445530176|Nicholas Blair|D|/star-app/src/main/webapp/tests/e2e/features/example.feature
+1445530176|Nicholas Blair|A|/star-app/src/main/webapp/tests/e2e/features/language.feature
+1445530176|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1445530176|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/protractor-conf.js
+1445533922|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1445533922|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/features/language.feature
+1445533922|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1445615837|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445615837|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445615837|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445615837|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/pagination.html
+1445617862|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445617862|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445617862|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445617946|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445618417|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445618417|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445625945|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445625945|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445625945|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445625945|zekeWitter|A|/star-app/src/main/webapp/my-app/partials/paginationTop.html
+1445626312|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1445626312|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1445627074|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445627074|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445630096|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445630096|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/paginationTop.html
+1445630174|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/paginationTop.html
+1445630783|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/paginationTop.html
+1445633125|Paul Erickson|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImpl.java
+1445633125|Paul Erickson|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1445869141|Nicholas Blair|M|/star-app/pom.xml
+1445873711|Nicholas Blair|M|/star-app/pom.xml
+1445873711|Nicholas Blair|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
+1445874594|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445874594|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445874594|zekeWitter|M|/star-app/src/main/webapp/my-app/main.js
+1445874594|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445874594|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/pagination.html
+1445877372|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445877372|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445877372|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/pagination.html
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/main.js
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/pagination.html
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445877499|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/pagination.html
+1445879052|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/paginationTop.html
+1445882082|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1445882082|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1445884421|Nicholas Blair|M|/star-app/src/main/webapp/my-app/timecard/timecard.js
+1445884421|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1445884421|Nicholas Blair|A|/star-app/src/main/webapp/tests/e2e/features/timecard.feature
+1445959025|Nicholas Blair|M|/star-app/pom.xml
+1445959025|Nicholas Blair|M|/star-app/src/main/webapp/WEB-INF/web.xml
+1445959361|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1445959361|Nicholas Blair|M|/star-app/src/main/webapp/tests/e2e/features/timecard.feature
+1445964306|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/ChargedTimeDao.java
+1445964306|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/TimecardDao.java
+1445964306|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcChargedTimeDaoImpl.java
+1445964306|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImpl.java
+1445964306|Nicholas Blair|M|/star-impl/src/main/resources/database/sqlLibrary.xml
+1445964306|Nicholas Blair|M|/star-impl/src/test/groovy/edu/wisc/doit/financials/star/jdbc/SpringJdbcTimecardDaoImplTest.groovy
+1445964306|Nicholas Blair|A|/star-impl/src/test/java/edu/wisc/doit/financials/star/jdbc/README.md
+1445966166|Nicholas Blair|M|/star-api/src/main/groovy/edu/wisc/doit/financials/star/v2/Timecard.groovy
+1445966166|Nicholas Blair|M|/star-api/src/main/java/edu/wisc/doit/financials/star/TimecardService.java
+1445966166|Nicholas Blair|M|/star-impl/pom.xml
+1445966166|Nicholas Blair|A|/star-impl/src/main/groovy/edu/wisc/doit/financials/star/services/TimecardServiceImplTest.groovy
+1445966166|Nicholas Blair|M|/star-impl/src/main/java/edu/wisc/doit/financials/star/services/TimecardServiceImpl.java
+1445966166|Nicholas Blair|M|/star-search/pom.xml
+1445966166|Nicholas Blair|M|/star-war/pom.xml
+1445969880|Nicholas Blair|A|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/ErrorMessage.java
+1445969880|Nicholas Blair|M|/star-rest/src/main/java/edu/wisc/doit/financials/star/rest/TimecardRestController.java
+1445969916|Nicholas Blair|M|/star-app/src/main/webapp/my-app/home/home.js
+1445969916|Nicholas Blair|M|/star-app/src/main/webapp/my-app/main.js
+1446052305|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1446052305|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1446052305|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1446052305|zekeWitter|M|/star-app/src/main/webapp/my-app/partials/paginationTop.html
+1446052466|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.html
+1446052466|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1446052466|zekeWitter|M|/star-app/src/main/webapp/my-app/my-app.css
+1446052617|zekeWitter|M|/star-app/src/main/webapp/my-app/home/home.js
+1446055968|Jamie Gutkowski|M|/star-app/src/main/webapp/my-app/my-app.css
+1446055968|Jamie Gutkowski|M|/star-app/src/main/webapp/my-app/timecard/timecard.html
+1446057570|Nicholas Blair|M|/star-app/src/main/java/edu/wisc/doit/financials/star/app/ApplicationConfiguration.java
