@@ -1,0 +1,964 @@
+1311279797|npblair|A|/wisccal-sched-assist/.project
+1311279797|npblair|A|/wisccal-sched-assist/.settings/org.maven.ide.eclipse.prefs
+1311279797|npblair|A|/wisccal-sched-assist/bootstrap/ant-contrib-1.0b3.jar
+1311279797|npblair|A|/wisccal-sched-assist/build-SAMPLE.properties
+1311279797|npblair|A|/wisccal-sched-assist/build.xml
+1311279797|npblair|A|/wisccal-sched-assist/pom.xml
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/.classpath
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/.project
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/.settings/org.eclipse.jdt.core.prefs
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/.settings/org.maven.ide.eclipse.prefs
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImplTest.java
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/.classpath
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/.project
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/.settings/org.eclipse.jdt.core.prefs
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/.settings/org.maven.ide.eclipse.prefs
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/.springBeans
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/chub-client.xml
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/relationshipSources.xml
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/scheduledTasks.xml
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/body-start.jsp
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/head-elements-nojs.jsp
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/head-elements.jsp
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/extras.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/schedule-view.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/visitor-common.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/ie6.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/ie7.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/ie8.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/main_one_column.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/mozilla2.css
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/crest.png
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/nav_bg.jpg
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/nav_button_border.gif
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/shell_bg.png
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/site-title.png
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/tan-hdr-bottom.jpg
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/window-bg-not-horizontal-menu.jpg
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/window-bg.jpg
+1311279797|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/wordmark.gif
+1311279906|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/META-INF/context-SAMPLE.xml
+1312229778|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1312229788|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1312229808|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1312229834|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/ehcache.xml
+1314281983|npblair|M|/wisccal-sched-assist/build.xml
+1314284624|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1314285944|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1314289009|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1314734493|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1314734493|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1314802403|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1314818241|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1314818426|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1314886975|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImplTest.java
+1314887786|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1314887786|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1314889184|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1314908520|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1314986271|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1316201104|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1316459002|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1316459002|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1316459002|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImplTest.java
+1316459002|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/chub-client.xml
+1316701160|npblair|M|/wisccal-sched-assist/pom.xml
+1316702544|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1316716766|npblair|M|/wisccal-sched-assist/pom.xml
+1316716766|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/.classpath
+1316716766|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/.project
+1316716766|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/.settings/org.eclipse.jdt.core.prefs
+1316716766|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/.settings/org.maven.ide.eclipse.prefs
+1316716766|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1316716766|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/i18n/Messages.properties
+1316716766|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/scheduling-assistant-SAMPLE.properties
+1316725424|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1316725523|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1316725743|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1316725990|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/resources/log4j.properties
+1316726537|npblair|M|/wisccal-sched-assist/pom.xml
+1317151850|npblair|M|/wisccal-sched-assist/pom.xml
+1317237453|npblair|M|/wisccal-sched-assist/pom.xml
+1317237453|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1317237453|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1317247199|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1317325251|npblair|M|/wisccal-sched-assist/build.xml
+1317325251|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1317328130|npblair|M|/wisccal-sched-assist/pom.xml
+1317328130|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1317328130|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1317390330|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1317390338|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1317740896|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1317740896|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1317740896|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1317740896|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImplTest.java
+1317741257|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1317744473|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/body-end.jsp
+1317829180|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1317915870|npblair|M|/wisccal-sched-assist/pom.xml
+1317915870|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1317915870|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1317915870|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1317999749|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/log4j-SAMPLE.properties
+1318001199|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1318002374|npblair|M|/wisccal-sched-assist/pom.xml
+1318002374|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1318002374|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1318002374|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1318004182|npblair|M|/wisccal-sched-assist/build-SAMPLE.properties
+1318004202|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1318005598|npblair|M|/wisccal-sched-assist/pom.xml
+1318005598|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1318005598|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1318005598|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1318361515|npblair|M|/wisccal-sched-assist/pom.xml
+1318361515|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1318361515|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1318361754|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/relationshipSources.xml
+1318366583|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1319553023|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1319553990|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1319554007|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1319554580|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1319642082|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1319642082|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1319642097|npblair|M|/wisccal-sched-assist/pom.xml
+1319642109|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1319746631|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1319823546|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1319823563|npblair|M|/wisccal-sched-assist/pom.xml
+1319827732|npblair|M|/wisccal-sched-assist/pom.xml
+1319827732|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1319827732|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1319827732|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1321306332|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1321455153|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1321455376|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1321455535|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1321457193|npblair|M|/wisccal-sched-assist/pom.xml
+1321457193|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1321457193|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1321457193|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1321458664|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1321458925|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1321459027|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1321887837|npblair|M|/wisccal-sched-assist/pom.xml
+1321887837|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1321887837|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1321887837|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1321974406|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1321978259|npblair|M|/wisccal-sched-assist/pom.xml
+1321978259|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1321978259|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1321978259|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1323376463|npblair|M|/wisccal-sched-assist/pom.xml
+1323376511|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1323875691|npblair|M|/wisccal-sched-assist/pom.xml
+1323967036|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1325705910|npblair|D|/wisccal-sched-assist/bootstrap/ant-contrib-1.0b3.jar
+1325705910|npblair|A|/wisccal-sched-assist/bootstrap/cli-tools.xml
+1325705910|npblair|A|/wisccal-sched-assist/bootstrap/command-line-SAMPLE.properties
+1325705910|npblair|A|/wisccal-sched-assist/bootstrap/lib/ant-contrib-1.0b3.jar
+1325705910|npblair|A|/wisccal-sched-assist/bootstrap/lib/maven-ant-tasks-2.0.10.jar
+1325705910|npblair|M|/wisccal-sched-assist/build-SAMPLE.properties
+1325705910|npblair|M|/wisccal-sched-assist/build.xml
+1325706123|npblair|M|/wisccal-sched-assist/build.xml
+1325706384|npblair|M|/wisccal-sched-assist/build.xml
+1326304282|npblair|M|/wisccal-sched-assist/pom.xml
+1326304282|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1326304282|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1326486459|npblair|M|/wisccal-sched-assist/pom.xml
+1326486542|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1326489095|npblair|M|/wisccal-sched-assist/pom.xml
+1326489095|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1326489095|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1326489095|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1326490014|npblair|M|/wisccal-sched-assist/pom.xml
+1326490014|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1326490014|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1326490014|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1330108563|npblair|M|/wisccal-sched-assist/pom.xml
+1330108563|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1330108563|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1330108563|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1330108714|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1330108714|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/ldap/UWLDAPAttributesKeyImpl.java
+1330108714|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/LoginPageController.java
+1330108714|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1330108714|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1330108714|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1330108714|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1330108714|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/ehcache.xml
+1330108714|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1330108714|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1330108730|npblair|M|/wisccal-sched-assist/build.xml
+1330108806|npblair|D|/wisccal-sched-assist/.project
+1330108806|npblair|D|/wisccal-sched-assist/.settings/org.maven.ide.eclipse.prefs
+1330108832|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-portlet/.classpath
+1330108832|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-portlet/.project
+1330108832|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-portlet/.settings/org.eclipse.jdt.core.prefs
+1330108832|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-portlet/.settings/org.maven.ide.eclipse.prefs
+1330108842|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-relationships/.classpath
+1330108842|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-relationships/.project
+1330108842|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-relationships/.settings/org.eclipse.jdt.core.prefs
+1330108842|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-relationships/.settings/org.maven.ide.eclipse.prefs
+1330108853|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-war/.classpath
+1330108853|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-war/.project
+1330108853|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-war/.settings/org.eclipse.jdt.core.prefs
+1330108853|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-war/.settings/org.maven.ide.eclipse.prefs
+1330359635|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1330359635|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1330359658|npblair|M|/wisccal-sched-assist/build-SAMPLE.properties
+1330360340|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1330360357|npblair|M|/wisccal-sched-assist/build.xml
+1330362245|npblair|M|/wisccal-sched-assist/build.xml
+1330367265|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/extras.css
+1330367313|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/schedule-view.css
+1330367313|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/visitor-common.css
+1330450109|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1330450109|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1330450125|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1330453453|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1330453453|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1330462184|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/uw-login-choice.jsp
+1330462184|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/schedassist-servlet.xml
+1330466692|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1330466692|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/security/LogoutSuccessHandlerImpl.java
+1330466692|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1330717927|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/ldap/UWLDAPAttributesKeyImpl.java
+1330717927|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/security/LogoutSuccessHandlerImpl.java
+1330717927|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/LoginPageController.java
+1330717927|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1330717927|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1330717927|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1330717927|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/mailplus-logout.jsp
+1330717927|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/web.xml
+1330718072|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1330981070|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/advisors/UWAdvisorListRelationshipDataSourceImpl.java
+1330981070|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/advisors/UWAdvisorListRelationshipDataSourceImplTest.java
+1330981070|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/relationshipSources.xml
+1331071450|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/ehcache.xml
+1331071460|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1331071477|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/extras.css
+1331158703|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1333466214|npblair|A|/wisccal-sched-assist/bootstrap/integration-test-SAMPLE.properties
+1333466214|npblair|M|/wisccal-sched-assist/build.xml
+1333468833|npblair|M|/wisccal-sched-assist/pom.xml
+1333468833|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1333468833|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/DelegatePlaceholderController.java
+1333468833|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1333468833|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/resources-disabled.jsp
+1333468833|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/schedassist-servlet.xml
+1333724718|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImplTest.java
+1333726184|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImplTest.java
+1333728272|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1333988708|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1333988708|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/img/reflection-example.png
+1333992423|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImplTest.java
+1335201606|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/i18n/Messages.properties
+1335201637|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/java/edu/wisc/wisccal/schedassist/visitors/WiscCalPortletScheduleVisitorFactoryImpl.java
+1335201637|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/webapp/WEB-INF/applicationContext.xml
+1335201637|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/webapp/WEB-INF/portlet.xml
+1335201637|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/webapp/WEB-INF/schedulingAssistantPortletContext.xml
+1335201733|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/DelegatePlaceholderController.java
+1335201733|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1335201733|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1335201733|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1335201733|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/schedassist-servlet.xml
+1335207110|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1335211543|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/body-start.jsp
+1335535154|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/i18n/Messages.properties
+1336144906|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/scheduling-assistant-SAMPLE.properties
+1336163532|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1336403579|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1337005965|npblair|M|/wisccal-sched-assist/build.xml
+1337023115|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1337188687|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1337188751|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/relationshipSources.xml
+1337189856|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/advisors/UWAdvisorListRelationshipDataSourceImpl.java
+1337193405|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/advisors/UWAdvisorListRelationshipDataSourceImpl.java
+1337193405|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/advisors/UWAdvisorListRelationshipDataSourceImplTest.java
+1337193405|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/resources/test-U_DA_ADVISOR.txt
+1337193415|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/relationshipSources.xml
+1337709295|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/caldav/PreemptiveAuthInterceptor.java
+1337709295|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/caldav/UWCaldavCalendarDataDaoImpl.java
+1337709295|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1337801659|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/caldav/PreemptiveAuthInterceptor.java
+1337801659|npblair|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/caldav/UWCaldavCalendarDataDaoImpl.java
+1337801659|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1337801659|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1337801695|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/admin/UWRelationshipsForOwnerController.java
+1337801695|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/admin/account-details.jsp
+1337801695|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/includes.jsp
+1337801695|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/schedassist-servlet.xml
+1337869346|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1337869722|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1338304303|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/java/edu/wisc/wisccal/schedassist/visitors/WiscCalPortletScheduleVisitorFactoryImpl.java
+1338304318|npblair|M|/wisccal-sched-assist/pom.xml
+1338404373|npblair|M|/wisccal-sched-assist/build.xml
+1338488331|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1338492002|npblair|M|/wisccal-sched-assist/pom.xml
+1338492095|npblair|M|/wisccal-sched-assist/pom.xml
+1338492095|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1338492095|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1338492095|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1338492099|npblair|M|/wisccal-sched-assist/pom.xml
+1338492099|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1338492099|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1338492099|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1338826181|npblair|M|/wisccal-sched-assist/pom.xml
+1338826181|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/admin/UWRelationshipsForOwnerController.java
+1338904856|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/admin/account-details.jsp
+1339159494|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1339159494|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1339164188|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/log4j-SAMPLE.properties
+1340642420|npblair|M|/wisccal-sched-assist/pom.xml
+1347914791|npblair|M|/wisccal-sched-assist/pom.xml
+1347914791|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1347914791|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1347914791|npblair|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1350576649|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/ical4j.properties
+1350576649|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/SupportCaseTests.java
+1350576649|npblair|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/resources/example-data/event-with-email-param.ics
+1368477834|dalquist|M|/wisccal-sched-assist/pom.xml
+1368477834|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1368477834|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1368551685|dalquist|M|/wisccal-sched-assist/bootstrap/cli-tools.xml
+1368551685|dalquist|M|/wisccal-sched-assist/bootstrap/command-line-SAMPLE.properties
+1368551685|dalquist|M|/wisccal-sched-assist/bootstrap/integration-test-SAMPLE.properties
+1368551685|dalquist|M|/wisccal-sched-assist/build-SAMPLE.properties
+1368551685|dalquist|M|/wisccal-sched-assist/build.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/java/edu/wisc/wisccal/schedassist/visitors/WiscCalPortletScheduleVisitorFactoryImpl.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/i18n/Messages.properties
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/log4j-SAMPLE.properties
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/scheduling-assistant-SAMPLE.properties
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/webapp/WEB-INF/applicationContext.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/webapp/WEB-INF/portlet.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/webapp/WEB-INF/schedulingAssistantPortletContext.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/advisors/UWAdvisorListRelationshipDataSourceImpl.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/advisors/UWAdvisorListRelationshipDataSourceImplTest.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImplTest.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/resources/log4j.properties
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/resources/test-U_DA_ADVISOR.txt
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/ldap/UWLDAPAttributesKeyImpl.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/security/LogoutSuccessHandlerImpl.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/LoginPageController.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/admin/UWRelationshipsForOwnerController.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/chub-client.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/relationshipSources.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/scheduledTasks.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/ehcache.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/ical4j.properties
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/META-INF/context-SAMPLE.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/admin/account-details.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/includes.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/mailplus-logout.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/resources-disabled.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/body-end.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/body-start.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/head-elements-nojs.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/head-elements.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/uw-login-choice.jsp
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/schedassist-servlet.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/web.xml
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/extras.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/schedule-view.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/css/visitor-common.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/ie6.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/ie7.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/ie8.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/main_one_column.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/css/mozilla2.css
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/SupportCaseTests.java
+1368551685|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImplTest.java
+1368551795|dalquist|A|/wisccal-sched-assist/NOTICE
+1368551795|dalquist|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/NOTICE
+1368551795|dalquist|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/NOTICE
+1368551795|dalquist|A|/wisccal-sched-assist/wisccal-sched-assist-war/NOTICE
+1368552025|dalquist|A|/wisccal-sched-assist/LICENSE
+1368552025|dalquist|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/LICENSE
+1368552025|dalquist|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/LICENSE
+1368552025|dalquist|A|/wisccal-sched-assist/wisccal-sched-assist-war/LICENSE
+1368552577|dalquist|M|/wisccal-sched-assist/pom.xml
+1368552577|dalquist|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/resources/test-U_DA_ADVISOR.txt
+1368553795|role_MUM-overlay_portal|M|/wisccal-sched-assist/pom.xml
+1368553795|role_MUM-overlay_portal|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1368553795|role_MUM-overlay_portal|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1368553795|role_MUM-overlay_portal|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1368553805|role_MUM-overlay_portal|M|/wisccal-sched-assist/pom.xml
+1368553805|role_MUM-overlay_portal|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1368553805|role_MUM-overlay_portal|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1368553805|role_MUM-overlay_portal|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1374776896|ctcudd|M|/wisccal-sched-assist/pom.xml
+1374776896|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1374776896|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1374776896|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/.springBeans
+1374776896|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1374776896|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1374776896|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/classes/log4j.properties
+1374776896|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/head-elements.jsp
+1374780381|ctcudd|M|/wisccal-sched-assist/NOTICE
+1374780381|ctcudd|A|/wisccal-sched-assist/license-mappings.xml
+1374780381|ctcudd|M|/wisccal-sched-assist/pom.xml
+1374780381|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/NOTICE
+1374780381|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/NOTICE
+1374780381|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/NOTICE
+1374780808|ctcudd|M|/wisccal-sched-assist/pom.xml
+1374780988|ctcudd|M|/wisccal-sched-assist/pom.xml
+1374780988|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1374780988|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1374780988|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1374780994|ctcudd|M|/wisccal-sched-assist/pom.xml
+1374780994|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1374780994|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1374780994|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1375476259|ctcudd|M|/wisccal-sched-assist/pom.xml
+1375476259|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1375476259|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1375476259|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/classes/log4j.properties
+1375476259|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImplTest.java
+1375476428|ctcudd|M|/wisccal-sched-assist/NOTICE
+1375476428|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/NOTICE
+1375476599|ctcudd|M|/wisccal-sched-assist/pom.xml
+1375476599|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1375476599|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1375476599|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1375476604|ctcudd|M|/wisccal-sched-assist/pom.xml
+1375476604|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1375476604|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1375476604|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1376674612|ctcudd|M|/wisccal-sched-assist/pom.xml
+1376674612|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1376674612|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1376674612|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1376675272|ctcudd|M|/wisccal-sched-assist/NOTICE
+1376675272|ctcudd|M|/wisccal-sched-assist/pom.xml
+1376675272|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/NOTICE
+1376675272|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/NOTICE
+1376686484|ctcudd|M|/wisccal-sched-assist/NOTICE
+1376686539|ctcudd|M|/wisccal-sched-assist/pom.xml
+1376686539|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1376686539|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1376686539|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1376686543|ctcudd|M|/wisccal-sched-assist/pom.xml
+1376686543|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1376686543|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1376686543|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1381099040|ctcudd|M|/wisccal-sched-assist/pom.xml
+1381099040|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/webapp/WEB-INF/applicationContext.xml
+1381099040|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/.springBeans
+1381099040|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/ldap/UWLDAPAttributesKeyImpl.java
+1381099040|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1382393459|ctcudd|M|/wisccal-sched-assist/pom.xml
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.classpath
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.project
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.eclipse.core.resources.prefs
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.eclipse.jdt.core.prefs
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.eclipse.m2e.core.prefs
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.sonar.ide.eclipse.core.prefs
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/maven-archiver/pom.properties
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/wisccal-sched-assist-integration-test-1.6.4-SNAPSHOT.jar
+1382393459|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1382393459|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1382393459|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/ldap/UWLDAPAttributesKeyImpl.java
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext.xml
+1382393459|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData-caldav.xml
+1382393459|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/classes/log4j.properties
+1382393459|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/schedassist-servlet.xml
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/impl/AppContextIntegrationTest.java
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/impl/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/org/jasig/schedassist/impl/owner/AlwaysTrueOwnerAuthorizationImpl.java
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/resources/contexts/applicationContext-test.xml
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/resources/contexts/databaseContext-test.xml
+1382393459|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/resources/log4j.properties
+1382476065|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/maven-archiver/pom.properties
+1382476065|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+1382476065|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+1382476065|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/target/wisccal-sched-assist-integration-test-1.6.4-SNAPSHOT.jar
+1382476293|ctcudd|M|/wisccal-sched-assist/pom.xml
+1382476538|ctcudd|M|/wisccal-sched-assist/pom.xml
+1382476538|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1382542702|ctcudd|M|/wisccal-sched-assist/pom.xml
+1382542702|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1382639941|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.project
+1382639941|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.eclipse.core.resources.prefs
+1382639941|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.eclipse.jdt.core.prefs
+1382639941|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.eclipse.m2e.core.prefs
+1382639941|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.settings/org.sonar.ide.eclipse.core.prefs
+1382639941|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1382640184|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.classpath
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/AbstractIntegrationTest.java
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavAccountIntegrationTest.java
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeAccountIntegrationTest.java
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/applicationContext-test.xml
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-context-test.xml
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/example-allday-event.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/example-group-appointment-with-explicit-timezone.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/example-group-appointment.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/example-individual-appointment-schedule-status.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/example-individual-appointment-with-explicit-timezone.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/example-individual-appointment.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/example-non-scheduling-assistant-conflict.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/databaseContext-test.xml
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-context-test.xml
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-allday-event.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-group-appointment-with-explicit-timezone.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-group-appointment.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-individual-appointment-schedule-status.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-individual-appointment-with-explicit-timezone.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-individual-appointment.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-non-scheduling-assistant-conflict.ics
+1382640334|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/log4j.properties
+1382640374|ctcudd|M|/wisccal-sched-assist/pom.xml
+1382722884|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1382722884|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1382722884|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeAccountIntegrationTest.java
+1382722884|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-allday-event.ics
+1382722884|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-group-appointment-with-explicit-timezone.ics
+1382722884|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-group-appointment.ics
+1382722884|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-individual-appointment-schedule-status.ics
+1382722884|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-individual-appointment-with-explicit-timezone.ics
+1382722884|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-individual-appointment.ics
+1382722884|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-non-scheduling-assistant-conflict.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-allday-event.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-group-appointment-with-explicit-timezone.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-group-appointment.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-individual-appointment-schedule-status.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-individual-appointment-with-explicit-timezone.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-individual-appointment.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/exchange-examples/example-non-scheduling-assistant-conflict.ics
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/impl/AppContextIntegrationTest.java
+1382722884|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/impl/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1382723003|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/exchange-SAMPLE.properties
+1382924711|ctcudd|M|/wisccal-sched-assist/pom.xml
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavAccountIntegrationTest.java
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1382924711|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/applicationContext-test.xml
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-context-test.xml
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-group-appointment-with-explicit-timezone.ics
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-group-appointment.ics
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-individual-appointment-schedule-status.ics
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-individual-appointment-with-explicit-timezone.ics
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/exchange-vevent-examples/example-individual-appointment.ics
+1382924711|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/log4j.properties
+1383040393|ctcudd|M|/wisccal-sched-assist/pom.xml
+1383040393|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1383040393|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1383040393|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/log4j.properties
+1383154590|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/exchange.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/exchange.PROD.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/exchange.TEST.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/mockCalendarAccounts.PROD.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/mockCalendarAccounts.TEST.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVP.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVT.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.PROD.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.QA.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.TEST.properties
+1383154590|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant-SAMPLE.properties
+1383154590|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant.properties
+1383662205|ctcudd|M|/wisccal-sched-assist/pom.xml
+1383662205|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1383662205|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1383662205|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1383662205|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/mockCalendarAccounts.PROD.properties
+1383662205|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/mockCalendarAccounts.TEST.properties
+1383662205|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVP.properties
+1383675724|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavAccountIntegrationTest.java
+1383675724|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1383675724|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/prod/example-allday-event.ics
+1383675724|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/prod/example-group-appointment-with-explicit-timezone.ics
+1383675724|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/prod/example-group-appointment.ics
+1383675724|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/prod/example-individual-appointment-schedule-status.ics
+1383675724|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/prod/example-individual-appointment-with-explicit-timezone.ics
+1383675724|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/prod/example-individual-appointment.ics
+1383675724|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/caldav-vevent-examples/prod/example-non-scheduling-assistant-conflict.ics
+1383675724|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1383675724|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/mockCalendarAccounts.PROD.properties
+1383691809|ctcudd|M|/wisccal-sched-assist/pom.xml
+1383692204|ctcudd|M|/wisccal-sched-assist/NOTICE
+1383692204|ctcudd|M|/wisccal-sched-assist/license-mappings.xml
+1383692204|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/NOTICE
+1383692204|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/AbstractIntegrationTest.java
+1383692204|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1383692204|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/NOTICE
+1383692204|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/NOTICE
+1383692204|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/NOTICE
+1383692581|ctcudd|M|/wisccal-sched-assist/pom.xml
+1383692581|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1383692581|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1383692581|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1383692581|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1383692588|ctcudd|M|/wisccal-sched-assist/pom.xml
+1383692588|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1383692588|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1383692588|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1383692588|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1386073935|ctcudd|M|/wisccal-sched-assist/pom.xml
+1386073935|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1386073935|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1386073935|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1386073935|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1387293636|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1387293636|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1387293636|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1387293636|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1387293636|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/log4j.properties
+1387293636|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/exchange.PROD.properties
+1387293636|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/log4j.PROD.properties
+1387293636|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/log4j.TEST.properties
+1387293636|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVP.properties
+1387293636|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant.properties
+1387299783|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVT.properties
+1387299783|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.PROD.properties
+1387299783|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.QA.properties
+1387299783|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.TEST.properties
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1395116218|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeTimeZoneConverterIntegrationTest.java
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImplTest.java
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/.springBeans
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/ldap/UWLDAPAttributesKeyImpl.java
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/security/LogoutSuccessHandlerImpl.java
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext.xml
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/exchange.properties
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/exchange.TEST.properties
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVP.properties
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVT.properties
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.PROD.properties
+1395116218|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.TEST.properties
+1400183830|ctcudd|M|/wisccal-sched-assist/pom.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/edu/wisc/wisccal/chub/ChubIntegrationTest.java
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/SOAPSchedulingAssistantServiceIntegrationTest.java
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/applicationContext-test.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/log4j.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/transition-context-test.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImplTest.java
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/.springBeans
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/build.xml
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/lib/ant-contrib-1.0b3.jar
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/admin/UWRelationshipsForOwnerController.java
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarData.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/chub-client.xml
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/databaseContext.xml
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/transition-context.xml
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/exchange.properties
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/log4j.properties
+1400183830|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.BASE.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.DEVP.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.DEVT.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.PROD.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.QA.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.TEST.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.BASE.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.DEVP.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.DEVT.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.PROD.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.TEST.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.BASE.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVP.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVT.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.PROD.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.TEST.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/mockCalendarAccounts.BASE.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/mockCalendarAccounts.DEVP.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/mockCalendarAccounts.DEVT.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/mockCalendarAccounts.PROD.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/mockCalendarAccounts.TEST.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.BASE.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVP.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.PROD.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.QA.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.TEST.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.BASE.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.DEVP.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.DEVT.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.PROD.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.QA.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.TEST.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/exchange.PROD.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/exchange.TEST.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/log4j.PROD.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/log4j.TEST.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/mockCalendarAccounts.PROD.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/mockCalendarAccounts.TEST.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVP.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.DEVT.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.PROD.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.QA.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/props/scheduling-assistant.TEST.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/scheduling-assistant.properties
+1400183830|ctcudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/classes/log4j.properties
+1400183830|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/IntegrationTest.java
+1402407038|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/PortletIntegrationTest.java
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1402407038|ctcudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/portletContext-test.xml
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/test/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImplTest.java
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/transition-context.xml
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/log4j.properties
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVT.properties
+1402407038|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/body-start.jsp
+1404154501|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1404154501|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1404154501|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/transition-context-test.xml
+1404154501|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/IntegrationTest.java
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeTimeZoneConverterIntegrationTest.java
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/applicationContext-test.xml
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/log4j.properties
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVP.properties
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.PROD.properties
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.QA.properties
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.TEST.properties
+1405447919|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/web.xml
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/log4j.properties
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVP.properties
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.PROD.properties
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.QA.properties
+1406149386|ctcudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.TEST.properties
+1408557764|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1408557764|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/themes/jasig/body-start.jsp
+1408557764|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/site-title.png
+1408557764|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/themes/uw-2011/images/site-title.png,BACK
+1408557764|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/data/IntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/edu/wisc/wisccal/chub/ChubIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/SOAPSchedulingAssistantServiceIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavAccountIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeAccountIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeTimeZoneConverterIntegrationTest.java
+1408558002|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1408558257|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/calendarAccounts-ldap.xml
+1408558257|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.BASE.properties
+1408558257|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVP.properties
+1408558257|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1408558257|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.PROD.properties
+1408558257|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.QA.properties
+1408558257|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.TEST.properties
+1408559516|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1408559680|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1408559680|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext.xml
+1408559874|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/log4j.properties
+1408559874|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVP.properties
+1408559982|Collin Cudd|A|/wisccal-sched-assist/.gitignore
+1408559982|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.gitignore
+1408559982|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-portlet/.gitignore
+1408559982|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-relationships/.gitignore
+1408559982|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/.gitignore
+1408573691|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext.xml
+1408574050|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/admin/account-details.jsp
+1409762047|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1410204779|Collin Cudd|M|/wisccal-sched-assist/.gitignore
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/applicationContext-test.xml
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/src/main/resources/scheduling-assistant-SAMPLE.properties
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVP.properties
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVT.properties
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.TEST.properties
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVP.properties
+1410204779|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1410457554|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1410457554|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1410789281|Collin Cudd|M|/wisccal-sched-assist/.gitignore
+1411669718|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-portlet/pom.xml
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/pom.xml
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext.xml
+1411669718|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/transition-context.xml
+1411669718|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/transition-context.xml.BACK
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVT.properties
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVP.properties
+1411669718|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.PROD.properties
+1412005541|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1412005541|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/.gitignore
+1412005541|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1412005541|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1412005541|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1412005541|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/.gitignore
+1412005541|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-relationships/src/main/java/edu/wisc/wisccal/schedassist/relationships/instructors/InstructorRelationshipDaoImpl.java
+1412005541|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/lib/ant-contrib-1.0b3.jar
+1412005541|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1412005541|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/integration/WiscCalSchedAssistIntegrationTest.java
+1412014153|Collin Cudd|M|/wisccal-sched-assist/.gitignore
+1412014153|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1412014153|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/mockCalendarAccounts.properties
+1412700962|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/transition-context.xml
+1412700962|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.DEVP.properties
+1412700962|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/caldav2Exchange.PROD.properties
+1413814489|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1414592437|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1414592437|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1414592437|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.DEVT.properties
+1417723285|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavIntegrationTest.java
+1417723285|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/WiscCalSchedulingAssistantCaldavCalendarDataDaoIntegrationTest.java
+1417723285|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeAccountIntegrationTest.java
+1417723285|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeIntegrationTest.java
+1417723285|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/WiscCalSchedulingAssistantExchangeAccountIntegrationTest.java
+1417723285|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/WiscCalSchedulingAssistantExchangeCalendarDataDaoIntegrationTest.java
+1417723285|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/ldap/UWLDAPCalendarAccountDaoImpIntegrationTest.java
+1417723329|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1417723329|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/edu/wisc/wisccal/chub/ChubIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/SOAPSchedulingAssistantServiceIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/CaldavAccountIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/caldav/WiscCalSchedulingAssistantCaldavCalendarDataDaoIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/composite/CompositeSchedulingAssistantServiceImplIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/ExchangeTimeZoneConverterIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/WiscCalSchedulingAssistantExchangeAccountIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/exchange/WiscCalSchedulingAssistantExchangeCalendarDataDaoIntegrationTest.java
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/resources/applicationContext-test.xml
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext.xml
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/transition-context.xml
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1417723588|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/integration/WiscCalSchedAssistIntegrationTest.java
+1417723690|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/affiliations/UWAffiliationSourceImpl.java
+1417723690|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1417723749|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.DEVP.properties
+1417723749|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.DEVT.properties
+1417723749|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.PROD.properties
+1417723749|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/exchange.TEST.properties
+1417723749|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/mockCalendarAccounts.DEVP.properties
+1417723749|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/mockCalendarAccounts.TEST.properties
+1420661478|Collin Cudd|M|/wisccal-sched-assist/.gitignore
+1420661478|Collin Cudd|A|/wisccal-sched-assist/mvn-SAMPLE.properties
+1420661478|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1420661478|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1420661478|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1420661478|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1420661478|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/index.jsp
+1420661478|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/web.xml
+1420661478|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1420825953|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1420825953|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1420825953|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/applicationContext-integration.xml
+1420825953|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1420825953|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/integration/ApplicationIntegrationTest.java
+1421429285|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/overrides/localOverridesContext.xml
+1423670766|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/integration/ApplicationIntegrationTest.java
+1423862327|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1423862327|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/security/LogoutSuccessHandlerImpl.java
+1423862327|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/web/LoginPageController.java
+1423862327|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/transition-context.xml
+1423862327|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/security.xml
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/transition-context.xml
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.QA.properties
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.TEST.properties
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.BASE.properties
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.DEVP.properties
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.DEVT.properties
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.PROD.properties
+1427387833|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.TEST.properties
+1427387867|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/java/edu/wisc/wisccal/schedassist/data/UWEventUtilsImpl.java
+1427387961|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/webapp/WEB-INF/jsp/admin/account-details.jsp
+1427388079|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/integration/WiscCalSchedAssistIntegrationTest.java
+1427388301|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/transition-context.xml
+1428327837|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1428327868|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/transition-context.xml
+1428331000|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/edu/wisc/wisccal/schedassist/integration/WiscCalSchedAssistIntegrationTest.java
+1428938073|Collin Cudd|M|/wisccal-sched-assist/.gitignore
+1428938073|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1428938073|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/build.xml
+1428938073|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/contexts/integration/transition-context.xml
+1428938073|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.BASE.properties
+1428938073|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.DEVP.properties
+1428938073|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.DEVT.properties
+1428938073|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.PROD.properties
+1428938073|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.QA.properties
+1428938073|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/share.TEST.properties
+1428938073|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.BASE.properties
+1428938073|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.DEVP.properties
+1428938073|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.DEVT.properties
+1428938073|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.PROD.properties
+1428938073|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.QA.properties
+1428938073|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.TEST.properties
+1428938344|Collin Cudd|M|/wisccal-sched-assist/.gitignore
+1428938437|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/java/org/jasig/schedassist/impl/owner/ScheduleOwnerAuditor.java
+1428938437|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/resources/contexts/sched-audit.xml
+1428938603|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.PROD.properties
+1428938603|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/log4j.TEST.properties
+1428938603|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/test/resources/log4j.properties
+1428950237|Collin Cudd|A|/wisccal-sched-assist/README.md
+1428950237|Collin Cudd|A|/wisccal-sched-assist/wisccal-sched-assist-war/scripts/tomcatctl.sh
+1428952379|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/i18n/Messages.properties
+1428957209|Collin Cudd|M|/wisccal-sched-assist/README.md
+1429551144|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1429551144|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1442250887|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1442250887|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1442250887|Collin Cudd|D|/wisccal-sched-assist/wisccal-sched-assist-integration-test/src/test/java/org/jasig/schedassist/integration/PortletIntegrationTest.java
+1442253318|Collin Cudd|M|/wisccal-sched-assist/.gitignore
+1442253318|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1442253318|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1442255656|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/pom.xml
+1442256961|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1442258666|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1442258666|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-integration-test/pom.xml
+1442259810|Collin Cudd|M|/wisccal-sched-assist/pom.xml
+1444165407|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1444165407|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.TEST.properties
+1444165407|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.DEVT.properties
+1444165407|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.TEST.properties
+1444663398|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/scripts/tomcatctl.sh
+1444663398|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.DEVT.properties
+1444663398|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/scheduling-assistant.TEST.properties
+1444663398|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.DEVT.properties
+1444663398|Collin Cudd|M|/wisccal-sched-assist/wisccal-sched-assist-war/src/main/resources/properties/shareurl-client.TEST.properties

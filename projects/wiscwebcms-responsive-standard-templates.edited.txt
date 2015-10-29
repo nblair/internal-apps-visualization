@@ -1,0 +1,699 @@
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/README.md
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/uw-classic.css
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/vendor/animate.css
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.css
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.min.css
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/vendor/normalize.css
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/vendor/owl.carousel.css
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/vendor/owl.carousel.min.css
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/006553e8-f513-4aeb-805a-7781a30b1bb2.svg
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/055ac9f4-28a5-49a7-a54e-fd7d20678142.woff
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/2d5ac1a0-558a-47a9-bfce-acc2cb1d670d.eot
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/38503d67-a4d3-4fad-903a-c001beb0e186.eot
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/4762d4af-ac97-4e77-abd6-a40fa0c2b964.svg
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/4793a160-f364-44d5-a3ba-b38de72d62aa.eot
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/54347c1d-ba82-4e05-9e87-3dddb3902b2c.woff
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/5c0e8d90-e924-4e6c-832a-40773cea761e.woff
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/6f2ea2ba-2663-4dcd-80c1-2ede554ecffa.ttf
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/7d0b57aa-b375-40bd-b872-5bc2a5af1714.svg
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/7ec2b857-e5b8-4291-95d4-82b76af73fe9.ttf
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/96e45055-b99a-472c-8cfc-ac4ae1c65110.eot
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/97df99ad-8e3a-45cc-9e20-f21709bb7322.ttf
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/a3eeab6f-eb9e-4115-bb38-ab043636fc6d.ttf
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/bedb1dd5-06ae-4b04-869f-38561a959175.svg
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/c8ffd33b-7f59-4efd-ad34-10f0a04b0bde.eot
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/d1566950-bbc2-430c-9baa-c48bcf5d5fde.woff
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/e4fbe05a-441c-457d-b655-9202c7c715fa.svg
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/e589333f-315f-49ab-bfba-8361bd5e0e17.ttf
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/e5f6292c-8734-47a2-8bac-0d2c056a0d62.ttf
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/ec8c3982-a26e-42fa-bdc6-f08c64d29c84.woff
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/f01aa703-3e59-4d44-b3cc-f1802bde6e7f.woff
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/fa1556b2-930d-4e93-8556-064bde494517.svg
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/fonts/fbc32f4d-13c3-48c1-8a99-f5f4aa12ac80.eot
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/crest.png
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/favicon.ico
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/index.html
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/noise.png
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/uw-classic-starter.gif
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/uwcrest_web_sm.png
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/uwcrest_web_sm_60_transparent.png
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/wordmark.png
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/ww-logo-short.png
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/uw-foundation.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/uw-foundation.min.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/uw-templates.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/uw-templates.min.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/fastclick.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation.min.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/jgfeed.min.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.cookie.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.cycle2.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.cycle2.min.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/modernizr.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/moment.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/moment.min.js
+1414007976|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/placeholder.js
+1414428828|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/uw-classic.css
+1414428828|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.css
+1414428828|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.min.css
+1414428828|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/vendor/owl.carousel.css
+1414428828|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/vendor/owl.carousel.min.css
+1414428828|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/fastclick.js
+1414428828|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation.min.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.abide.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.accordion.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.accordion.min.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.alert.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.clearing.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.dropdown.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.equalizer.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.interchange.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.joyride.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.magellan.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.offcanvas.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.orbit.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.reveal.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.slider.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.tab.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.tooltip.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.topbar.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/jgfeed.js
+1414428828|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.js
+1414428828|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/modernizr.js
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/modules/_blank-file.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/modules/_functions.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/modules/_settings.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/modules/_theme.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/modules/_uw-classic.theme.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_accordions.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_animate.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_aside.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_breadcrumbs.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_carousel.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_footer.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_grid.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_image-with-caption.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_images.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_mediaElement.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_navigation.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_news.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_rss.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_sidebar-navigation.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_sidebar.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_slideshow.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/partials/_tabs.uw-classic.scss
+1414430466|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/scss/uw-classic.scss
+1414435501|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/.gitignore
+1414435501|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/uw-classic.css
+1414435501|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/noise.png
+1414435501|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/uw-classic-starter.gif
+1414435501|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/wordmark.png
+1414436515|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/config.rb
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/modules/_blank-file.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/modules/_functions.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/modules/_settings.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/modules/_theme.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/modules/_uw-classic.theme.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_accordions.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_animate.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_aside.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_breadcrumbs.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_carousel.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_footer.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_grid.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_image-with-caption.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_images.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_mediaElement.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_news.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_rss.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_sidebar-navigation.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_sidebar.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_slideshow.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_tabs.uw-classic.scss
+1414436515|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/modules/_blank-file.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/modules/_functions.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/modules/_settings.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/modules/_theme.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/modules/_uw-classic.theme.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_accordions.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_animate.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_aside.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_breadcrumbs.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_carousel.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_footer.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_grid.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_image-with-caption.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_images.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_mediaElement.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_navigation.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_news.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_rss.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_sidebar-navigation.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_sidebar.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_slideshow.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/partials/_tabs.uw-classic.scss
+1414436515|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/scss/uw-classic.scss
+1414586872|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/uw-templates.js
+1414586872|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/uw-templates.min.js
+1414586872|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_carousel.uw-classic.scss
+1414586872|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_image-gallery.uw-classic.scss
+1414586872|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_images.uw-classic.scss
+1414586872|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1414617311|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_carousel.uw-classic.scss
+1414679136|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1414701571|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_carousel.uw-classic.scss
+1415051640|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_image-with-caption.scss
+1415051640|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.css
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.min.css
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/vendor/normalize.css
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation.min.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.abide.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.accordion.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.alert.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.clearing.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.dropdown.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.equalizer.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.interchange.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.joyride.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.magellan.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.offcanvas.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.orbit.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.reveal.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.slider.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.tab.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.tooltip.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.topbar.js
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_carousel.uw-classic.scss
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_image-with-caption.scss
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_sidebar.uw-classic.scss
+1415139275|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1415218901|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_image-with-caption.scss
+1415218901|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_images.uw-classic.scss
+1415376414|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1415376414|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/config.rb
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/src/vendor/animate.css
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/src/vendor/foundation.css
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/css/src/vendor/normalize.css
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/vendor/animate.css
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.css
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/vendor/foundation.min.css
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/vendor/normalize.css
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/006553e8-f513-4aeb-805a-7781a30b1bb2.svg
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/055ac9f4-28a5-49a7-a54e-fd7d20678142.woff
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/2d5ac1a0-558a-47a9-bfce-acc2cb1d670d.eot
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/38503d67-a4d3-4fad-903a-c001beb0e186.eot
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/4762d4af-ac97-4e77-abd6-a40fa0c2b964.svg
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/4793a160-f364-44d5-a3ba-b38de72d62aa.eot
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/54347c1d-ba82-4e05-9e87-3dddb3902b2c.woff
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/5c0e8d90-e924-4e6c-832a-40773cea761e.woff
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/6f2ea2ba-2663-4dcd-80c1-2ede554ecffa.ttf
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/7d0b57aa-b375-40bd-b872-5bc2a5af1714.svg
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/7ec2b857-e5b8-4291-95d4-82b76af73fe9.ttf
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/96e45055-b99a-472c-8cfc-ac4ae1c65110.eot
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/97df99ad-8e3a-45cc-9e20-f21709bb7322.ttf
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/a3eeab6f-eb9e-4115-bb38-ab043636fc6d.ttf
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/bedb1dd5-06ae-4b04-869f-38561a959175.svg
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/c8ffd33b-7f59-4efd-ad34-10f0a04b0bde.eot
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/d1566950-bbc2-430c-9baa-c48bcf5d5fde.woff
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/e4fbe05a-441c-457d-b655-9202c7c715fa.svg
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/e589333f-315f-49ab-bfba-8361bd5e0e17.ttf
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/e5f6292c-8734-47a2-8bac-0d2c056a0d62.ttf
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/ec8c3982-a26e-42fa-bdc6-f08c64d29c84.woff
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/f01aa703-3e59-4d44-b3cc-f1802bde6e7f.woff
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/fa1556b2-930d-4e93-8556-064bde494517.svg
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/fonts/fbc32f4d-13c3-48c1-8a99-f5f4aa12ac80.eot
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/crest.png
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/favicon.ico
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/src/crest.png
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/src/favicon.ico
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/src/uwcrest_web_sm.png
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/src/uwcrest_web_sm_60_transparent.png
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/img/src/ww-logo-short.png
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/uwcrest_web_sm.png
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/uwcrest_web_sm_60_transparent.png
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/img/ww-logo-short.png
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/dist/modernizr.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/dist/modernizr.min.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw-foundation.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/fastclick.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.abide.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.accordion.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.accordion.min.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.alert.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.clearing.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.dropdown.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.equalizer.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.interchange.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.joyride.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.magellan.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.offcanvas.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.orbit.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.reveal.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.slider.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.tab.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.tooltip.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.topbar.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/jgfeed.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/jquery.cookie.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/jquery.cycle2.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/uw-foundation.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/uw-foundation.min.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/uw-templates.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/uw-templates.min.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/fastclick.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation.min.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.abide.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.accordion.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.accordion.min.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.alert.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.clearing.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.dropdown.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.equalizer.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.interchange.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.joyride.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.magellan.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.offcanvas.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.orbit.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.reveal.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.slider.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.tab.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.tooltip.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/foundation/foundation.topbar.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/jgfeed.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/jgfeed.min.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.cookie.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.cycle2.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.cycle2.min.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/jquery.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/modernizr.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/moment.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/moment.min.js
+1415398151|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/vendor/placeholder.js
+1415398151|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/package.json
+1415398151|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_accordions.uw-classic.scss
+1415398151|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1415398151|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1415398681|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/README.md
+1415398984|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/README.md
+1421768778|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1421768778|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1421768778|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1421768778|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1421768778|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1421768778|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1421768778|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1422396095|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1422396095|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1422396095|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1422396095|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1422396095|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1422396095|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/sass/partials/_google-search.scss
+1422396095|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1422396095|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1422559965|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1422559965|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1422559965|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1422559965|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1422559965|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_sidebar.uw-classic.scss
+1423078616|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1423078616|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1423078616|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1423078616|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1423078616|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_carousel.uw-classic.scss
+1425399923|April Ebacher|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1425399923|April Ebacher|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1425399923|April Ebacher|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1425399923|April Ebacher|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1425399923|April Ebacher|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/MBball_Elite8_StateSt14_4512.jpg
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/Terrace_night_music14_5217.jpg
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/bball-thumb.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/crest.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/favicon.ico
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/space-small.jpg
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/terrace-night-thumb.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/uwcrest_web_sm.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/uwcrest_web_sm_60_transparent.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/dist/ww-logo-short.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/src/MBball_Elite8_StateSt14_4512.jpg
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/src/Terrace_night_music14_5217.jpg
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/src/bball-thumb.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/src/space-small.jpg
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/img/src/terrace-night-thumb.png
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1425399923|April Ebacher|M|/wiscwebcms-responsive-standard-templates/sass/partials/_image-with-caption.scss
+1425399923|April Ebacher|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/test-pages/.DS_Store
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/test-pages/index.html
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/test-pages/tabs.html
+1425399923|April Ebacher|A|/wiscwebcms-responsive-standard-templates/test-pages/video.html
+1427125242|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/css/src/foundation.src.css
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/css/src/foundation.src.css.map
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/MBball_Elite8_StateSt14_4512.jpg
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/Terrace_night_music14_5217.jpg
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/bball-thumb.png
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/crest.png
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/space-small.jpg
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/terrace-night-thumb.png
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/uwcrest_web_sm.png
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/uwcrest_web_sm_60_transparent.png
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/ww-logo-short.png
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1430776458|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/uw-foundation.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw.accordion.old
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw.tab.old
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw.topbar.old
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/fastclick.js
+1430776458|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.abide.js
+1430776458|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.accordion.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.accordion.js-customized
+1430776458|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.accordion.min.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.alert.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.clearing.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.dropdown.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.equalizer.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.interchange.js
+1430776458|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.joyride.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.joyride.js-notused
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.magellan.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.offcanvas.js
+1430776458|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.orbit.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.orbit.js-notused
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.reveal.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.slider.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.tab.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.tooltip.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.topbar.js
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/jquery.cookie.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/jquery.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/modernizr.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/placeholder.js
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/_functions.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/_settings.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_accordion.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_alert-boxes.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_block-grid.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_breadcrumbs.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_button-groups.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_buttons.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_clearing.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_dropdown-buttons.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_dropdown.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_flex-video.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_forms.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_global.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_grid.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_icon-bar.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_inline-lists.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_joyride.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_keystrokes.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_labels.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_magellan.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_offcanvas.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_orbit.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_pagination.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_panels.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_pricing-tables.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_progress-bars.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_range-slider.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_reveal.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_side-nav.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_split-buttons.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_sub-nav.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_switches.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_tables.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_tabs.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_thumbs.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_toolbar.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_tooltips.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_top-bar.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_type.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/foundation/components/_visibility.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/sass/normalize.scss
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/accordions.html
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/gallery.shtml
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/images/comet-th-sm.jpg
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/images/comet.jpg
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/images/earth-th-sm.jpg
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/images/earth.jpg
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/images/launch-th-sm.jpg
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/images/launch.jpg
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/maps.shtml
+1430776458|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/partials/navigation.inc
+1430776458|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/tabs.html
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1430922655|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.topbar.js
+1430922655|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.topbar.js
+1430922655|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.topbar.js-customized
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1430922655|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/accordions.html
+1430922655|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/accordions.shtml
+1430922655|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/index.html
+1430922655|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/index.shtml
+1430922655|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/navigation.inc
+1430922655|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/tabs.html
+1430922655|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/tabs.shtml
+1430922655|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/video.html
+1430922655|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/video.shtml
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.min.css
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1431526377|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.topbar.js
+1431526377|jkinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.topbar.js
+1431526377|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.topbar.js-customized
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1431526377|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/accordions.html
+1431526377|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/accordions.shtml
+1431526377|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/index.html
+1431526377|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/index.shtml
+1431526377|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/navigation.inc
+1431526377|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/tabs.html
+1431526377|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/tabs.shtml
+1431526377|jkinzel|D|/wiscwebcms-responsive-standard-templates/test-pages/video.html
+1431526377|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/video.shtml
+1431611681|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1431611681|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1431611681|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1431611681|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1431611681|jkinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.topbar.js
+1431611681|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.topbar.js-test
+1431611681|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/multimedia.shtml
+1431611681|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/navigation.inc
+1431614173|jkinzel|A|/wiscwebcms-responsive-standard-templates/js/dist/jquery.cookie.js
+1431614173|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/accordions.shtml
+1431614173|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/gallery.shtml
+1431614173|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/index.shtml
+1431614173|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/maps.shtml
+1431614173|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/multimedia.shtml
+1431614173|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/partials/html-header.inc
+1431614173|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/partials/page-footer.inc
+1431614173|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/partials/page-header.inc
+1431614173|jkinzel|A|/wiscwebcms-responsive-standard-templates/test-pages/partials/scripts.inc
+1431614173|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/tabs.shtml
+1431614173|jkinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/video.shtml
+1431984044|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1431984352|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/README.md
+1431984507|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/css/dist/uw-classic.css
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/foundation.src.css
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/foundation.src.css.map
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/vendor/animate.css
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/vendor/foundation.css
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/vendor/normalize.css
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.topbar.js
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.topbar.js-test
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw.accordion.old
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw.tab.old
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw.topbar.old
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.topbar.js-customized
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/package.json
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/modules/_blank-file.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/modules/_functions.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/modules/_settings.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/modules/_theme.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/modules/_uw-classic.theme.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_accordions.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_animate.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_aside.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_breadcrumbs.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_carousel.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_footer.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_google-search.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_grid.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_image-gallery.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_image-with-caption.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_images.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_mediaElement.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_navigation.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_news.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_rss.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_sidebar-navigation.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_sidebar.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_slideshow.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/partials/_tabs.uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/.DS_Store
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/accordions.shtml
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/gallery.shtml
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/index.shtml
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/maps.shtml
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/multimedia.shtml
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/html-header.inc
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/navigation.inc
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/page-footer.inc
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/page-header.inc
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/scripts.inc
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/tabs.shtml
+1431984507|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/video.shtml
+1431984609|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/README.md
+1431985276|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/README.md
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/foundation.src.css
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/foundation.src.css.map
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/css/src/uw-classic.src.css.map
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/crest.png
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/terrace-night-thumb.png
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/uwcrest_web_sm.png
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/img/dist/uwcrest_web_sm_60_transparent.png
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1433337799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1433337799|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/jquery.cookie.js
+1433337799|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/jquery.js
+1433337799|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/modernizr.js
+1433337799|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/placeholder.js
+1433882030|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1433882030|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1433882030|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1433882030|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1433882030|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.tab.js
+1433882030|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/accordions.shtml
+1433882030|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/tabs.shtml
+1433952020|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1433952020|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1433952020|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1433952020|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1433952020|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1433952020|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.tab.js
+1433952020|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.topbar.js-test
+1433952020|Joel Kinzel|D|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.tab.js
+1433952020|Joel Kinzel|A|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.tab.js-customized
+1433952020|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/accordions.shtml
+1433952020|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/test-pages/tabs.shtml
+1434027799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1434027799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1434027799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1434027799|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1434127094|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1434127094|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1434127094|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1434127094|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1434127094|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1434127094|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.tab.js
+1434127094|Joel Kinzel|M|/wiscwebcms-responsive-standard-templates/js/src/vendor/foundation/foundation.js
+1434139173|Jared Hanstra|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1434139173|Jared Hanstra|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1434139173|Jared Hanstra|M|/wiscwebcms-responsive-standard-templates/package.json
+1434141305|Joe Van Boxtel|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1434141305|Joe Van Boxtel|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1434141882|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1434142019|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1434142019|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/README.md
+1434142452|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1434142452|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1434142452|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/package.json
+1434165745|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1434165745|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/package.json
+1434165799|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/html-header.inc
+1434165799|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/page-header.inc
+1434165799|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/scripts.inc
+1434375408|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1434381325|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/.gitignore
+1434381325|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/README-httpd.md
+1434381325|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/README.md
+1434401137|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/README.md
+1434467167|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/Gruntfile.js
+1434467167|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/package.json
+1434467167|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/test-pages/accordions.html
+1434467167|Nicholas Blair|D|/wiscwebcms-responsive-standard-templates/test-pages/accordions.shtml
+1434467167|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/test-pages/gallery.html
+1434467167|Nicholas Blair|D|/wiscwebcms-responsive-standard-templates/test-pages/gallery.shtml
+1434467167|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/test-pages/index.html
+1434467167|Nicholas Blair|D|/wiscwebcms-responsive-standard-templates/test-pages/index.shtml
+1434467167|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/test-pages/maps.html
+1434467167|Nicholas Blair|D|/wiscwebcms-responsive-standard-templates/test-pages/maps.shtml
+1434467167|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/test-pages/multimedia.html
+1434467167|Nicholas Blair|D|/wiscwebcms-responsive-standard-templates/test-pages/multimedia.shtml
+1434467167|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/navigation.inc
+1434467167|Nicholas Blair|M|/wiscwebcms-responsive-standard-templates/test-pages/partials/page-header.inc
+1434467167|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/test-pages/tabs.html
+1434467167|Nicholas Blair|D|/wiscwebcms-responsive-standard-templates/test-pages/tabs.shtml
+1434467167|Nicholas Blair|A|/wiscwebcms-responsive-standard-templates/test-pages/video.html
+1434467167|Nicholas Blair|D|/wiscwebcms-responsive-standard-templates/test-pages/video.shtml
+1438025288|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1438103513|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1438103576|zekeWitter|A|/wiscwebcms-responsive-standard-templates/js/dist/rss_override_example.js
+1438105358|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1438105358|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1438105358|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1438105358|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1438105473|zekeWitter|D|/wiscwebcms-responsive-standard-templates/js/dist/rss_override_example.js
+1438106571|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates.js
+1438106611|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js
+1438106611|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.js.map
+1438106611|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/dist/uwtemplates.min.js
+1442862598|zekeWitter|M|/wiscwebcms-responsive-standard-templates/sass/uw-classic.scss
+1442862754|zekeWitter|M|/wiscwebcms-responsive-standard-templates/js/src/uw-templates/uw-templates.accordion.js
+1442862754|zekeWitter|M|/wiscwebcms-responsive-standard-templates/sass/partials/_accordions.uw-classic.scss

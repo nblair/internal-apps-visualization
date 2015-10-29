@@ -1,0 +1,751 @@
+1425499757|Nicholas Blair|A|/.gitignore
+1425499757|Nicholas Blair|A|/README.md
+1425499757|Nicholas Blair|A|/my-student-financial-account-war/pom.xml
+1425499757|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/my-app-view-2.html
+1425499757|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/my-app.html
+1425499757|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/my-app.js
+1425499757|Nicholas Blair|A|/pom.xml
+1425586603|Tim Zodrow|A|/my-student-financial-account-api/.gitignore
+1425586603|Tim Zodrow|A|/my-student-financial-account-api/pom.xml
+1425586603|Tim Zodrow|A|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/ChargeService.java
+1425586603|Tim Zodrow|A|/my-student-financial-account-api/src/main/xsd/student-financial-account-v1.xsd
+1425586603|Tim Zodrow|M|/pom.xml
+1425588149|Tim Zodrow|D|/my-student-financial-account-api/.gitignore
+1425655609|Nicholas Blair|M|/README.md
+1426012756|Tim Zodrow|M|/my-student-financial-account-war/pom.xml
+1426012756|Tim Zodrow|M|/pom.xml
+1426013724|Tim Zodrow|M|/my-student-financial-account-war/pom.xml
+1426013724|Tim Zodrow|M|/pom.xml
+1426014275|Tim Zodrow|M|/my-student-financial-account-war/pom.xml
+1426014855|Tim Zodrow|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1426017648|tzodorw|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1426517034|Nicholas Blair|M|/my-student-financial-account-api/src/main/xsd/student-financial-account-v1.xsd
+1426517034|Nicholas Blair|A|/my-student-financial-account-impl/pom.xml
+1426517034|Nicholas Blair|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoChargeServiceImpl.java
+1426517034|Nicholas Blair|A|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-charge-service-data.json
+1426517034|Nicholas Blair|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoChargeServiceImplTest.java
+1426517034|Nicholas Blair|M|/pom.xml
+1426517078|Nicholas Blair|M|/pom.xml
+1426539704|tzodorw|M|/my-student-financial-account-impl/pom.xml
+1426539704|tzodorw|M|/my-student-financial-account-war/pom.xml
+1426539704|tzodorw|A|/my-student-financial-account-war/src/etc/resources/log4j-developer.properties
+1426539704|tzodorw|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1426539704|tzodorw|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1426539704|tzodorw|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebConfiguration.java
+1426539704|tzodorw|A|/my-student-financial-account-war/src/main/resources/application.properties
+1426539704|tzodorw|M|/pom.xml
+1426694416|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1426705708|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1426705708|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1426705708|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1426705708|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebConfiguration.java
+1426705708|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1426711047|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1427319225|Nicholas Blair|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/ChargeService.java
+1427319225|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1427319225|Nicholas Blair|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/ChargeDao.java
+1427319225|Nicholas Blair|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoChargeDaoImpl.java
+1427319225|Nicholas Blair|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoChargeServiceImpl.java
+1427319225|Nicholas Blair|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/service/ChargeServiceImpl.java
+1427319225|Nicholas Blair|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoChargeDaoImplTest.java
+1427319225|Nicholas Blair|D|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoChargeServiceImplTest.java
+1427319225|Nicholas Blair|A|/my-student-financial-account-security/pom.xml
+1427319225|Nicholas Blair|A|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluator.java
+1427319225|Nicholas Blair|A|/my-student-financial-account-security/src/test/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluatorTest.java
+1427319225|Nicholas Blair|A|/my-student-financial-account-security/src/test/resources/log4j.properties
+1427319225|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1427319225|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/SecurityApplicationInitializer.java
+1427319225|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1427319225|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1427319225|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1427319225|Nicholas Blair|M|/pom.xml
+1427319412|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationSecurityConfiguration.java
+1427481605|Paul Erickson|M|/.gitignore
+1427819091|Paul Erickson|M|/my-student-financial-account-api/pom.xml
+1427819091|Paul Erickson|M|/my-student-financial-account-war/pom.xml
+1427819091|Paul Erickson|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/SecurityApplicationInitializer.java
+1427819091|Paul Erickson|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/SecurityWebApplicationInitializer.java
+1427819091|Paul Erickson|M|/pom.xml
+1427819166|Paul Erickson|M|/.gitignore
+1427819271|Paul Erickson|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1427819300|Paul Erickson|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/SecurityWebApplicationInitializer.java
+1427827942|Paul Erickson|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-charge-service-data.json
+1427827942|Paul Erickson|M|/my-student-financial-account-security/pom.xml
+1427827942|Paul Erickson|M|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluator.java
+1427827942|Paul Erickson|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1427827942|Paul Erickson|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationSecurityConfiguration.java
+1427827942|Paul Erickson|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebSecurityConfiguration.java
+1427829447|Paul Erickson|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-charge-service-data.json
+1427985508|Collin Cudd|M|/pom.xml
+1427988057|Collin Cudd|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoChargeDaoImplTest.java
+1427992783|Paul Erickson|M|/.gitignore
+1428006562|Nicholas Blair|M|/README.md
+1428006562|Nicholas Blair|M|/pom.xml
+1428008179|Paul Erickson|M|/.gitignore
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/history/history-partial.html
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/history/history.html
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/history/history.js
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/login/login.html
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/login/login.js
+1428008179|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app.html
+1428008179|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app.js
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/pay/pay.html
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/pay/pay.js
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/settings/settings.html
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/settings/settings.js
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/summary/summary.js
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/users/users.html
+1428008179|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/users/users.js
+1428335734|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428335734|tzodorw|M|/pom.xml
+1428335735|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428335736|tzodorw|M|/pom.xml
+1428349330|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428349330|tzodorw|M|/pom.xml
+1428505929|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/history/history-partial.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/history/history.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/history/history.js
+1428505929|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/home/home.html
+1428505929|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/home/home.js
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/login/login.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/login/login.js
+1428505929|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/my-app.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app.js
+1428505929|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/partials/tabs.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/pay/pay.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/pay/pay.js
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/settings/settings.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/settings/settings.js
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/summary/summary.js
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/users/users.html
+1428505929|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/users/users.js
+1428505929|Paul Erickson|M|/pom.xml
+1428525697|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428525697|tzodorw|M|/pom.xml
+1428527346|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1428527862|tzodorw|M|/README.md
+1428527862|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428527862|tzodorw|M|/my-student-financial-account-war/src/etc/resources/log4j-developer.properties
+1428528280|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428528500|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428529152|tzodorw|M|/my-student-financial-account-war/pom.xml
+1428529341|tzodorw|M|/pom.xml
+1428593915|Paul Erickson|M|/pom.xml
+1428594350|Paul Erickson|M|/pom.xml
+1428607874|Nicholas Blair|M|/pom.xml
+1428611661|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app.js
+1428611804|Collin Cudd|A|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedUserService.java
+1428611804|Collin Cudd|M|/my-student-financial-account-api/src/main/xsd/student-financial-account-v1.xsd
+1428611804|Collin Cudd|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedUserDao.java
+1428611804|Collin Cudd|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedUsersDaoImpl.java
+1428611804|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoChargeDaoImpl.java
+1428611804|Collin Cudd|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/GenericDemoDataDao.java
+1428611804|Collin Cudd|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/service/AuthorizedUserServiceImpl.java
+1428611804|Collin Cudd|A|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-users-service-data.json
+1428611804|Collin Cudd|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedUserDaoImplTest.java
+1428611804|Collin Cudd|A|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/AbstractCurrentUserAwareComponent.java
+1428611804|Collin Cudd|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedUserController.java
+1428611923|Collin Cudd|M|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluator.java
+1428611923|Collin Cudd|M|/my-student-financial-account-security/src/test/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluatorTest.java
+1428611999|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1428611999|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebConfiguration.java
+1428611999|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebSecurityConfiguration.java
+1428612128|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1428612128|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app.js
+1428612128|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1428612128|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/summary/summary.js
+1428612259|Collin Cudd|M|/my-student-financial-account-security/pom.xml
+1428688019|April Ebacher|M|/README.md
+1428688133|April Ebacher|A|/my-student-financial-account-war/src/main/webapp/theme.css
+1428939958|Paul Erickson|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedUserService.java
+1428939958|Paul Erickson|M|/my-student-financial-account-api/src/main/xsd/student-financial-account-v1.xsd
+1428939958|Paul Erickson|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedUserDao.java
+1428939958|Paul Erickson|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedUsersDaoImpl.java
+1428939958|Paul Erickson|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/GenericDemoDataDao.java
+1428939958|Paul Erickson|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/service/AuthorizedUserServiceImpl.java
+1428939958|Paul Erickson|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-users-service-data.json
+1428939958|Paul Erickson|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebSecurityConfiguration.java
+1428939958|Paul Erickson|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedUserController.java
+1428939958|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app.js
+1428939958|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/settings/settings.html
+1428939958|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/summary/summary.js
+1428939958|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/users/users.html
+1428939958|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/users/users.js
+1428953526|Paul Erickson|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebSecurityConfiguration.java
+1429123337|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/history/history.html
+1429123337|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/history/history.js
+1429207858|April Ebacher|M|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/home/home.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/login/login.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app-view-2.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/partials/tabs.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/pay/pay.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/settings/settings.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1429630018|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/users/users.html
+1429630201|April Ebacher|M|/my-student-financial-account-war/src/main/webapp/history/history.html
+1429630201|April Ebacher|M|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1429649609|April Ebacher|M|/my-student-financial-account-war/pom.xml
+1429649609|April Ebacher|M|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1429649789|April Ebacher|M|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/history/history.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/history/history.js
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/home/home.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/home/home.js
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/login/login.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/login/login.js
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/my-app-view-2.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/my-app.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/home/home.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/home/home.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/login/login.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/login/login.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/partials/tabs.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/pay/pay.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/pay/pay.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/users/users.html
+1429653281|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/my-app/users/users.js
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/partials/tabs.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/pay/pay.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/pay/pay.js
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/settings/settings.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/settings/settings.js
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/summary/summary.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/summary/summary.js
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/theme.css
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/users/users.html
+1429653281|Paul Erickson|D|/my-student-financial-account-war/src/main/webapp/users/users.js
+1429653796|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1429653796|Paul Erickson|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1430151395|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1430151395|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1430151395|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1430151395|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1430932810|Paul Erickson|M|/pom.xml
+1431009749|Nicholas Blair|M|/.gitignore
+1431445248|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedUsersDaoImpl.java
+1431445248|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoChargeDaoImpl.java
+1431445248|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/GenericDemoDataDao.java
+1431452420|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedUsersDaoImpl.java
+1431452420|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoChargeDaoImpl.java
+1431615471|Paul Erickson|A|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1432142770|Nicholas Blair|A|/.travis.yml
+1432147050|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebSecurityConfiguration.java
+1432147377|Nicholas Blair|M|/README.md
+1432148117|Nicholas Blair|M|/README.md
+1432148635|Nicholas Blair|M|/.travis.yml
+1432925190|Nicholas Blair|D|/.travis.yml
+1432925190|Nicholas Blair|M|/README.md
+1434559375|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1434559375|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1434651244|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1434651244|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1434651244|Joe Van Boxtel|A|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1434651244|Joe Van Boxtel|A|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.js
+1434651244|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1434661223|Nicholas Blair|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/ChargeService.java
+1434661223|Nicholas Blair|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/ChargeDao.java
+1434661223|Nicholas Blair|A|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-historyData.json
+1434661223|Nicholas Blair|A|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-summaryData.json
+1434661223|Nicholas Blair|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoChargeDaoImplTest.java
+1434661223|Nicholas Blair|M|/my-student-financial-account-security/src/test/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluatorTest.java
+1434661223|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1434661223|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1434661223|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebConfiguration.java
+1434661223|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1434661223|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/StudentFinancialAccountController.java
+1434661223|Nicholas Blair|M|/my-student-financial-account-war/src/main/resources/application.properties
+1434661223|Nicholas Blair|M|/pom.xml
+1434981266|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/StudentFinancialAccountController.java
+1434981310|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1434981310|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedUserController.java
+1434981310|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1434981310|Nicholas Blair|M|/pom.xml
+1434982027|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1434982027|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1434982027|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1434982027|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/LiveSFAClientConfiguration.java
+1434982027|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/MockSFAClientConfiguration.java
+1434982538|Nicholas Blair|A|/README-profiles.md
+1434982538|Nicholas Blair|M|/README.md
+1434982538|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/LiveSFAClientConfiguration.java
+1435849572|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1435849572|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1435849572|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1435849572|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1435849572|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1436218575|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1436218575|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1436374727|Joe Van Boxtel|D|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/ChargeService.java
+1436374727|Joe Van Boxtel|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/ChargeDao.java
+1436374727|Joe Van Boxtel|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoChargeDaoImpl.java
+1436374727|Joe Van Boxtel|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/service/ChargeServiceImpl.java
+1436374727|Joe Van Boxtel|D|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoChargeDaoImplTest.java
+1436374727|Joe Van Boxtel|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/ChargeController.java
+1436374727|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1436374727|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1436799522|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1436799522|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1436799522|Joe Van Boxtel|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1438632286|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1438632286|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1438632286|Nicholas Blair|M|/pom.xml
+1438633185|Nicholas Blair|M|/pom.xml
+1438711262|Tim Levett|M|/my-student-financial-account-war/pom.xml
+1439586455|Paul Erickson|M|/pom.xml
+1440085528|Nicholas Blair|M|/my-student-financial-account-api/pom.xml
+1440085528|Nicholas Blair|M|/pom.xml
+1440088374|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/SecurityWebApplicationInitializer.java
+1440088374|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/StudentFinancialAccountApplicationInitializer.java
+1440088374|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1440088374|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1440088375|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebSecurityConfiguration.java
+1440088415|Collin Cudd|M|/my-student-financial-account-war/pom.xml
+1440088415|Collin Cudd|M|/pom.xml
+1440088967|Collin Cudd|M|/my-student-financial-account-war/pom.xml
+1440090443|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1440090443|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebSecurityConfiguration.java
+1440091368|zekeWitter|M|/pom.xml
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/home/home.html
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/login/login.html
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/pay/pay.html
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1440098978|Katie Anderson|M|/my-student-financial-account-war/src/main/webapp/my-app/users/users.html
+1440098982|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalUserManagerController.java
+1440119286|Collin Cudd|M|/pom.xml
+1440119556|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1440127187|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationConfiguration.java
+1440127187|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/ApplicationSecurityConfiguration.java
+1440127187|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/LiveSFAClientConfiguration.java
+1440127187|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/MockSFAClientConfiguration.java
+1440127187|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/WebConfiguration.java
+1440127187|Collin Cudd|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/root/RootWebApplicationContextConfiguration.java
+1440127187|Collin Cudd|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/LiveSFAClientConfiguration.java
+1440127187|Collin Cudd|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/MockSFAClientConfiguration.java
+1440127187|Collin Cudd|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/ServletWebApplicationContextConfiguration.java
+1440127187|Collin Cudd|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/WebConfiguration.java
+1440127187|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1440129941|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalUserManagerController.java
+1440131565|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/root/RootWebApplicationContextConfiguration.java
+1440131565|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/ServletWebApplicationContextConfiguration.java
+1440131565|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/WebConfiguration.java
+1440175457|Craig Knuth|A|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/AuthorizedPayer.groovy
+1440175457|Craig Knuth|A|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/InviteStatus.groovy
+1440175460|Craig Knuth|A|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedPayerService.java
+1440175460|Craig Knuth|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedUserService.java
+1440175463|Craig Knuth|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedPayerService.java
+1440175463|Craig Knuth|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedUserService.java
+1440175463|Craig Knuth|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedPayerDao.java
+1440175463|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedUserDao.java
+1440175466|Craig Knuth|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayersDaoImpl.java
+1440175466|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedUsersDaoImpl.java
+1440175468|Craig Knuth|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerDaoImplTest.java
+1440175468|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedUserDaoImplTest.java
+1440175470|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayersDaoImpl.java
+1440175470|Craig Knuth|A|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/README.md
+1440175470|Craig Knuth|A|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-payers-service-data.json
+1440175473|Craig Knuth|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440175475|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440175475|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/service/AuthorizedUserServiceImpl.java
+1440175478|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440175478|Craig Knuth|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440175481|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440175481|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440175484|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440175651|Craig Knuth|M|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/AuthorizedPayer.groovy
+1440175908|Craig Knuth|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedPayerDao.java
+1440175908|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedUserDao.java
+1440176000|Craig Knuth|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayersDaoImpl.java
+1440176000|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedUsersDaoImpl.java
+1440177672|Craig Knuth|D|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/README.md
+1440177672|Craig Knuth|D|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-payers-service-data.json
+1440177672|Craig Knuth|D|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerDaoImplTest.java
+1440178832|Collin Cudd|M|/pom.xml
+1440179730|Craig Knuth|M|/my-student-financial-account-impl/pom.xml
+1440179730|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440179730|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440179730|Craig Knuth|M|/pom.xml
+1440183154|Craig Knuth|M|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/InviteStatus.groovy
+1440183154|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440183154|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440424614|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440424948|Craig Knuth|M|/my-student-financial-account-impl/pom.xml
+1440424948|Craig Knuth|M|/pom.xml
+1440425892|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440431076|Craig Knuth|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1440435964|Nicholas Blair|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440435990|Nicholas Blair|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedPayerInviteApplicationListener.java
+1440435990|Nicholas Blair|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedPayerInviteEvent.java
+1440435990|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedPayerController.java
+1440436016|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalAuthorizedPayerController.java
+1440436257|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalAuthorizedPayerController.java
+1440448772|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalUserManagerController.java
+1440448772|Craig Knuth|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1440448772|Craig Knuth|M|/pom.xml
+1440467440|Nicholas Blair|M|/README.md
+1440467440|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1440467440|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/ServletWebApplicationContextConfiguration.java
+1440467440|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/SwaggerConfiguration.java
+1440467440|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/WebConfiguration.java
+1440467440|Nicholas Blair|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedUserController.java
+1440467440|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1440467440|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/docs/index.html
+1440467440|Nicholas Blair|M|/pom.xml
+1440524943|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedUserController.java
+1440525099|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/WebConfiguration.java
+1440525099|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedPayerController.java
+1440525099|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/StudentFinancialAccountController.java
+1440525099|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalAuthorizedPayerController.java
+1440525099|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1440525679|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1440525679|Nicholas Blair|M|/pom.xml
+1440531091|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/StudentFinancialAccountController.java
+1440531094|Craig Knuth|A|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/Student.groovy
+1440531096|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440531098|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440531100|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalAuthorizedPayerController.java
+1440531102|Craig Knuth|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedPayerService.java
+1440531102|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440531102|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedPayerController.java
+1440531102|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalAuthorizedPayerController.java
+1440531104|Craig Knuth|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedPayerService.java
+1440531104|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440531104|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedPayerController.java
+1440531107|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440600362|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/StudentFinancialAccountController.java
+1440600719|Craig Knuth|M|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/Student.groovy
+1440603094|Craig Knuth|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedPayerService.java
+1440603094|Craig Knuth|A|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedStudentService.java
+1440603094|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440603459|Craig Knuth|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedStudentService.java
+1440603459|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1440603459|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1440604637|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedPayerController.java
+1440604637|Craig Knuth|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedStudentController.java
+1440616424|Craig Knuth|M|/my-student-financial-account-api/pom.xml
+1440616424|Craig Knuth|A|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/UserDiscriminator.java
+1440617048|Craig Knuth|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/UserDiscriminatorController.java
+1440617961|Craig Knuth|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoUserDiscriminatorImpl.java
+1440621167|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoUserDiscriminatorImpl.java
+1440621167|Craig Knuth|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoUserDiscriminatorImplTest.java
+1440694810|Craig Knuth|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/UserDiscriminatorController.java
+1443039190|Nicholas Blair|M|/.gitignore
+1443039190|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1443039190|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/bower.json
+1443039190|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/package.json
+1443039190|Nicholas Blair|M|/pom.xml
+1443039868|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/bower.json
+1443114375|Jamie Gutkowski|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-historyData.json
+1443114375|Jamie Gutkowski|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-summaryData.json
+1443114375|Jamie Gutkowski|M|/pom.xml
+1443122615|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1443122615|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1443122615|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.js
+1443122615|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1443124754|Nicholas Blair|M|/.gitignore
+1443124754|Nicholas Blair|M|/my-student-financial-account-war/src/etc/resources/log4j-developer.properties
+1443124754|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1443124754|Nicholas Blair|M|/pom.xml
+1443126410|Nicholas Blair|M|/README.md
+1443136545|Collin Cudd|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerDaoImpl.java
+1443136545|Collin Cudd|A|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-payers-service-data.json
+1443136545|Collin Cudd|M|/my-student-financial-account-impl/pom.xml
+1443136545|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/GenericDemoDataDao.java
+1443136545|Collin Cudd|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerDaoImplTest.java
+1443136545|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1443136545|Collin Cudd|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1443136545|Collin Cudd|D|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedUserService.java
+1443136545|Collin Cudd|M|/my-student-financial-account-api/src/main/xsd/student-financial-account-v1.xsd
+1443136545|Collin Cudd|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/AuthorizedUserDao.java
+1443136545|Collin Cudd|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedUsersDaoImpl.java
+1443136545|Collin Cudd|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/service/AuthorizedUserServiceImpl.java
+1443136545|Collin Cudd|D|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedUserDaoImplTest.java
+1443136545|Collin Cudd|M|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluator.java
+1443136545|Collin Cudd|M|/my-student-financial-account-security/src/test/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluatorTest.java
+1443136545|Collin Cudd|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedUserController.java
+1443136546|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1443136546|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443136546|Collin Cudd|M|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluator.java
+1443136546|Collin Cudd|M|/my-student-financial-account-security/src/test/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluatorTest.java
+1443136546|Collin Cudd|M|/pom.xml
+1443136546|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1443136546|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/users/users.js
+1443136546|Collin Cudd|M|/pom.xml
+1443187892|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1443187892|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.js
+1443187892|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443187892|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1443187893|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1443187893|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.js
+1443187893|Collin Cudd|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443194240|Collin Cudd|M|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/AuthorizedPayer.groovy
+1443194240|Collin Cudd|D|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/InviteStatus.groovy
+1443194240|Collin Cudd|M|/my-student-financial-account-api/src/main/java/edu/wisc/student/finance/AuthorizedPayerService.java
+1443194240|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1443194240|Collin Cudd|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1443194240|Collin Cudd|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedPayerController.java
+1443200001|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalSessionController.java
+1443200001|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/js/app-config.js
+1443205548|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1443205548|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443208116|Craig Knuth|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-payers-service-data.json
+1443208176|Craig Knuth|M|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/AuthorizedPayer.groovy
+1443208729|Nicholas Blair|M|/pom.xml
+1443209609|Craig Knuth|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1443209609|Craig Knuth|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerDaoImplTest.java
+1443212776|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1443212776|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/home/home.html
+1443212776|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/home/home.js
+1443212776|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/login/login.html
+1443212776|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/login/login.js
+1443212776|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443212776|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/pay/pay.html
+1443212776|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/pay/pay.js
+1443212952|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/users/users.html
+1443212952|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/my-app/users/users.js
+1443452760|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1443452760|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1443452760|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1443452760|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1443452760|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443453024|zekeWitter|D|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-users-service-data.json
+1443453024|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1443453024|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1443453024|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1443453024|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.js
+1443453210|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1443453370|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.js
+1443456388|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1443456388|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443456388|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/my-app/partials/needHelp.html
+1443456388|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1443456388|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1443456388|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443459188|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1443459469|zekeWitter|D|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-users-service-data.json
+1443459772|Nicholas Blair|M|/my-student-financial-account-api/pom.xml
+1443459772|Nicholas Blair|D|/my-student-financial-account-api/src/main/xsd/student-financial-account-v1.xsd
+1443459772|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1443459772|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/ServletWebApplicationContextConfiguration.java
+1443459772|Nicholas Blair|M|/pom.xml
+1443460618|zekeWitter|A|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443460618|zekeWitter|A|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443460618|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443460618|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/partials/tabs.html
+1443460618|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443460618|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443460618|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443460618|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443460618|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443463267|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1443463267|zekeWitter|A|/my-student-financial-account-war/src/main/webapp/config.js
+1443463267|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443463267|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443463267|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/addPayer/addPayer.html
+1443466140|Nicholas Blair|M|/.gitignore
+1443466140|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1443466140|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/package.json
+1443466140|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/example.feature
+1443466140|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1443466140|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/tests/e2e/protractor-conf.js
+1443466538|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1443466538|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/protractor-conf.js
+1443468984|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-historyData.json
+1443468984|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-summaryData.json
+1443468984|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1443468984|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443468984|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443468984|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1443468984|Nicholas Blair|M|/pom.xml
+1443470024|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443470659|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443470659|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443470683|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443470683|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443472081|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1443473419|zekeWitter|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/WebConfiguration.java
+1443473419|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443473419|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443473519|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1443492467|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443492467|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443492467|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1443494435|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443494435|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1443494435|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/summary.feature
+1443533822|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1443543926|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443543926|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443543926|zekeWitter|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/WebConfiguration.java
+1443543926|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443543926|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443548568|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443559589|Nicholas Blair|M|/pom.xml
+1443561595|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443561595|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443565296|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/WEB-INF/jetty-web.xml
+1443565298|Craig Knuth|M|/my-student-financial-account-war/pom.xml
+1443565298|Craig Knuth|A|/my-student-financial-account-war/src/etc/jetty-web.xml
+1443565298|Craig Knuth|D|/my-student-financial-account-war/src/main/webapp/WEB-INF/jetty-web.xml
+1443627885|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1443627885|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/Build.java
+1443627885|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/servlet/ServletWebApplicationContextConfiguration.java
+1443627885|Nicholas Blair|A|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/CustomSessionController.java
+1443627885|Nicholas Blair|D|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/local/LocalSessionController.java
+1443627885|Nicholas Blair|A|/my-student-financial-account-war/src/main/resources/buildNumber.properties
+1443627885|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/js/app-config.js
+1443627885|Nicholas Blair|M|/pom.xml
+1443638296|zekeWitter|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-historyData.json
+1443638296|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443638296|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443638296|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1443642343|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/Build.java
+1443642343|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1443642343|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/summary.feature
+1443643583|Jamie Gutkowski|M|/.gitignore
+1443646473|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/samples/sidebar.json
+1443646659|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443708705|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1443708705|Nicholas Blair|A|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/CustomLocalUserDetailsAttributesMapper.java
+1443708705|Nicholas Blair|A|/my-student-financial-account-impl/src/main/resources/demo-users.properties
+1443708705|Nicholas Blair|A|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/CustomLocalUserDetailsAttributesMapperTest.java
+1443708705|Nicholas Blair|A|/my-student-financial-account-impl/src/test/resources/log4j.properties
+1443708705|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/root/RootWebApplicationContextConfiguration.java
+1443708705|Nicholas Blair|M|/my-student-financial-account-war/src/main/resources/application.properties
+1443708705|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/summary.feature
+1443708705|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/protractor-conf.js
+1443708705|Nicholas Blair|M|/pom.xml
+1443710928|Nicholas Blair|M|/README.md
+1443710928|Nicholas Blair|D|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoUserDiscriminatorImpl.java
+1443710928|Nicholas Blair|D|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoUserDiscriminatorImplTest.java
+1443710928|Nicholas Blair|M|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/StudentFinancialAccountPermissionEvaluator.java
+1443710928|Nicholas Blair|A|/my-student-financial-account-security/src/main/java/edu/wisc/student/finance/security/UserDiscriminatorImpl.java
+1443710928|Nicholas Blair|A|/my-student-financial-account-security/src/test/java/edu/wisc/student/finance/security/UserDiscriminatorImplTest.java
+1443710928|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/root/RootWebApplicationContextConfiguration.java
+1443710928|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/WEB-INF/web.xml
+1443710928|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/summary.feature
+1443716110|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1443716110|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443716110|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1443716153|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/demo-users.properties
+1443716153|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-historyData.json
+1443716153|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-summaryData.json
+1443716153|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-payers-service-data.json
+1443716153|Nicholas Blair|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerDaoImplTest.java
+1443719989|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1443719989|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/partials/tabs.html
+1443719989|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1443719989|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1443725621|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/js/app-config.js
+1443728403|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/protractor-conf.js
+1443729606|Jamie Gutkowski|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1443729606|Jamie Gutkowski|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1443731751|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/js/app-config.js
+1443731751|Jared Hanstra|M|/pom.xml
+1443736278|Collin Cudd|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/CustomLocalUserDetailsAttributesMapper.java
+1443736278|Collin Cudd|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/CustomLocalUserDetailsAttributesMapperTest.java
+1443736278|Collin Cudd|M|/pom.xml
+1443795348|Jared Hanstra|M|/my-student-financial-account-war/src/main/webapp/js/app-config.js
+1443800551|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/settings/settings.html
+1443810200|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443810200|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1443810200|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1443810200|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1443810200|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1443811921|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1443820419|Collin Cudd|M|/pom.xml
+1444155940|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1444155940|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1444155940|zekeWitter|M|/my-student-financial-account-war/src/main/webapp/my-app/my-app.css
+1444155940|zekeWitter|A|/my-student-financial-account-war/src/main/webapp/my-app/partials/historyPagination.html
+1444329512|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/demo-users.properties
+1444329512|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-historyData.json
+1444329512|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-summaryData.json
+1444329512|Nicholas Blair|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/CustomLocalUserDetailsAttributesMapperTest.java
+1444329512|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1444329512|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1444329512|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1444329512|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1444332149|Nicholas Blair|D|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-charge-service-data.json
+1444332308|Nicholas Blair|M|/my-student-financial-account-api/src/main/groovy/edu/wisc/student/finance/domain/AuthorizedPayer.groovy
+1444332308|Nicholas Blair|M|/my-student-financial-account-impl/src/main/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImpl.java
+1444332308|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/student/finance/demo/demo-authorized-payers-service-data.json
+1444332308|Nicholas Blair|M|/my-student-financial-account-impl/src/test/java/edu/wisc/student/finance/demo/DemoAuthorizedPayerServiceImplTest.java
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/AuthorizedStudentController.java
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.html
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/main.js
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1444335948|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1444658412|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.html
+1444658412|Nicholas Blair|D|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/example.feature
+1444658412|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/language.feature
+1444658412|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1444851069|Nicholas Blair|M|/pom.xml
+1444856663|Nicholas Blair|M|/pom.xml
+1444856771|Nicholas Blair|M|/pom.xml
+1444857252|Nicholas Blair|M|/my-student-financial-account-api/pom.xml
+1444857252|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1444857252|Nicholas Blair|M|/my-student-financial-account-security/pom.xml
+1444857252|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1444857252|Nicholas Blair|M|/pom.xml
+1444857256|Nicholas Blair|M|/my-student-financial-account-api/pom.xml
+1444857256|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1444857256|Nicholas Blair|M|/my-student-financial-account-security/pom.xml
+1444857256|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1444857256|Nicholas Blair|M|/pom.xml
+1444857424|Nicholas Blair|M|/.gitignore
+1444857424|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/configuration/root/RootWebApplicationContextConfiguration.java
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/java/edu/wisc/student/web/rest/StudentFinancialAccountController.java
+1444857425|Nicholas Blair|M|/pom.xml
+1444857425|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/demo-users.properties
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/summary/summary.js
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/etc/resources/log4j-developer.properties
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/language.feature
+1444857425|Nicholas Blair|A|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/no-account.feature
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/stepDefinitions.js
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/features/summary.feature
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/tests/e2e/protractor-conf.js
+1444857425|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1444857476|Nicholas Blair|M|/my-student-financial-account-api/pom.xml
+1444857476|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1444857476|Nicholas Blair|M|/my-student-financial-account-security/pom.xml
+1444857476|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1444857476|Nicholas Blair|M|/pom.xml
+1444922811|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.html
+1444922811|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1444925853|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/edu/wisc/isis/sfa-mock-historyData.json
+1444925867|Nicholas Blair|M|/pom.xml
+1444933468|Nicholas Blair|M|/my-student-financial-account-api/pom.xml
+1444933468|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1444933468|Nicholas Blair|M|/my-student-financial-account-security/pom.xml
+1444933468|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1444933468|Nicholas Blair|M|/pom.xml
+1444933471|Nicholas Blair|M|/my-student-financial-account-api/pom.xml
+1444933471|Nicholas Blair|M|/my-student-financial-account-impl/pom.xml
+1444933471|Nicholas Blair|M|/my-student-financial-account-security/pom.xml
+1444933471|Nicholas Blair|M|/my-student-financial-account-war/pom.xml
+1444933471|Nicholas Blair|M|/pom.xml
+1445263869|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/demo-users.properties
+1445279621|Nicholas Blair|M|/my-student-financial-account-impl/src/main/resources/demo-users.properties
+1445285573|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/details/details.js
+1445285573|Nicholas Blair|M|/my-student-financial-account-war/src/main/webapp/my-app/history/history.js
+1445285573|Nicholas Blair|M|/pom.xml

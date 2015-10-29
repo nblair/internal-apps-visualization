@@ -1,0 +1,1265 @@
+1420234296|Nicholas Blair|A|/ecs/.gitignore
+1420234296|Nicholas Blair|A|/ecs/README.md
+1420234296|Nicholas Blair|A|/ecs/src/site/app/10/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/10/registerdevice.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/11/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/11/registerdevice.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/12/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/12/registerdevice.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/appabout.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/appdownload.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/download.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/footer.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/header.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/01_LaunchApp.jpg
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/01_LaunchApp.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/01_LaunchApp2.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/02_SplashScreen.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/03_SendNotificationQuestionAlert.jpg
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/03_SendNotificationQuestionAlert.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/04_AllowAnalytics.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/05_MainMenu.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/06_LocationsWithHousing.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/07_MapWithHousing.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/08_LocationInformation.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/09_MarkFavorite.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/10_MarkFavoriteAfter.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/11_LocationHours.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/12_MainScreenWithFavorite.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/13_LocationHoursWendt.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/14_NotificationSetting.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/15_SettingsAnalyticsOn.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/16_AnalyticsOFF.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/17_HousingOFF.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/18_HousingLocationsExcluded.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/19_AfterHousingOFF.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/20_BeforeHousingOFF.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/21_TapToDial.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/22_NOTapToDual.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/23_NoItemsAvailable.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/24_Policies.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/25_SaveBandwidthBefore.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/26_SaveBandwidthAfter.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/27_SaveBandwidthSettingsOFF.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/28_LocationOpenForReturnOnlyAlert.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/29_LocationCloseAlert.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/30_NoWIFI.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/31_NoWIFIRefresh.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/images/32_HTMLErrorAlert.png
+1420234296|Nicholas Blair|A|/ecs/src/site/app/about/ios/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/archive/1006B/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/archive/201011/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/archive/201011/registerdevice.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/archive/201101/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/archive/201101/registerdevice.php
+1420234296|Nicholas Blair|A|/ecs/src/site/app/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/availability.php
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/charge.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/charge1.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/charge2.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/charge3.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/charge4.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/chargeEdit.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/discharge.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/home.php
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/images
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/includes
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/laptopAdd.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/laptopEdit.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/laptopInfo.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/laptopNoteAdd.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/laptopNoteDetail.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/locAdmin.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/locErrors.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/locInfo.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/locLog.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/locStats.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/loginValidate.php
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronBlockAdd.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronBlockEdit.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronFineEdit.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronInfo.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronNoteAdd.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronNoteDetail.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronPhoneUpdate.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronQuotaEdit.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronSearch.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/patronTest.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/adminEmail.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/adminUpdateNotify.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/allPatronNotify.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/changedDueDateNotify.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/clearCache.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/expireOldSessions.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/includes
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/snowChangedDueDateNotify.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/snowPatronNotify.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/scripts/whoops.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/signature.php
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/testfine.php
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/userAdd.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/userContact.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/userEdit.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/circ/userInfo.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/composite_laptop_availability.php
+1420234296|Nicholas Blair|A|/ecs/src/site/duedate.php
+1420234296|Nicholas Blair|A|/ecs/src/site/faq.php
+1420234296|Nicholas Blair|A|/ecs/src/site/favicon.ico
+1420234296|Nicholas Blair|A|/ecs/src/site/home/index.html
+1420234296|Nicholas Blair|A|/ecs/src/site/images/background.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/blurb.php
+1420234296|Nicholas Blair|A|/ecs/src/site/images/bubble.png
+1420234296|Nicholas Blair|A|/ecs/src/site/images/button.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/clear.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/content.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/images
+1420234296|Nicholas Blair|A|/ecs/src/site/images/includes
+1420234296|Nicholas Blair|A|/ecs/src/site/images/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/images/lcs.css
+1420234296|Nicholas Blair|A|/ecs/src/site/images/logo.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/logo.png
+1420234296|Nicholas Blair|A|/ecs/src/site/images/ltab.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/map.good
+1420234296|Nicholas Blair|A|/ecs/src/site/images/map.php
+1420234296|Nicholas Blair|A|/ecs/src/site/images/map.png
+1420234296|Nicholas Blair|A|/ecs/src/site/images/map2.php
+1420234296|Nicholas Blair|A|/ecs/src/site/images/map2.png
+1420234296|Nicholas Blair|A|/ecs/src/site/images/rollover.php
+1420234296|Nicholas Blair|A|/ecs/src/site/images/rtab.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab0-active.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab0.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab1-active.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab1.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab2-active.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab2.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab3-active.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab3.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab4-active.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/tab4.gif
+1420234296|Nicholas Blair|A|/ecs/src/site/images/test.php
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/.htaccess
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/adminNav.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/adminQuery.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/cleanVars.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/errorNav.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/fonts/arial.ttf
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/fonts/arialbd.ttf
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/fonts/arialbi.ttf
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/fonts/ariali.ttf
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/footer.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/header.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/mapfooter.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/mapheader.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/base.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/blocks.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/discharges.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/fines.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/item_types.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/laptopNotes.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/listTable.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/locations.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/patronNotes.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/statsChart.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/tabBox.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/modules/users.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/nav.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/patronNav.php.inc
+1420234296|Nicholas Blair|A|/ecs/src/site/includes/rollovers.php
+1420234296|Nicholas Blair|A|/ecs/src/site/index-old.php
+1420234296|Nicholas Blair|A|/ecs/src/site/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/infolab_fines/appeal.php
+1420234296|Nicholas Blair|A|/ecs/src/site/infolab_fines/fine_payment-new.php
+1420234296|Nicholas Blair|A|/ecs/src/site/infolab_fines/fine_payment.php
+1420234296|Nicholas Blair|A|/ecs/src/site/infolab_fines/images
+1420234296|Nicholas Blair|A|/ecs/src/site/infolab_fines/includes
+1420234296|Nicholas Blair|A|/ecs/src/site/infolab_fines/index.php
+1420234296|Nicholas Blair|A|/ecs/src/site/iphone
+1420234296|Nicholas Blair|A|/ecs/src/site/location.php
+1420234296|Nicholas Blair|A|/ecs/src/site/logbook.pdf
+1420234296|Nicholas Blair|A|/ecs/src/site/mobile.php
+1420234296|Nicholas Blair|A|/ecs/src/site/nav-redirect.php
+1420234296|Nicholas Blair|A|/ecs/src/site/new.php
+1420234296|Nicholas Blair|A|/ecs/src/site/osx-software.txt
+1420234296|Nicholas Blair|A|/ecs/src/site/phpinfo.php
+1420234296|Nicholas Blair|A|/ecs/src/site/policies.php
+1420234296|Nicholas Blair|A|/ecs/src/site/policytext.php
+1420234296|Nicholas Blair|A|/ecs/src/site/robots.txt
+1420234296|Nicholas Blair|A|/ecs/src/site/updatemodel.php
+1420234296|Nicholas Blair|A|/ecs/src/site/validate/.htaccess
+1420234296|Nicholas Blair|A|/ecs/src/site/validate/funk.wav
+1420234296|Nicholas Blair|A|/ecs/src/site/validate/prototype.js
+1420234296|Nicholas Blair|A|/ecs/src/site/validate/sosumi.wav
+1420234296|Nicholas Blair|A|/ecs/src/site/windows-software.txt
+1420249865|Nicholas Blair|A|/ecs/Gruntfile.js
+1420249865|Nicholas Blair|M|/ecs/README.md
+1420249865|Nicholas Blair|A|/ecs/package.json
+1420490817|Nicholas Blair|M|/ecs/.gitignore
+1420490817|Nicholas Blair|A|/ecs/src/ecs.ini
+1420490817|Nicholas Blair|A|/ecs/src/site/includes/conf.php.inc
+1420490817|Nicholas Blair|A|/ecs/src/site/includes/iphone.php.inc
+1420490817|Nicholas Blair|A|/ecs/src/site/includes/modules/laptops.php.inc
+1420490817|Nicholas Blair|A|/ecs/src/site/includes/modules/patrons.php.inc
+1420490817|Nicholas Blair|A|/ecs/src/site/includes/query.php.inc
+1420490817|Nicholas Blair|A|/ecs/src/site/oci.php
+1420490817|Nicholas Blair|A|/ecs/src/site/update.php
+1420490817|Nicholas Blair|A|/ecs/src/site/validate/index-audiotag.php
+1420490817|Nicholas Blair|A|/ecs/src/site/validate/index.php
+1420494148|Nicholas Blair|M|/ecs/.gitignore
+1420494148|Nicholas Blair|M|/ecs/README.md
+1420494148|Nicholas Blair|A|/ecs/Vagrantfile
+1420494148|Nicholas Blair|A|/ecs/manifests/default.pp
+1420495225|Nicholas Blair|M|/ecs/src/site/includes/conf.php.inc
+1420495225|Nicholas Blair|M|/ecs/src/site/includes/iphone.php.inc
+1420495225|Nicholas Blair|M|/ecs/src/site/includes/modules/patrons.php.inc
+1420495225|Nicholas Blair|M|/ecs/src/site/includes/query.php.inc
+1420495225|Nicholas Blair|M|/ecs/src/site/oci.php
+1420495225|Nicholas Blair|M|/ecs/src/site/update.php
+1420495225|Nicholas Blair|M|/ecs/src/site/validate/index-audiotag.php
+1420495225|Nicholas Blair|M|/ecs/src/site/validate/index.php
+1420576164|Nicholas Blair|M|/ecs/src/site/includes/conf.php.inc
+1420576164|Nicholas Blair|M|/ecs/src/site/includes/iphone.php.inc
+1420576164|Nicholas Blair|M|/ecs/src/site/includes/modules/patrons.php.inc
+1420576164|Nicholas Blair|M|/ecs/src/site/includes/query.php.inc
+1420576164|Nicholas Blair|M|/ecs/src/site/oci.php
+1420576164|Nicholas Blair|M|/ecs/src/site/update.php
+1420576164|Nicholas Blair|M|/ecs/src/site/validate/index-audiotag.php
+1420576164|Nicholas Blair|M|/ecs/src/site/validate/index.php
+1420579354|Nicholas Blair|M|/ecs/README.md
+1420643960|Nicholas Blair|M|/ecs/README.md
+1420643960|Nicholas Blair|M|/ecs/manifests/default.pp
+1420643992|Nicholas Blair|M|/ecs/.gitignore
+1420643992|Nicholas Blair|A|/ecs/ecs-database/flyway-hsqldb.properties
+1420643992|Nicholas Blair|A|/ecs/ecs-database/flyway-mysql.properties
+1420643992|Nicholas Blair|A|/ecs/ecs-database/pom.xml
+1420643992|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/mysql/V1__original_data_model.sql
+1420648842|Nicholas Blair|M|/ecs/.gitignore
+1420648842|Nicholas Blair|M|/ecs/ecs-database/flyway-hsqldb.properties
+1420648842|Nicholas Blair|M|/ecs/ecs-database/pom.xml
+1420648842|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/hsqldb/V1__original_data_model.sql
+1420648842|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/migrations/README.md
+1420650278|Nicholas Blair|M|/ecs/Vagrantfile
+1420650278|Nicholas Blair|A|/ecs/database.sh
+1422040743|Nicholas Blair|M|/ecs/Gruntfile.js
+1422041907|Nicholas Blair|M|/ecs/.gitignore
+1422042514|Nicholas Blair|M|/ecs/Gruntfile.js
+1422042529|Nicholas Blair|M|/ecs/.gitignore
+1422044159|Nicholas Blair|M|/ecs/src/site/includes/conf.php.inc
+1422044159|Nicholas Blair|M|/ecs/src/site/includes/iphone.php.inc
+1422044159|Nicholas Blair|M|/ecs/src/site/includes/modules/patrons.php.inc
+1422044159|Nicholas Blair|M|/ecs/src/site/includes/query.php.inc
+1422044159|Nicholas Blair|M|/ecs/src/site/oci.php
+1422044159|Nicholas Blair|M|/ecs/src/site/update.php
+1422044159|Nicholas Blair|M|/ecs/src/site/validate/index-audiotag.php
+1422044159|Nicholas Blair|M|/ecs/src/site/validate/index.php
+1422046559|Nicholas Blair|A|/ecs/src/site/.htaccess
+1422046559|Nicholas Blair|M|/ecs/src/site/includes/conf.php.inc
+1422046559|Nicholas Blair|M|/ecs/src/site/includes/iphone.php.inc
+1422046559|Nicholas Blair|M|/ecs/src/site/includes/modules/patrons.php.inc
+1422046559|Nicholas Blair|M|/ecs/src/site/includes/query.php.inc
+1422046559|Nicholas Blair|M|/ecs/src/site/oci.php
+1422046559|Nicholas Blair|M|/ecs/src/site/update.php
+1422046559|Nicholas Blair|M|/ecs/src/site/validate/index-audiotag.php
+1422046559|Nicholas Blair|M|/ecs/src/site/validate/index.php
+1422046868|Nicholas Blair|M|/ecs/Vagrantfile
+1422047558|Nicholas Blair|M|/ecs/.gitignore
+1422047558|Nicholas Blair|M|/ecs/Gruntfile.js
+1422048956|Nicholas Blair|M|/ecs/ecs-database/flyway-hsqldb.properties
+1422048956|Nicholas Blair|M|/ecs/ecs-database/flyway-mysql.properties
+1422048956|Nicholas Blair|M|/ecs/ecs-database/pom.xml
+1422050479|Nicholas Blair|A|/ecs/ecs-database/README.md
+1422050479|Nicholas Blair|M|/ecs/ecs-database/flyway-hsqldb.properties
+1422050479|Nicholas Blair|M|/ecs/ecs-database/flyway-mysql.properties
+1422050479|Nicholas Blair|M|/ecs/ecs-database/pom.xml
+1422050987|Nicholas Blair|M|/ecs/database.sh
+1422381112|Tim Zodrow|M|/ecs/Vagrantfile
+1422387355|Tim Zodrow|M|/ecs/ecs-database/flyway-mysql.properties
+1422387355|Tim Zodrow|M|/ecs/manifests/default.pp
+1422563471|Tim Zodrow|M|/ecs/ecs-database/flyway-mysql.properties
+1422563471|Tim Zodrow|M|/ecs/manifests/default.pp
+1422566097|Tim Zodrow|M|/ecs/ecs-database/flyway-mysql.properties
+1422566097|Tim Zodrow|M|/ecs/manifests/default.pp
+1422633875|Tim Zodrow|M|/ecs/ecs-database/flyway-mysql.properties
+1423185942|Collin Cudd|M|/ecs/.gitignore
+1423185942|Collin Cudd|M|/ecs/src/site/includes/conf.php.inc
+1423185942|Collin Cudd|A|/ecs/src/site/includes/ecs_config.php.inc
+1423185942|Collin Cudd|M|/ecs/src/site/includes/iphone.php.inc
+1423185942|Collin Cudd|M|/ecs/src/site/includes/modules/patrons.php.inc
+1423185942|Collin Cudd|M|/ecs/src/site/includes/modules/users.php.inc
+1423185942|Collin Cudd|M|/ecs/src/site/includes/query.php.inc
+1423185942|Collin Cudd|M|/ecs/src/site/index.php
+1423185942|Collin Cudd|M|/ecs/src/site/oci.php
+1423185942|Collin Cudd|M|/ecs/src/site/update.php
+1423185942|Collin Cudd|M|/ecs/src/site/validate/index-audiotag.php
+1423185942|Collin Cudd|M|/ecs/src/site/validate/index.php
+1423186420|Collin Cudd|M|/ecs/src/site/includes/ecs_config.php.inc
+1423232125|Collin Cudd|M|/ecs/src/site/includes/ecs_config.php.inc
+1423235859|Nicholas Blair|M|/ecs/.gitignore
+1423236501|Nicholas Blair|M|/ecs/README.md
+1423236501|Nicholas Blair|M|/ecs/Vagrantfile
+1423236687|Nicholas Blair|M|/ecs/src/site/validate/index.php
+1423240733|Nicholas Blair|M|/ecs/README.md
+1423240795|Nicholas Blair|M|/ecs/README.md
+1423243474|Nicholas Blair|D|/ecs/src/site/phpinfo.php
+1423244351|Nicholas Blair|M|/ecs/src/site/policies.php
+1424282076|Katie Anderson|M|/ecs/Vagrantfile
+1424284916|Katie Anderson|M|/ecs/Vagrantfile
+1424295852|Nicholas Blair|M|/ecs/Vagrantfile
+1425317189|Katie Anderson|M|/ecs/src/site/images/map.php
+1425317189|Katie Anderson|M|/ecs/src/site/includes/ecs_config.php.inc
+1425318470|Nicholas Blair|M|/ecs/manifests/default.pp
+1425319487|Nicholas Blair|M|/ecs/manifests/default.pp
+1425415968|Tim Zodrow|M|/ecs/database.sh
+1425415968|Tim Zodrow|A|/ecs/ecs-database/src/main/resources/db/migrations/V2__AddLocationData.sql
+1425415968|Tim Zodrow|M|/ecs/src/site/images/map.php
+1425483539|Tim Zodrow|M|/ecs/src/site/location.php
+1425491217|Katie Anderson|M|/ecs/src/site/faq.php
+1425493948|Tim Zodrow|M|/ecs/database.sh
+1425493948|Tim Zodrow|A|/ecs/ecs-database/src/main/resources/db/migrations/V2__AddLocationData.sql
+1425493948|Tim Zodrow|M|/ecs/src/site/images/map.php
+1425493949|Tim Zodrow|M|/ecs/ecs-database/src/main/resources/db/migrations/V2__AddLocationData.sql
+1425495829|Tim Zodrow|M|/ecs/src/site/circ/index.php
+1425495829|Tim Zodrow|M|/ecs/src/site/includes/conf.php.inc
+1425495829|Tim Zodrow|M|/ecs/src/site/includes/mapheader.php.inc
+1425495829|Tim Zodrow|M|/ecs/src/site/includes/modules/locations.php.inc
+1425495829|Tim Zodrow|M|/ecs/src/site/index.php
+1425495829|Tim Zodrow|M|/ecs/src/site/infolab_fines/index.php
+1425495829|Tim Zodrow|M|/ecs/src/site/policytext.php
+1425495878|Tim Zodrow|M|/ecs/src/site/app/about/ios/header.php.inc
+1425495878|Tim Zodrow|M|/ecs/src/site/circ/charge.php.inc
+1425495878|Tim Zodrow|M|/ecs/src/site/circ/charge4.php.inc
+1425495878|Tim Zodrow|M|/ecs/src/site/circ/discharge.php.inc
+1425495878|Tim Zodrow|M|/ecs/src/site/circ/loginValidate.php
+1425495878|Tim Zodrow|M|/ecs/src/site/circ/scripts/index.php
+1425495878|Tim Zodrow|M|/ecs/src/site/circ/scripts/whoops.php.inc
+1425495878|Tim Zodrow|M|/ecs/src/site/includes/index.php
+1425495878|Tim Zodrow|M|/ecs/src/site/includes/modules/index.php
+1425495878|Tim Zodrow|M|/ecs/src/site/infolab_fines/appeal.php
+1425495878|Tim Zodrow|M|/ecs/src/site/infolab_fines/fine_payment-new.php
+1425495878|Tim Zodrow|M|/ecs/src/site/infolab_fines/fine_payment.php
+1425495878|Tim Zodrow|M|/ecs/src/site/policytext.php
+1425495879|Tim Zodrow|M|/ecs/src/ecs.ini
+1425498038|Katie Anderson|M|/ecs/src/site/duedate.php
+1425498038|Katie Anderson|M|/ecs/src/site/faq.php
+1425571174|Tim Zodrow|M|/ecs/ecs-database/src/main/resources/db/migrations/V2__AddLocationData.sql
+1425578662|Katie Anderson|M|/ecs/src/site/duedate.php
+1425578662|Katie Anderson|M|/ecs/src/site/faq.php
+1425578662|Katie Anderson|M|/ecs/src/site/images/map.php
+1425578662|Katie Anderson|M|/ecs/src/site/includes/conf.php.inc
+1425578662|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1425589174|Tim Zodrow|M|/ecs/src/site/duedate.php
+1425589174|Tim Zodrow|M|/ecs/src/site/includes/conf.php.inc
+1425589174|Tim Zodrow|M|/ecs/src/site/index.php
+1425589174|Tim Zodrow|M|/ecs/src/site/infolab_fines/index.php
+1425589174|Tim Zodrow|M|/ecs/src/site/location.php
+1425589289|Katie Anderson|M|/ecs/src/site/images/map.php
+1425589289|Katie Anderson|M|/ecs/src/site/includes/modules/patrons.php.inc
+1425589289|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1425589289|Katie Anderson|M|/ecs/src/site/oci.php
+1425589289|Katie Anderson|M|/ecs/src/site/validate/index-audiotag.php
+1425589289|Katie Anderson|M|/ecs/src/site/validate/index.php
+1425998642|Tim Zodrow|M|/ecs/src/site/faq.php
+1425998642|Tim Zodrow|M|/ecs/src/site/images/map.php
+1425999086|Tim Zodrow|M|/ecs/src/site/duedate.php
+1425999086|Tim Zodrow|M|/ecs/src/site/faq.php
+1425999086|Tim Zodrow|M|/ecs/src/site/images/map.php
+1425999086|Tim Zodrow|M|/ecs/src/site/includes/conf.php.inc
+1425999086|Tim Zodrow|M|/ecs/src/site/index.php
+1425999086|Tim Zodrow|M|/ecs/src/site/infolab_fines/index.php
+1425999086|Tim Zodrow|M|/ecs/src/site/location.php
+1425999841|Katie Anderson|M|/ecs/src/site/images/map.php
+1426001149|Katie Anderson|M|/ecs/src/site/images/map.php
+1426004650|Katie Anderson|M|/ecs/src/site/circ/index.php
+1426004650|Katie Anderson|M|/ecs/src/site/includes/conf.php.inc
+1426004651|Katie Anderson|M|/ecs/src/site/circ/index.php
+1426004652|Katie Anderson|M|/ecs/src/site/circ/index.php
+1426004652|Katie Anderson|M|/ecs/src/site/includes/header.php.inc
+1426006166|Tim Zodrow|A|/ecs/ecs-database/src/main/resources/db/migrations/V3__AddTempAuthData.sql
+1426006166|Tim Zodrow|A|/ecs/ecs-database/src/main/resources/db/migrations/V4__AddPatronsData.sql
+1426007564|Katie Anderson|M|/ecs/src/site/circ/index.php
+1426008401|Katie Anderson|M|/ecs/src/site/circ/index.php
+1426016535|Tim Zodrow|M|/ecs/README.md
+1426688441|Dan Cash|A|/ecs/ecs-database/src/main/resources/db/migrations/V5__AddItemTypes.sql
+1426696852|Katie Anderson|M|/ecs/src/site/policytext.php
+1426697250|Andrew Hoffmann|M|/ecs/Vagrantfile
+1426697250|Andrew Hoffmann|M|/ecs/manifests/default.pp
+1426697481|Andrew Hoffmann|M|/ecs/README.md
+1426698494|Tim Zodrow|M|/ecs/src/ecs.ini
+1426699991|Tim Zodrow|M|/ecs/src/site/circ/charge.php.inc
+1426699991|Tim Zodrow|M|/ecs/src/site/circ/charge2.php.inc
+1426699991|Tim Zodrow|M|/ecs/src/site/circ/discharge.php.inc
+1426699991|Tim Zodrow|M|/ecs/src/site/circ/laptopInfo.php.inc
+1426699991|Tim Zodrow|M|/ecs/src/site/circ/patronInfo.php.inc
+1426699991|Tim Zodrow|M|/ecs/src/site/includes/conf.php.inc
+1426699991|Tim Zodrow|M|/ecs/src/site/includes/header.php.inc
+1426700027|Tim Zodrow|A|/ecs/ecs-database/src/main/resources/db/migrations/V6__AddUsers.sql
+1426700027|Tim Zodrow|M|/ecs/src/site/circ/home.php
+1426700027|Tim Zodrow|M|/ecs/src/site/circ/index.php
+1426700027|Tim Zodrow|M|/ecs/src/site/circ/loginValidate.php
+1426700027|Tim Zodrow|M|/ecs/src/site/includes/query.php.inc
+1426701140|Tim Zodrow|M|/ecs/src/site/circ/locAdmin.php.inc
+1426701327|Tim Zodrow|M|/ecs/src/site/circ/home.php
+1426701327|Tim Zodrow|M|/ecs/src/site/circ/index.php
+1426701327|Tim Zodrow|M|/ecs/src/site/circ/loginValidate.php
+1426701358|Andrew Hoffmann|M|/ecs/README.md
+1426701358|Andrew Hoffmann|M|/ecs/Vagrantfile
+1426702008|Tim Zodrow|M|/ecs/ecs-database/src/main/resources/db/migrations/V6__AddUsers.sql
+1426702008|Tim Zodrow|M|/ecs/src/site/circ/index.php
+1426702008|Tim Zodrow|M|/ecs/src/site/circ/loginValidate.php
+1426702008|Tim Zodrow|M|/ecs/src/site/includes/query.php.inc
+1426702039|Tim Zodrow|M|/ecs/src/site/includes/query.php.inc
+1426702108|Tim Zodrow|M|/ecs/ecs-database/src/main/resources/db/migrations/V6__AddUsers.sql
+1426702273|Tim Zodrow|M|/ecs/src/site/circ/home.php
+1426702716|Katie Anderson|M|/ecs/src/site/policytext.php
+1426776580|Dan Cash|A|/ecs/ecs-database/src/main/resources/db/migrations/V7__AddUsers.sql
+1426776580|Dan Cash|A|/ecs/ecs-database/src/main/resources/db/migrations/V8__AddItems.sql
+1426776580|Dan Cash|M|/ecs/src/site/circ/home.php
+1426776580|Dan Cash|M|/ecs/src/site/circ/locErrors.php.inc
+1426776580|Dan Cash|M|/ecs/src/site/circ/locInfo.php.inc
+1426776580|Dan Cash|M|/ecs/src/site/circ/locStats.php.inc
+1426776580|Dan Cash|M|/ecs/src/site/circ/userInfo.php.inc
+1426776580|Dan Cash|M|/ecs/src/site/includes/adminQuery.php.inc
+1426780653|Dan Cash|M|/ecs/src/site/index.php
+1426793301|Dan Cash|M|/ecs/src/site/index.php
+1426856924|Dan Cash|M|/ecs/src/site/includes/query.php.inc
+1426864608|Dan Cash|M|/ecs/src/site/circ/charge2.php.inc
+1426864608|Dan Cash|M|/ecs/src/site/circ/locErrors.php.inc
+1426864608|Dan Cash|M|/ecs/src/site/circ/locStats.php.inc
+1426866482|Dan Cash|M|/ecs/ecs-database/src/main/resources/db/migrations/V7__AddUsers.sql
+1426872822|Nicholas Blair|M|/ecs/README.md
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/charge3.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/charge4.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/chargeEdit.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/laptopEdit.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/laptopNoteAdd.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/laptopNoteDetail.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronBlockAdd.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronBlockEdit.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronFineEdit.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronNoteAdd.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronNoteDetail.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronPhoneUpdate.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronQuotaEdit.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronSearch.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/patronTest.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/signature.php
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/testfine.php
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/userAdd.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/userContact.php.inc
+1427133610|Tim Zodrow|M|/ecs/src/site/circ/userEdit.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/adminEmail.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/adminUpdateNotify.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/allPatronNotify.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/changedDueDateNotify.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/clearCache.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/expireOldSessions.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/snowChangedDueDateNotify.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/snowPatronNotify.php.inc
+1427133838|Tim Zodrow|M|/ecs/src/site/circ/scripts/whoops.php.inc
+1427382415|Dan Cash|M|/ecs/src/site/circ/locLog.php.inc
+1427382415|Dan Cash|M|/ecs/src/site/images/blurb.php
+1427382415|Dan Cash|M|/ecs/src/site/images/map2.php
+1427382415|Dan Cash|M|/ecs/src/site/images/rollover.php
+1427382415|Dan Cash|M|/ecs/src/site/infolab_fines/appeal.php
+1427382415|Dan Cash|M|/ecs/src/site/infolab_fines/fine_payment-new.php
+1427382415|Dan Cash|M|/ecs/src/site/infolab_fines/fine_payment.php
+1427384274|Nicholas Blair|M|/ecs/src/site/validate/index.php
+1427385444|Andrew Hoffmann|M|/ecs/README.md
+1427390794|Katie Anderson|A|/ecs/ecs-database/src/main/resources/db/migrations/V9__AddCharges.sql
+1427470210|Katie Anderson|M|/ecs/README.md
+1427814021|Nicholas Blair|M|/ecs/README.md
+1427814021|Nicholas Blair|M|/ecs/Vagrantfile
+1427814021|Nicholas Blair|M|/ecs/manifests/default.pp
+1427833888|Nicholas Blair|M|/ecs/README.md
+1428069980|Nicholas Blair|M|/ecs/src/site/infolab_fines/index.php
+1428335391|Katie Anderson|M|/ecs/src/site/app/10/index.php
+1428339907|Katie Anderson|M|/ecs/src/site/app/11/index.php
+1428339907|Katie Anderson|M|/ecs/src/site/app/12/index.php
+1428343168|Nicholas Blair|M|/ecs/src/site/validate/.htaccess
+1428344291|Nicholas Blair|A|/ecs/README-deployment.md
+1428344291|Nicholas Blair|M|/ecs/README.md
+1428344335|Nicholas Blair|M|/ecs/.gitignore
+1428425878|Nicholas Blair|M|/ecs/ecs-database/flyway-mysql.properties
+1428425878|Nicholas Blair|M|/ecs/manifests/default.pp
+1428425878|Nicholas Blair|M|/ecs/.gitignore
+1428425878|Nicholas Blair|M|/ecs/manifests/default.pp
+1428425878|Nicholas Blair|M|/ecs/src/ecs.ini
+1428425983|Nicholas Blair|M|/ecs/README.md
+1428425983|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/migrations/V10__setup_demo_user_accounts.sql
+1428425983|Nicholas Blair|D|/ecs/ecs-database/src/main/resources/db/migrations/V6__AddUsers.sql
+1428425983|Nicholas Blair|D|/ecs/ecs-database/src/main/resources/db/migrations/V7__AddUsers.sql
+1428429187|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/mysql/V1.1__create_iphone_database_user.sql
+1428429187|Nicholas Blair|M|/ecs/src/ecs.ini
+1428610031|Tim Zodrow|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1428610366|Tim Zodrow|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1428610462|Tim Zodrow|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1428610642|Tim Zodrow|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1428680628|Tim Zodrow|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1428680628|Tim Zodrow|M|/ecs/src/site/includes/ecs_config.php.inc
+1428684573|Tim Zodrow|M|/ecs/src/site/circ/scripts/expireOldSessions.php.inc
+1428693155|Andrew Hoffmann|M|/ecs/src/site/circ/scripts/adminEmail.php.inc
+1428693155|Andrew Hoffmann|M|/ecs/src/site/circ/scripts/adminUpdateNotify.php.inc
+1428693155|Andrew Hoffmann|M|/ecs/src/site/circ/scripts/clearCache.php.inc
+1428693155|Andrew Hoffmann|M|/ecs/src/site/circ/scripts/expireOldSessions.php.inc
+1428693155|Andrew Hoffmann|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1428693662|Andrew Hoffmann|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/adminEmail.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/adminUpdateNotify.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/allPatronNotify.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/changedDueDateNotify.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/clearCache.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/snowChangedDueDateNotify.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/snowPatronNotify.php.inc
+1428935195|Tim Zodrow|M|/ecs/src/site/circ/scripts/whoops.php.inc
+1428935950|Tim Zodrow|D|/ecs/src/site/circ/scripts/adminUpdateNotify.php.inc
+1428935950|Tim Zodrow|D|/ecs/src/site/circ/scripts/allPatronNotify.php.inc
+1428935950|Tim Zodrow|D|/ecs/src/site/circ/scripts/changedDueDateNotify.php.inc
+1428935950|Tim Zodrow|D|/ecs/src/site/circ/scripts/snowChangedDueDateNotify.php.inc
+1428935950|Tim Zodrow|D|/ecs/src/site/circ/scripts/snowPatronNotify.php.inc
+1428935950|Tim Zodrow|D|/ecs/src/site/circ/scripts/whoops.php.inc
+1428936307|Nicholas Blair|M|/ecs/README-deployment.md
+1428938855|Nicholas Blair|M|/ecs/src/site/includes/ecs_config.php.inc
+1428939112|Nicholas Blair|M|/ecs/Vagrantfile
+1428939112|Nicholas Blair|A|/ecs/src/ecs-development.ini
+1428939112|Nicholas Blair|D|/ecs/src/ecs.ini
+1429284653|Nicholas Blair|M|/ecs/src/site/infolab_fines/fine_payment-new.php
+1429644309|Katie Anderson|A|/ecs/fine-payment-client/integration-test-client.sh
+1429644310|Katie Anderson|A|/ecs/ecs-database/src/main/resources/db/migrations/V11__AddFine.sql
+1429644310|Katie Anderson|M|/ecs/fine-payment-client/integration-test-client.sh
+1429644311|Katie Anderson|M|/ecs/fine-payment-client/integration-test-client.sh
+1429650032|Katie Anderson|D|/ecs/ecs-database/src/main/resources/db/migrations/V11__AddFine.sql
+1429650032|Katie Anderson|A|/ecs/ecs-database/src/main/resources/db/migrations/V12__AddFine.sql
+1429650032|Katie Anderson|A|/ecs/ecs-database/src/main/resources/db/migrations/V6__AddFine.sql
+1429650032|Katie Anderson|M|/ecs/src/site/infolab_fines/fine_payment-new.php
+1429906734|Katie Anderson|D|/ecs/ecs-database/src/main/resources/db/migrations/V12__AddFine.sql
+1429906734|Katie Anderson|D|/ecs/ecs-database/src/main/resources/db/migrations/V6__AddFine.sql
+1429906734|Katie Anderson|M|/ecs/ecs-database/src/main/resources/db/mysql/V1.1__create_iphone_database_user.sql
+1429906734|Katie Anderson|A|/ecs/fine-payment-client/README_fine-payment-client.md
+1429906734|Katie Anderson|M|/ecs/fine-payment-client/integration-test-client.sh
+1429906734|Katie Anderson|M|/ecs/src/site/infolab_fines/fine_payment-new.php
+1430159399|Paul Erickson|M|/ecs/.gitignore
+1430159399|Paul Erickson|M|/ecs/ecs-database/src/main/resources/db/migrations/V2__AddLocationData.sql
+1430841864|Katie Anderson|A|/ecs/fine-payment-client/README.md
+1430841864|Katie Anderson|D|/ecs/fine-payment-client/README_fine-payment-client.md
+1430842108|Katie Anderson|A|/ecs/fine-payment-client/README.md
+1430842108|Katie Anderson|D|/ecs/fine-payment-client/README_fine-payment-client.md
+1430925811|Paul Erickson|M|/ecs/README.md
+1430925918|Paul Erickson|M|/ecs/README.md
+1430929583|Katie Anderson|M|/ecs/fine-payment-client/README.md
+1430932276|Katie Anderson|A|/ecs/ecs-database/src/main/resources/db/migrations/V12__AddFinesTest.sql
+1430932276|Katie Anderson|M|/ecs/fine-payment-client/README.md
+1430932732|Katie Anderson|M|/ecs/fine-payment-client/README.md
+1430937118|Katie Anderson|M|/ecs/fine-payment-client/README.md
+1430938061|Katie Anderson|M|/ecs/fine-payment-client/README.md
+1431020854|Nicholas Blair|M|/ecs/README.md
+1431020854|Nicholas Blair|M|/ecs/ecs-database/README.md
+1431020854|Nicholas Blair|M|/ecs/ecs-database/pom.xml
+1431020854|Nicholas Blair|D|/ecs/ecs-database/src/main/resources/db/mysql/V1.1__create_iphone_database_user.sql
+1431020854|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/mysql/V1.1__iphone_user_grants.sql
+1431020854|Nicholas Blair|M|/ecs/fine-payment-client/README.md
+1431020854|Nicholas Blair|M|/ecs/manifests/default.pp
+1431537952|Tim Zodrow|A|/ecs/src/site/includes/ConnectionFactory.php
+1431537952|Tim Zodrow|M|/ecs/src/site/includes/query.php.inc
+1431538272|Tim Zodrow|M|/ecs/src/site/includes/query.php.inc
+1431552463|Katie Anderson|M|/ecs/src/site/validate/index.php
+1431554218|Katie Anderson|M|/ecs/fine-payment-client/README.md
+1431718114|Tim Zodrow|M|/ecs/src/site/duedate.php
+1431718114|Tim Zodrow|M|/ecs/src/site/includes/query.php.inc
+1431966216|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1431966340|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1431966403|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1431982038|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1431982169|Katie Anderson|A|/ecs/ecs-database/src/main/resources/db/migrations/V13__AddItem_Types.sql
+1431982547|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1431982547|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1431982547|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1431982657|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1431982941|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1431982941|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1431985022|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1431985542|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1431985858|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1431986461|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1431986461|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1431986461|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1431987093|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1431987093|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1431987754|Katie Anderson|A|/ecs/src/site/app/registerdevice-test-client/registerdevice-test-client.sh
+1432051965|Katie Anderson|A|/ecs/registerdevice-test-client/registerdevice-test-client.sh
+1432051965|Katie Anderson|D|/ecs/src/site/app/registerdevice-test-client/registerdevice-test-client.sh
+1432054062|Katie Anderson|A|/ecs/registerdevice-test-client/README.md
+1432054188|Katie Anderson|D|/ecs/ecs-database/src/main/resources/db/migrations/V5__AddItemTypes.sql
+1432054374|Katie Anderson|M|/ecs/ecs-database/src/main/resources/db/migrations/V13__AddItem_Types.sql
+1432137809|Paul Erickson|M|/ecs/src/site/circ/home.php
+1432137809|Paul Erickson|A|/ecs/src/site/circ/quotas.php.inc
+1432137809|Paul Erickson|M|/ecs/src/site/includes/adminNav.php.inc
+1432137809|Paul Erickson|M|/ecs/src/site/includes/conf.php.inc
+1432137809|Paul Erickson|M|/ecs/src/site/includes/modules/patrons.php.inc
+1432140860|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432156716|Paul Erickson|M|/ecs/src/site/includes/modules/patrons.php.inc
+1432166144|Katie Anderson|M|/ecs/src/site/circ/charge.php.inc
+1432166144|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432221737|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432222136|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432232844|Katie Anderson|M|/ecs/src/site/circ/scripts/adminEmail.php.inc
+1432232940|Katie Anderson|M|/ecs/src/site/circ/charge4.php.inc
+1432232940|Katie Anderson|M|/ecs/src/site/circ/discharge.php.inc
+1432233009|Katie Anderson|M|/ecs/src/site/circ/scripts/patronEmail.php.inc
+1432234038|Paul Erickson|M|/ecs/src/site/includes/modules/patrons.php.inc
+1432235945|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432244634|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432248362|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432306797|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432307295|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432326030|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1432326030|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1432326030|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1432326030|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432326031|Katie Anderson|M|/ecs/registerdevice-test-client/README.md
+1432326031|Katie Anderson|A|/ecs/registerdevice-test-client/registerdevice-test-client_v10.sh
+1432326032|Katie Anderson|A|/ecs/registerdevice-test-client/registerdevice-test-client_v11.sh
+1432326032|Katie Anderson|A|/ecs/registerdevice-test-client/registerdevice-test-client_v12.sh
+1432326033|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1432326034|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1432326783|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432326871|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432327878|Katie Anderson|D|/ecs/registerdevice-test-client/registerdevice-test-client.sh
+1432327878|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432747083|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432751289|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432760526|Craig|M|/ecs/ecs-database/src/main/resources/db/migrations/V10__setup_demo_user_accounts.sql
+1432760526|Craig|M|/ecs/ecs-database/src/main/resources/db/migrations/V9__AddCharges.sql
+1432760526|Craig|M|/ecs/src/site/includes/query.php.inc
+1432825264|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432825623|Katie Anderson|M|/ecs/src/site/app/10/registerdevice.php
+1432825623|Katie Anderson|M|/ecs/src/site/app/11/registerdevice.php
+1432825623|Katie Anderson|M|/ecs/src/site/app/12/registerdevice.php
+1432827195|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1432828410|Andrew Hoffmann|A|/ecs/jenkins-deploy.bat
+1432829051|Andrew Hoffmann|M|/ecs/README-deployment.md
+1432829345|Andrew Hoffmann|M|/ecs/package.json
+1432832434|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432834816|Katie Anderson|M|/ecs/src/site/app/11/index.php
+1432846230|Nicholas Blair|M|/ecs/.gitignore
+1432846230|Nicholas Blair|A|/ecs/README-release.md
+1432846230|Nicholas Blair|M|/ecs/README.md
+1432846230|Nicholas Blair|A|/ecs/build-SAMPLE.properties
+1432846230|Nicholas Blair|A|/ecs/build.xml
+1432846230|Nicholas Blair|M|/ecs/manifests/default.pp
+1432846230|Nicholas Blair|A|/ecs/src/laravel/composer.json
+1432850078|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432850078|Katie Anderson|M|/ecs/src/site/includes/modules/item_types.php.inc
+1432850348|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432859794|Katie Anderson|M|/ecs/src/site/app/11/index.php
+1432859794|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432908128|Nicholas Blair|M|/ecs/build.xml
+1432908145|Nicholas Blair|M|/ecs/manifests/default.pp
+1432919680|Katie Anderson|M|/ecs/src/site/app/11/index.php
+1432919680|Katie Anderson|M|/ecs/src/site/app/12/index.php
+1432919680|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1432930865|Craig|M|/ecs/src/site/infolab_fines/index.php
+1433165667|Nicholas Blair|M|/ecs/README-release.md
+1433169641|Craig|M|/ecs/src/site/includes/modules/base.php.inc
+1433169641|Craig|M|/ecs/src/site/includes/query.php.inc
+1433169892|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433171182|Craig|M|/ecs/src/site/includes/modules/base.php.inc
+1433171182|Craig|M|/ecs/src/site/includes/query.php.inc
+1433173554|Katie Anderson|M|/ecs/src/site/includes/iphone.php.inc
+1433174105|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1433177815|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433177815|Craig|M|/ecs/src/site/includes/query.php.inc
+1433178041|Craig|M|/ecs/src/site/includes/modules/base.php.inc
+1433178041|Craig|M|/ecs/src/site/includes/query.php.inc
+1433178043|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433178044|Craig|M|/ecs/src/site/includes/modules/base.php.inc
+1433178044|Craig|M|/ecs/src/site/includes/query.php.inc
+1433178045|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433178045|Craig|M|/ecs/src/site/includes/query.php.inc
+1433180461|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433180646|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433184639|Katie Anderson|M|/ecs/src/site/validate/index-audiotag.php
+1433184639|Katie Anderson|M|/ecs/src/site/validate/index.php
+1433191542|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433253549|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433255526|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433255990|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433257046|Craig|M|/ecs/src/site/includes/query.php.inc
+1433274747|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433281604|Katie Anderson|M|/ecs/build.xml
+1433281604|Katie Anderson|A|/ecs/src/laravel/phpunit.xml
+1433281604|Katie Anderson|A|/ecs/src/tests/IntlSupportTest.php
+1433281604|Katie Anderson|A|/ecs/src/tests/testQuery.php
+1433281605|Katie Anderson|M|/ecs/build.xml
+1433281605|Katie Anderson|M|/ecs/src/laravel/phpunit.xml
+1433281605|Katie Anderson|A|/ecs/src/test/querySupportTest.php
+1433281605|Katie Anderson|D|/ecs/src/tests/IntlSupportTest.php
+1433281606|Katie Anderson|M|/ecs/build.xml
+1433281606|Katie Anderson|M|/ecs/src/laravel/phpunit.xml
+1433281606|Katie Anderson|M|/ecs/src/test/querySupportTest.php
+1433284313|Katie Anderson|M|/ecs/src/test/querySupportTest.php
+1433284313|Katie Anderson|D|/ecs/src/tests/testQuery.php
+1433338427|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433340448|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433340448|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433340448|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433343532|Katie Anderson|M|/ecs/src/test/querySupportTest.php
+1433345258|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433346491|Craig|M|/ecs/src/site/circ/patronFineEdit.php.inc
+1433346491|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433348249|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433350678|Collin Cudd|M|/ecs/manifests/default.pp
+1433350742|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433350742|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433350742|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433352149|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433353113|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433359125|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433367855|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1433367855|Katie Anderson|M|/ecs/src/test/querySupportTest.php
+1433369084|Katie Anderson|M|/ecs/src/test/querySupportTest.php
+1433435033|Nicholas Blair|A|/ecs/README-jenkins.md
+1433435033|Nicholas Blair|M|/ecs/build.xml
+1433435033|Nicholas Blair|M|/ecs/manifests/default.pp
+1433437583|Nicholas Blair|M|/ecs/README-jenkins.md
+1433449106|Craig|M|/ecs/src/site/includes/modules/item_types.php.inc
+1433449107|Craig|M|/ecs/src/site/includes/modules/laptopNotes.php.inc
+1433449108|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433449108|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433449108|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449109|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449110|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449111|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449112|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449113|Craig|M|/ecs/src/site/includes/modules/laptopNotes.php.inc
+1433449114|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449115|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449116|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449117|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433449117|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433449117|Craig|M|/ecs/src/site/includes/modules/laptopNotes.php.inc
+1433449117|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433449538|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433449538|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433449538|Craig|M|/ecs/src/site/includes/modules/fines.php.inc
+1433449538|Craig|M|/ecs/src/site/includes/query.php.inc
+1433512866|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512867|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512868|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512869|Craig|M|/ecs/src/site/circ/patronInfo.php.inc
+1433512869|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512870|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512871|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512872|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512872|Craig|M|/ecs/src/site/includes/query.php.inc
+1433512873|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512874|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433512874|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433517642|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433521338|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433522803|Craig|M|/ecs/src/site/includes/modules/item_types.php.inc
+1433522803|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433522803|Craig|M|/ecs/src/site/includes/query.php.inc
+1433525258|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433525965|Craig|M|/ecs/src/site/circ/patronQuotaEdit.php.inc
+1433537260|Craig|M|/ecs/src/site/includes/modules/item_types.php.inc
+1433537260|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433537260|Craig|M|/ecs/src/site/includes/query.php.inc
+1433777924|Craig|M|/ecs/src/site/includes/modules/patronNotes.php.inc
+1433777925|Craig|M|/ecs/src/site/includes/modules/patronNotes.php.inc
+1433777926|Craig|M|/ecs/src/site/includes/modules/patronNotes.php.inc
+1433777927|Craig|M|/ecs/src/site/includes/modules/patronNotes.php.inc
+1433777928|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433780936|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433783278|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433784826|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433785492|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433786095|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433791390|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433792957|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433793572|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433793572|Craig|M|/ecs/src/site/includes/query.php.inc
+1433802390|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1433802390|Katie Anderson|M|/ecs/src/site/updatemodel.php
+1433802391|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1433802391|Katie Anderson|M|/ecs/src/site/update.php
+1433802393|Katie Anderson|M|/ecs/src/site/update.php
+1433802393|Katie Anderson|M|/ecs/src/site/updatemodel.php
+1433802395|Katie Anderson|M|/ecs/src/site/duedate.php
+1433803633|KATIE ANDERSON|M|/ecs/src/site/update.php
+1433858621|Craig|M|/ecs/src/site/includes/adminQuery.php.inc
+1433858621|Craig|M|/ecs/src/site/includes/query.php.inc
+1433861635|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433861999|Collin Cudd|M|/ecs/build.xml
+1433861999|Collin Cudd|A|/ecs/src/laravel/phpunit-integration.xml
+1433861999|Collin Cudd|M|/ecs/src/laravel/phpunit.xml
+1433861999|Collin Cudd|M|/ecs/src/site/circ/home.php
+1433861999|Collin Cudd|A|/ecs/src/site/circ/patronFineAdd.php.inc
+1433861999|Collin Cudd|M|/ecs/src/site/circ/patronInfo.php.inc
+1433861999|Collin Cudd|M|/ecs/src/site/includes/conf.php.inc
+1433861999|Collin Cudd|M|/ecs/src/site/includes/modules/fines.php.inc
+1433861999|Collin Cudd|A|/ecs/src/site/includes/validation/Validator.php
+1433861999|Collin Cudd|A|/ecs/src/test/integrationTests/ValidatorIntegrationTest.php
+1433861999|Collin Cudd|A|/ecs/src/test/integrationTests/querySupportTest.php
+1433861999|Collin Cudd|D|/ecs/src/test/querySupportTest.php
+1433861999|Collin Cudd|A|/ecs/src/test/unitTests/ValidatorTest.php
+1433863050|Craig|M|/ecs/src/site/includes/modules/blocks.php.inc
+1433863050|Craig|M|/ecs/src/site/includes/modules/discharges.php.inc
+1433863050|Craig|M|/ecs/src/site/includes/modules/laptopNotes.php.inc
+1433863050|Craig|M|/ecs/src/site/includes/modules/laptops.php.inc
+1433867753|Craig|M|/ecs/src/site/includes/modules/locations.php.inc
+1433867753|Craig|M|/ecs/src/site/includes/query.php.inc
+1433868544|Craig|M|/ecs/src/site/includes/query.php.inc
+1433869045|Craig|M|/ecs/src/site/includes/modules/patrons.php.inc
+1433869045|Craig|M|/ecs/src/site/includes/query.php.inc
+1433870334|Craig|M|/ecs/src/site/includes/iphone.php.inc
+1433872776|Craig|M|/ecs/src/site/includes/adminQuery.php.inc
+1433881350|Collin Cudd|M|/ecs/build.xml
+1433882684|Collin Cudd|M|/ecs/Vagrantfile
+1433882684|Collin Cudd|M|/ecs/build.xml
+1433882684|Collin Cudd|M|/ecs/src/site/includes/modules/fines.php.inc
+1433947837|Craig|M|/ecs/.gitignore
+1433947837|Craig|M|/ecs/build.xml
+1433947837|Craig|A|/ecs/buildNumbers.sh
+1433952011|Craig|M|/ecs/src/site/includes/mapfooter.php.inc
+1433953287|Craig|M|/ecs/Vagrantfile
+1433953287|Craig|M|/ecs/build.xml
+1433953287|Craig|M|/ecs/src/site/includes/mapfooter.php.inc
+1433966671|Craig|A|/ecs/src/site/includes/getBuildNumbers.php.inc
+1433966671|Craig|M|/ecs/src/site/includes/mapfooter.php.inc
+1433966671|Craig|A|/ecs/src/test/integrationTests/mapfooterIntegrationTest.php
+1433967483|Craig|M|/ecs/src/test/integrationTests/mapfooterIntegrationTest.php
+1433971027|Craig|M|/ecs/src/site/includes/getBuildNumbers.php.inc
+1433971027|Craig|M|/ecs/src/test/integrationTests/mapfooterIntegrationTest.php
+1433971659|Craig|M|/ecs/src/site/includes/getBuildNumbers.php.inc
+1433971659|Craig|M|/ecs/src/test/integrationTests/mapfooterIntegrationTest.php
+1433973937|Craig|M|/ecs/src/site/includes/mapfooter.php.inc
+1433973937|Craig|M|/ecs/src/test/integrationTests/mapfooterIntegrationTest.php
+1434029248|Craig|D|/ecs/src/test/integrationTests/mapfooterIntegrationTest.php
+1434029248|Craig|A|/ecs/src/test/unitTests/mapfooterTest.php
+1434039936|Craig|M|/ecs/build.xml
+1434039936|Craig|A|/ecs/buildNumbers.php
+1434039936|Craig|M|/ecs/src/test/unitTests/mapfooterTest.php
+1434042717|Craig|M|/ecs/buildNumbers.php
+1434042717|Craig|M|/ecs/src/site/includes/getBuildNumbers.php.inc
+1434042717|Craig|M|/ecs/src/site/includes/mapfooter.php.inc
+1434043480|Craig|M|/ecs/buildNumbers.php
+1434043480|Craig|M|/ecs/src/test/unitTests/mapfooterTest.php
+1434050849|Craig|M|/ecs/buildNumbers.php
+1434050849|Craig|M|/ecs/src/site/includes/getBuildNumbers.php.inc
+1434050849|Craig|A|/ecs/src/test/resources/buildNumberTestCases/mapfooterTest1.properties
+1434050849|Craig|A|/ecs/src/test/resources/buildNumberTestCases/mapfooterTest2.properties
+1434050849|Craig|A|/ecs/src/test/resources/buildNumberTestCases/mapfooterTest3.properties
+1434050849|Craig|A|/ecs/src/test/resources/buildNumberTestCases/mapfooterTest4.properties
+1434050849|Craig|A|/ecs/src/test/resources/buildNumberTestCases/mapfooterTest5.properties
+1434050849|Craig|A|/ecs/src/test/resources/buildNumberTestCases/mapfooterTest6.properties
+1434050849|Craig|A|/ecs/src/test/resources/buildNumberTestCases/mapfooterTest7.properties
+1434050849|Craig|M|/ecs/src/test/unitTests/mapfooterTest.php
+1434051185|Craig|D|/ecs/buildNumbers.sh
+1434118842|Craig|M|/ecs/buildNumbers.php
+1434126149|Craig Knuth|M|/ecs/buildNumbers.php
+1434137493|Craig Knuth|A|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434137493|Craig Knuth|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434377925|Craig Knuth|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434381003|Craig Knuth|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434381996|Craig Knuth|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434383823|Craig Knuth|M|/ecs/src/site/includes/query.php.inc
+1434383823|Craig Knuth|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434387324|Craig Knuth|M|/ecs/src/site/includes/query.php.inc
+1434387324|Craig Knuth|D|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434387324|Craig Knuth|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434390034|Craig Knuth|M|/ecs/src/site/includes/query.php.inc
+1434390034|Craig Knuth|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434394289|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/migrations/V14__AddFinesForTests.sql
+1434394289|Craig Knuth|A|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434400171|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V14__AddFinesForTests.sql
+1434400171|Craig Knuth|M|/ecs/src/site/includes/modules/fines.php.inc
+1434400171|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434461641|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V14__AddFinesForTests.sql
+1434461641|Craig Knuth|M|/ecs/src/site/includes/modules/fines.php.inc
+1434461641|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434464046|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V14__AddFinesForTests.sql
+1434464046|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/migrations/V15__AddDischargesForTests.sql
+1434464046|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434479230|Craig Knuth|M|/ecs/src/site/includes/modules/fines.php.inc
+1434479230|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434491823|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V15__AddDischargesForTests.sql
+1434491823|Craig Knuth|M|/ecs/src/site/includes/modules/fines.php.inc
+1434491823|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434550465|Collin Cudd|A|/ecs/ecs-database/pullFromProdDatabase.sh
+1434550465|Collin Cudd|D|/ecs/ecs-database/pullFromProdDatabase.sh
+1434550465|Collin Cudd|A|/ecs/ecs-database/pullFromProdDatabase.sh
+1434550619|Collin Cudd|M|/ecs/.gitignore
+1434550619|Collin Cudd|A|/ecs/ecs-database/pullFromProdDatabase-SAMPLE.ini
+1434550619|Collin Cudd|A|/ecs/ecs-database/pullFromProdDatabase.php
+1434565615|Collin Cudd|M|/ecs/ecs-database/pullFromProdDatabase-SAMPLE.ini
+1434565615|Collin Cudd|M|/ecs/ecs-database/pullFromProdDatabase.php
+1434565615|Collin Cudd|D|/ecs/ecs-database/pullFromProdDatabase.sh
+1434566524|Craig Knuth|D|/ecs/ecs-database/src/main/resources/db/migrations/V12__AddFinesTest.sql
+1434566524|Craig Knuth|M|/ecs/src/site/includes/modules/patrons.php.inc
+1434567086|Collin Cudd|A|/ecs/ecs-database/pullFromProdDatabase.sh
+1434567086|Collin Cudd|M|/ecs/src/site/circ/locStats.php.inc
+1434567086|Collin Cudd|D|/ecs/ecs-database/pullFromProdDatabase.sh
+1434567086|Collin Cudd|M|/ecs/src/site/circ/locStats.php.inc
+1434567284|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V14__AddFinesForTests.sql
+1434567284|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V15__AddDischargesForTests.sql
+1434567284|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V4__AddPatronsData.sql
+1434567284|Craig Knuth|M|/ecs/src/site/includes/modules/fines.php.inc
+1434567284|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434568611|Collin Cudd|M|/ecs/README.md
+1434568611|Collin Cudd|M|/ecs/src/laravel/composer.json
+1434568611|Collin Cudd|A|/ecs/src/test/MakeGoodPreloadScript.php
+1434568611|Collin Cudd|A|/ecs/README-eclipse.md
+1434568611|Collin Cudd|M|/ecs/README.md
+1434573162|Collin Cudd|M|/ecs/build.xml
+1434573205|Collin Cudd|M|/ecs/manifests/default.pp
+1434573266|Collin Cudd|M|/ecs/src/test/integrationTests/ValidatorIntegrationTest.php
+1434573472|Collin Cudd|M|/ecs/src/test/unitTests/mapfooterTest.php
+1434573540|Collin Cudd|M|/ecs/src/test/integrationTests/querySupportTest.php
+1434574461|Collin Cudd|M|/ecs/README-eclipse.md
+1434574461|Collin Cudd|M|/ecs/README.md
+1434634794|Nicholas Blair|M|/ecs/README.md
+1434635032|Collin Cudd|M|/ecs/.gitignore
+1434635032|Collin Cudd|A|/ecs/ecs-database/ecs_database_clone-SAMPLE.ini
+1434635032|Collin Cudd|A|/ecs/ecs-database/ecs_database_clone.php
+1434635032|Collin Cudd|D|/ecs/ecs-database/pullFromProdDatabase-SAMPLE.ini
+1434635032|Collin Cudd|D|/ecs/ecs-database/pullFromProdDatabase.php
+1434635124|Collin Cudd|M|/ecs/.gitignore
+1434729917|Collin Cudd|M|/ecs/ecs-database/ecs_database_clone.php
+1434731830|Katie Anderson|M|/ecs/src/site/circ/home.php
+1434731830|Katie Anderson|M|/ecs/src/site/circ/signature.php
+1434731831|Katie Anderson|M|/ecs/src/site/circ/charge.php.inc
+1434731833|Katie Anderson|M|/ecs/src/site/circ/charge3.php.inc
+1434731834|Katie Anderson|M|/ecs/src/site/circ/charge4.php.inc
+1434731835|Katie Anderson|M|/ecs/src/site/circ/chargeEdit.php.inc
+1434731836|Katie Anderson|M|/ecs/src/site/circ/discharge.php.inc
+1434731837|Katie Anderson|M|/ecs/src/site/circ/laptopAdd.php.inc
+1434731839|Katie Anderson|M|/ecs/src/site/circ/laptopEdit.php.inc
+1434731840|Katie Anderson|M|/ecs/src/site/circ/laptopNoteAdd.php.inc
+1434731841|Katie Anderson|M|/ecs/src/site/circ/laptopNoteDetail.php.inc
+1434731841|Katie Anderson|M|/ecs/src/site/includes/modules/listTable.php.inc
+1434731841|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1434731842|Katie Anderson|M|/ecs/src/site/circ/locLog.php.inc
+1434731842|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1434732233|Katie Anderson|M|/ecs/src/site/circ/locStats.php.inc
+1434732233|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1434735598|Katie Anderson|M|/ecs/src/site/circ/laptopAdd.php.inc
+1434735598|Katie Anderson|M|/ecs/src/site/circ/laptopEdit.php.inc
+1434735598|Katie Anderson|M|/ecs/src/site/includes/query.php.inc
+1434735784|Katie Anderson|M|/ecs/src/site/circ/discharge.php.inc
+1434735784|Katie Anderson|M|/ecs/src/site/infolab_fines/fine_payment-new.php
+1434735784|Katie Anderson|M|/ecs/src/site/infolab_fines/fine_payment.php
+1434737339|Katie Anderson|A|/ecs/ecs-database/src/main/resources/db/migrations/V16__insert_system_user.sql
+1434987915|Craig Knuth|M|/ecs/build.xml
+1434987915|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434990714|Craig Knuth|A|/ecs/src/test/integrationTests/blocksIntegrationTest.php
+1434990714|Craig Knuth|A|/ecs/src/test/integrationTests/dischargesIntegrationTest.php
+1434990716|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/migrations/V16__AddBlocksForTests.sql
+1434990716|Craig Knuth|M|/ecs/src/test/integrationTests/blocksIntegrationTest.php
+1434990716|Craig Knuth|M|/ecs/src/test/integrationTests/dischargesIntegrationTest.php
+1434990716|Craig Knuth|M|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434990716|Craig Knuth|A|/ecs/src/test/integrationTests/itemTypesIntegrationTest.php
+1434990719|Craig Knuth|D|/ecs/src/test/integrationTests/blocksIntegrationTest.php
+1434990719|Craig Knuth|D|/ecs/src/test/integrationTests/dischargesIntegrationTest.php
+1434990719|Craig Knuth|D|/ecs/src/test/integrationTests/finesIntegrationTest.php
+1434990719|Craig Knuth|A|/ecs/src/test/integrationTests/includesTests/modulesTests/blocksIntegrationTest.php
+1434990719|Craig Knuth|A|/ecs/src/test/integrationTests/includesTests/modulesTests/dischargesIntegrationTest.php
+1434990719|Craig Knuth|A|/ecs/src/test/integrationTests/includesTests/modulesTests/finesIntegrationTest.php
+1434990719|Craig Knuth|A|/ecs/src/test/integrationTests/includesTests/modulesTests/itemTypesIntegrationTest.php
+1434990719|Craig Knuth|A|/ecs/src/test/integrationTests/includesTests/querySupportTest.php
+1434990719|Craig Knuth|D|/ecs/src/test/integrationTests/itemTypesIntegrationTest.php
+1434990719|Craig Knuth|D|/ecs/src/test/integrationTests/querySupportTest.php
+1434990722|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/migrations/V17__AddLaptopNotesForTests.sql
+1434990722|Craig Knuth|A|/ecs/src/test/integrationTests/includesTests/modulesTests/laptopNotesIntegrationTests.php
+1434990724|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V17__AddLaptopNotesForTests.sql
+1434990727|Craig Knuth|M|/ecs/src/test/integrationTests/includesTests/modulesTests/itemTypesIntegrationTest.php
+1434992596|Craig Knuth|D|/ecs/ecs-database/src/main/resources/db/migrations/V16__AddBlocksForTests.sql
+1434992596|Craig Knuth|D|/ecs/ecs-database/src/main/resources/db/migrations/V16__insert_system_user.sql
+1434992596|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/migrations/V18__AddBlocksForTests.sql
+1434994630|Craig Knuth|M|/ecs/src/test/integrationTests/includesTests/modulesTests/finesIntegrationTest.php
+1434994630|Craig Knuth|M|/ecs/src/test/integrationTests/includesTests/modulesTests/itemTypesIntegrationTest.php
+1434996140|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/migrations/V16__insert_system_user.sql
+1434999599|Craig Knuth|M|/ecs/src/site/includes/modules/laptopNotes.php.inc
+1434999599|Craig Knuth|M|/ecs/src/test/integrationTests/includesTests/modulesTests/laptopNotesIntegrationTests.php
+1435007093|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V16__insert_system_user.sql
+1435007093|Craig Knuth|M|/ecs/src/site/circ/discharge.php.inc
+1435007298|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/blocksIT.php
+1435007298|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/dischargesIT.php
+1435007298|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/finesIT.php
+1435007298|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/itemTypesIT.php
+1435007298|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/laptopNotesIT.php
+1435007298|Craig Knuth|A|/ecs/src/test/integrationTests/includes/querySupportTest.php
+1435007298|Craig Knuth|D|/ecs/src/test/integrationTests/includesTests/modulesTests/blocksIntegrationTest.php
+1435007298|Craig Knuth|D|/ecs/src/test/integrationTests/includesTests/modulesTests/dischargesIntegrationTest.php
+1435007298|Craig Knuth|D|/ecs/src/test/integrationTests/includesTests/modulesTests/finesIntegrationTest.php
+1435007298|Craig Knuth|D|/ecs/src/test/integrationTests/includesTests/modulesTests/itemTypesIntegrationTest.php
+1435007298|Craig Knuth|D|/ecs/src/test/integrationTests/includesTests/modulesTests/laptopNotesIntegrationTests.php
+1435007298|Craig Knuth|D|/ecs/src/test/integrationTests/includesTests/querySupportTest.php
+1435081578|Craig Knuth|D|/ecs/src/site/app/archive/1006B/index.php
+1435081578|Craig Knuth|D|/ecs/src/site/app/archive/201011/index.php
+1435081578|Craig Knuth|D|/ecs/src/site/app/archive/201011/registerdevice.php
+1435081578|Craig Knuth|D|/ecs/src/site/app/archive/201101/index.php
+1435081578|Craig Knuth|D|/ecs/src/site/app/archive/201101/registerdevice.php
+1435083972|Craig Knuth|D|/ecs/src/test/integrationTests/includes/modules/blocksIT.php
+1435083972|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/blocksIntegrationTest.php
+1435083972|Craig Knuth|D|/ecs/src/test/integrationTests/includes/modules/dischargesIT.php
+1435083972|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/dischargesIntegrationTest.php
+1435083972|Craig Knuth|D|/ecs/src/test/integrationTests/includes/modules/finesIT.php
+1435083972|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/finesIntegrationTest.php
+1435083972|Craig Knuth|D|/ecs/src/test/integrationTests/includes/modules/itemTypesIT.php
+1435083972|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/itemTypesIntegrationTest.php
+1435083972|Craig Knuth|D|/ecs/src/test/integrationTests/includes/modules/laptopNotesIT.php
+1435083972|Craig Knuth|A|/ecs/src/test/integrationTests/includes/modules/laptopNotesIntegrationTest.php
+1435085102|Craig Knuth|M|/ecs/build.xml
+1435092633|Katie Anderson|A|/ecs/src/laravel/composer.lock
+1435092633|Katie Anderson|M|/ecs/src/site/circ/patronBlockAdd.php.inc
+1435092634|unknown|M|/ecs/src/site/circ/patronBlockEdit.php.inc
+1435092635|unknown|M|/ecs/src/site/includes/adminQuery.php.inc
+1435092637|unknown|M|/ecs/src/site/circ/patronFineEdit.php.inc
+1435092638|unknown|M|/ecs/src/site/circ/patronInfo.php.inc
+1435092639|unknown|M|/ecs/src/site/circ/patronNoteAdd.php.inc
+1435092640|unknown|M|/ecs/src/site/circ/patronNoteAdd.php.inc
+1435092640|unknown|M|/ecs/src/site/circ/patronNoteDetail.php.inc
+1435092641|unknown|M|/ecs/src/site/circ/patronQuotaEdit.php.inc
+1435092643|unknown|M|/ecs/src/site/circ/userAdd.php.inc
+1435092644|unknown|M|/ecs/src/site/circ/userEdit.php.inc
+1435162252|unknown|M|/ecs/Vagrantfile
+1435259351|Craig Knuth|M|/ecs/src/site/circ/discharge.php.inc
+1435259351|Craig Knuth|M|/ecs/src/site/includes/modules/fines.php.inc
+1435328697|Craig Knuth|M|/ecs/src/ecs-development.ini
+1435328697|Craig Knuth|M|/ecs/src/site/includes/modules/patrons.php.inc
+1435328700|Craig Knuth|M|/ecs/src/ecs-development.ini
+1435328700|Craig Knuth|M|/ecs/src/site/includes/modules/patrons.php.inc
+1435328700|Craig Knuth|A|/ecs/src/site/includes/modules/termCodeInterface.php.inc
+1435328703|Craig Knuth|M|/ecs/src/ecs-development.ini
+1435328706|Craig Knuth|M|/ecs/src/site/includes/modules/termCodeInterface.php.inc
+1435328706|Craig Knuth|A|/ecs/src/test/unitTests/termCodeTest.php
+1435328709|Craig Knuth|M|/ecs/src/test/unitTests/termCodeTest.php
+1435328711|Craig Knuth|M|/ecs/src/site/includes/modules/patrons.php.inc
+1435328711|Craig Knuth|M|/ecs/src/site/includes/modules/termCodeInterface.php.inc
+1435328711|Craig Knuth|A|/ecs/src/test/resources/termCodeTestCases/termCodeTestCase1.ini
+1435328711|Craig Knuth|A|/ecs/src/test/resources/termCodeTestCases/termCodeTestCase2.ini
+1435328711|Craig Knuth|M|/ecs/src/test/unitTests/termCodeTest.php
+1435328714|Craig Knuth|M|/ecs/src/test/unitTests/termCodeTest.php
+1435334239|Craig Knuth|M|/ecs/src/site/includes/modules/patrons.php.inc
+1435334239|Craig Knuth|M|/ecs/src/site/includes/modules/termCodeInterface.php.inc
+1435334239|Craig Knuth|M|/ecs/src/test/unitTests/termCodeTest.php
+1435343170|Craig Knuth|M|/ecs/src/site/includes/modules/termCodeInterface.php.inc
+1435343170|Craig Knuth|M|/ecs/src/test/unitTests/termCodeTest.php
+1435598381|Craig Knuth|M|/ecs/README.md
+1435598381|Craig Knuth|M|/ecs/build.xml
+1435602151|Craig Knuth|M|/ecs/src/laravel/composer.lock
+1435604500|Katie Anderson|A|/ecs/src/test/integrationTests/emailTest.php
+1435677844|Katie Anderson|A|/ecs/src/site/includes/fineNotificationEmail.php.inc
+1435683109|Katie Anderson|D|/ecs/src/site/includes/fineNotificationEmail.php.inc
+1435683109|Katie Anderson|A|/ecs/src/site/includes/fineNotificationTemplate.php
+1435683952|Katie Anderson|M|/ecs/ecs-database/src/main/resources/db/migrations/V3__AddTempAuthData.sql
+1435683952|Katie Anderson|M|/ecs/ecs-database/src/main/resources/db/migrations/V4__AddPatronsData.sql
+1435683952|Katie Anderson|M|/ecs/src/site/includes/fineNotificationTemplate.php
+1435686912|Katie Anderson|D|/ecs/src/test/integrationTests/emailTest.php
+1435686912|Katie Anderson|A|/ecs/src/test/integrationTests/includes/fineNotificationTemplateTest.php
+1435687110|Katie Anderson|A|/ecs/src/site/includes/fineNotificationTemplate.php.inc
+1435692483|Katie Anderson|A|/ecs/.settings/com.piece_framework.makegood.core.prefs
+1435692483|Katie Anderson|M|/ecs/src/laravel/composer.lock
+1435692483|Katie Anderson|M|/ecs/src/site/circ/patronFineAdd.php.inc
+1435692483|Katie Anderson|M|/ecs/src/site/includes/fineNotificationTemplate.php.inc
+1435692483|Katie Anderson|M|/ecs/src/test/integrationTests/includes/fineNotificationTemplateTest.php
+1435692649|Katie Anderson|D|/ecs/.settings/com.piece_framework.makegood.core.prefs
+1435692964|Collin Cudd|M|/ecs/src/site/includes/modules/patrons.php.inc
+1435692964|Collin Cudd|M|/ecs/src/site/includes/query.php.inc
+1435694365|Katie Anderson|M|/ecs/src/site/circ/patronFineAdd.php.inc
+1435694365|Katie Anderson|M|/ecs/src/site/includes/fineNotificationTemplate.php.inc
+1435694365|Katie Anderson|M|/ecs/src/test/integrationTests/includes/fineNotificationTemplateTest.php
+1435698795|Katie Anderson|D|/ecs/src/site/includes/fineNotificationTemplate.php
+1435767194|Nicholas Blair|M|/ecs/build.xml
+1435768192|Nicholas Blair|M|/ecs/README-release.md
+1435768971|Nicholas Blair|M|/ecs/.gitignore
+1435769003|Nicholas Blair|M|/ecs/build.xml
+1435769589|Nicholas Blair|M|/ecs/build.xml
+1435853177|Katie Anderson|M|/ecs/src/site/circ/patronFineAdd.php.inc
+1435853177|Katie Anderson|M|/ecs/src/site/includes/fineNotificationTemplate.php.inc
+1435853177|Katie Anderson|M|/ecs/src/test/integrationTests/includes/fineNotificationTemplateTest.php
+1436196321|Nicholas Blair|M|/ecs/src/site/infolab_fines/appeal.php
+1436299547|Nicholas Blair|M|/ecs/ecs-database/ecs_database_clone.php
+1436299547|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/wwwtest/V19__create_ia-test-user_account.sql
+1436369373|Nicholas Blair|M|/ecs/ecs-database/ecs_database_clone.php
+1436546154|Collin Cudd|M|/ecs/src/site/includes/modules/statsChart.php.inc
+1436553395|Collin Cudd|M|/ecs/src/site/includes/modules/patrons.php.inc
+1436555872|Collin Cudd|M|/ecs/src/site/circ/charge4.php.inc
+1436556123|Collin Cudd|M|/ecs/src/site/includes/modules/laptops.php.inc
+1437055311|Craig Knuth|A|/ecs/.bowerrc
+1437055311|Craig Knuth|M|/ecs/.gitignore
+1437055311|Craig Knuth|A|/ecs/bower.json
+1437055311|Craig Knuth|M|/ecs/package.json
+1437055314|Craig Knuth|A|/ecs/src/site/index.html
+1437055316|Craig Knuth|M|/ecs/src/site/includes/mapfooter.php.inc
+1437055316|Craig Knuth|M|/ecs/src/site/index.html
+1437055318|Craig Knuth|M|/ecs/.bowerrc
+1437055318|Craig Knuth|M|/ecs/.gitignore
+1437055318|Craig Knuth|M|/ecs/package.json
+1437055318|Craig Knuth|A|/ecs/src/site/beta/app.js
+1437055318|Craig Knuth|A|/ecs/src/site/beta/default/default.html
+1437055318|Craig Knuth|A|/ecs/src/site/beta/index.html
+1437055318|Craig Knuth|M|/ecs/src/site/includes/mapfooter.php.inc
+1437055318|Craig Knuth|D|/ecs/src/site/index.html
+1437055321|Craig Knuth|M|/ecs/README.md
+1437055783|Craig Knuth|M|/ecs/bower.json
+1437059909|Craig Knuth|M|/ecs/bower.json
+1437059909|Craig Knuth|M|/ecs/package.json
+1437059909|Craig Knuth|M|/ecs/src/site/includes/mapfooter.php.inc
+1437403503|Craig Knuth|M|/ecs/src/site/.htaccess
+1437406882|Craig Knuth|D|/ecs/.bowerrc
+1437406882|Craig Knuth|D|/ecs/bower.json
+1437406882|Craig Knuth|M|/ecs/src/laravel/composer.json
+1437406882|Craig Knuth|M|/ecs/src/laravel/composer.lock
+1437427365|Craig Knuth|A|/ecs/.bowerrc
+1437427365|Craig Knuth|A|/ecs/bower.json
+1437427365|Craig Knuth|M|/ecs/build.xml
+1437427365|Craig Knuth|M|/ecs/manifests/default.pp
+1437427365|Craig Knuth|M|/ecs/package.json
+1437427365|Craig Knuth|M|/ecs/src/laravel/composer.json
+1437427365|Craig Knuth|D|/ecs/src/laravel/composer.lock
+1437429592|Craig Knuth|M|/ecs/bower.json
+1437429592|Craig Knuth|M|/ecs/package.json
+1437429592|Craig Knuth|M|/ecs/src/laravel/composer.json
+1437429592|Craig Knuth|A|/ecs/src/laravel/composer.lock
+1437429956|Craig Knuth|M|/ecs/README.md
+1437505084|Katie Anderson|M|/ecs/ecs-database/src/main/resources/db/wwwtest/V19__create_ia-test-user_account.sql
+1437505679|KATIE ANDERSON|M|/ecs/ecs-database/src/main/resources/db/wwwtest/V19__create_ia-test-user_account.sql
+1437588835|Paul Erickson|A|/ecs/sonar-project.properties
+1437759164|Katie Anderson|A|/ecs/src/test/integrationTests/infolab_fines/finePaymentNewTest.php
+1437759165|Katie Anderson|M|/ecs/src/test/integrationTests/infolab_fines/finePaymentNewTest.php
+1437759588|Katie Anderson|M|/ecs/src/test/integrationTests/includes/modules/finesIntegrationTest.php
+1437759588|Katie Anderson|M|/ecs/src/test/integrationTests/infolab_fines/finePaymentNewTest.php
+1438004548|Katie Anderson|D|/ecs/fine-payment-client/README.md
+1438004548|Katie Anderson|D|/ecs/fine-payment-client/integration-test-client.sh
+1438004548|Katie Anderson|M|/ecs/src/test/integrationTests/infolab_fines/finePaymentNewTest.php
+1438006713|Katie Anderson|M|/ecs/src/site/circ/laptopEdit.php.inc
+1438008948|Katie Anderson|M|/ecs/src/site/circ/patronFineAdd.php.inc
+1438286638|Collin Cudd|M|/ecs/ecs-database/src/main/resources/db/migrations/V13__AddItem_Types.sql
+1438286638|Collin Cudd|M|/ecs/src/site/circ/laptopAdd.php.inc
+1438286638|Collin Cudd|M|/ecs/src/site/circ/laptopEdit.php.inc
+1438286638|Collin Cudd|M|/ecs/src/site/circ/locStats.php.inc
+1438286638|Collin Cudd|M|/ecs/src/site/includes/conf.php.inc
+1438286638|Collin Cudd|M|/ecs/src/site/includes/modules/item_types.php.inc
+1438286638|Collin Cudd|M|/ecs/src/test/integrationTests/includes/modules/itemTypesIntegrationTest.php
+1438288167|Collin Cudd|A|/ecs/ecs-database/src/main/resources/db/migrations/V21__update_item_types.sql
+1438288167|Collin Cudd|A|/ecs/ecs-database/src/main/resources/db/production/V21__update_item_types.sql
+1438288167|Collin Cudd|A|/ecs/ecs-database/src/main/resources/db/wwwtest/V20__update_item_types.sql
+1438347382|Collin Cudd|M|/ecs/ecs-database/src/main/resources/db/production/V21__update_item_types.sql
+1438347382|Collin Cudd|M|/ecs/ecs-database/src/main/resources/db/wwwtest/V20__update_item_types.sql
+1438362719|Katie Anderson|M|/ecs/src/site/circ/chargeEdit.php.inc
+1438370366|Katie Anderson|M|/ecs/src/site/includes/modules/locations.php.inc
+1438699778|Katie Anderson|M|/ecs/src/site/circ/laptopAdd.php.inc
+1439312585|Katie Anderson|M|/ecs/Vagrantfile
+1439312585|Katie Anderson|A|/ecs/home.feature
+1439312585|Katie Anderson|A|/ecs/src/laravel/bin/behat
+1439312585|Katie Anderson|M|/ecs/src/laravel/composer.json
+1439312585|Katie Anderson|M|/ecs/src/laravel/composer.lock
+1439312696|Katie Anderson|A|/ecs/features/bootstrap/FeatureContext.php
+1439312696|Katie Anderson|A|/ecs/features/home.feature
+1439312696|Katie Anderson|D|/ecs/home.feature
+1439312696|Katie Anderson|A|/ecs/src/laravel/bin/phpunit
+1439312696|Katie Anderson|M|/ecs/src/laravel/composer.json
+1439312696|Katie Anderson|M|/ecs/src/laravel/composer.lock
+1439312697|Katie Anderson|A|/ecs/behat.yml
+1439312697|Katie Anderson|M|/ecs/features/bootstrap/FeatureContext.php
+1439312697|Katie Anderson|M|/ecs/features/home.feature
+1439312699|Katie Anderson|M|/ecs/features/bootstrap/FeatureContext.php
+1439312699|Katie Anderson|M|/ecs/features/home.feature
+1439312700|Katie Anderson|M|/ecs/build.xml
+1439312806|Katie Anderson|M|/ecs/build.xml
+1439312848|Katie Anderson|M|/ecs/build.xml
+1439312848|Katie Anderson|M|/ecs/features/home.feature
+1439312849|Katie Anderson|M|/ecs/README.md
+1439312850|Katie Anderson|A|/ecs/README-user-tests.md
+1439312873|Katie Anderson|M|/ecs/Vagrantfile
+1439314273|Katie Anderson|M|/ecs/src/laravel/composer.lock
+1439315758|Katie Anderson|M|/ecs/src/laravel/composer.json
+1439405701|Craig Knuth|M|/ecs/src/laravel/composer.json
+1439405701|Craig Knuth|M|/ecs/src/laravel/composer.lock
+1439476176|Craig Knuth|M|/ecs/src/laravel/composer.json
+1439476176|Craig Knuth|M|/ecs/src/laravel/composer.lock
+1439477037|Craig Knuth|A|/ecs/src/site/circ/services/RemoteUserService.php
+1439477042|Craig Knuth|A|/ecs/src/site/circ/modules/RemoteUser.php
+1439477045|Craig Knuth|M|/ecs/.gitignore
+1439477045|Craig Knuth|M|/ecs/src/ecs-development.ini
+1439477045|Craig Knuth|D|/ecs/src/site/circ/modules/RemoteUser.php
+1439477045|Craig Knuth|D|/ecs/src/site/circ/services/RemoteUserService.php
+1439477045|Craig Knuth|A|/ecs/src/site/circ/userAuthentication.php.inc
+1439477045|Craig Knuth|A|/ecs/src/site/includes/modules/RemoteUser.php
+1439477045|Craig Knuth|A|/ecs/src/site/includes/services/RemoteUserService.php
+1439477045|Craig Knuth|A|/ecs/src/site/includes/services/RemoteUserServiceMockImpl.php
+1439477049|Craig Knuth|M|/ecs/src/site/circ/userAuthentication.php.inc
+1439477049|Craig Knuth|M|/ecs/src/site/includes/services/RemoteUserServiceMockImpl.php
+1439477052|Craig Knuth|M|/ecs/src/site/circ/userAuthentication.php.inc
+1439477052|Craig Knuth|M|/ecs/src/site/includes/modules/RemoteUser.php
+1439477052|Craig Knuth|M|/ecs/src/site/includes/services/RemoteUserService.php
+1439477052|Craig Knuth|M|/ecs/src/site/includes/services/RemoteUserServiceMockImpl.php
+1439477052|Craig Knuth|A|/ecs/src/test/unitTests/remoteUserTest.php
+1439477055|Craig Knuth|M|/ecs/src/site/circ/userAuthentication.php.inc
+1439477055|Craig Knuth|M|/ecs/src/site/includes/modules/RemoteUser.php
+1439477055|Craig Knuth|M|/ecs/src/site/includes/services/RemoteUserServiceMockImpl.php
+1439477055|Craig Knuth|M|/ecs/src/test/unitTests/remoteUserTest.php
+1439477057|Craig Knuth|M|/ecs/src/site/includes/modules/RemoteUser.php
+1439477057|Craig Knuth|M|/ecs/src/test/unitTests/remoteUserTest.php
+1439477060|Craig Knuth|M|/ecs/src/test/unitTests/remoteUserTest.php
+1439477718|Craig Knuth|M|/ecs/.gitignore
+1439477718|Craig Knuth|M|/ecs/src/ecs-development.ini
+1439477718|Craig Knuth|M|/ecs/src/laravel/composer.json
+1439477718|Craig Knuth|M|/ecs/src/laravel/composer.lock
+1439477718|Craig Knuth|M|/ecs/src/laravel/phpunit.xml
+1439477718|Craig Knuth|M|/ecs/src/site/circ/userAuthentication.php.inc
+1439477718|Craig Knuth|M|/ecs/src/site/includes/ecs_config.php.inc
+1439477718|Craig Knuth|M|/ecs/src/site/includes/services/RemoteUserServiceMockImpl.php
+1439477718|Craig Knuth|A|/ecs/src/test/integrationTests/includes/services/RemoteUserServiceMockImplTest.php
+1439477721|Craig Knuth|D|/ecs/src/site/circ/userAuthentication.php.inc
+1439477721|Craig Knuth|A|/ecs/src/site/includes/services/UserAuthenticationService.php.inc
+1439477721|Craig Knuth|A|/ecs/src/test/integrationTests/includes/services/UserAuthenticationServiceTest.php
+1439477723|Craig Knuth|M|/ecs/src/site/circ/home.php
+1439477723|Craig Knuth|M|/ecs/src/site/circ/index.php
+1439477725|Craig Knuth|M|/ecs/src/ecs-development.ini
+1439477725|Craig Knuth|M|/ecs/src/site/includes/services/RemoteUserServiceMockImpl.php
+1439477725|Craig Knuth|D|/ecs/src/test/integrationTests/includes/services/RemoteUserServiceMockImplTest.php
+1439477725|Craig Knuth|D|/ecs/src/test/integrationTests/includes/services/UserAuthenticationServiceTest.php
+1439477725|Craig Knuth|A|/ecs/src/test/unitTests/RemoteUserServiceMockImplTest.php
+1439477725|Craig Knuth|A|/ecs/src/test/unitTests/UserAuthenticationServiceTest.php
+1439477727|Craig Knuth|M|/ecs/src/site/circ/home.php
+1439477727|Craig Knuth|M|/ecs/src/site/circ/index.php
+1439560001|Craig Knuth|M|/ecs/src/ecs-development.ini
+1439560001|Craig Knuth|M|/ecs/src/site/includes/services/RemoteUserServiceMockImpl.php
+1439560001|Craig Knuth|M|/ecs/src/test/unitTests/RemoteUserServiceMockImplTest.php
+1439919401|Collin Cudd|M|/ecs/src/site/circ/discharge.php.inc
+1439921546|Collin Cudd|A|/ecs/ecs-database/src/main/resources/db/migrations/V17.1__AddLaptopParts.sql
+1439922276|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/migrations/V22__insert_projector_14.sql
+1439922276|Nicholas Blair|A|/ecs/ecs-database/src/main/resources/db/migrations/V23__insert_discharges_for_projector_14.sql
+1439922276|Nicholas Blair|M|/ecs/src/site/includes/modules/discharges.php.inc
+1439922475|Craig Knuth|M|/ecs/src/site/circ/charge4.php.inc
+1439923850|Craig Knuth|M|/ecs/src/site/includes/footer.php.inc
+1439928496|Katie Anderson|M|/ecs/src/site/includes/modules/locations.php.inc
+1439996527|Craig Knuth|M|/ecs/src/site/circ/charge4.php.inc
+1440009373|Collin Cudd|M|/ecs/src/site/circ/laptopInfo.php.inc
+1440009373|Collin Cudd|M|/ecs/src/site/includes/modules/locations.php.inc
+1440009373|Collin Cudd|A|/ecs/src/site/includes/modules/LaptopField.php
+1440009373|Collin Cudd|A|/ecs/src/site/includes/modules/OrderByDirection.php
+1440009373|Collin Cudd|A|/ecs/src/test/unitTests/LaptopFieldTest.php
+1440009373|Collin Cudd|A|/ecs/src/test/unitTests/OrderByDirectionTest.php
+1440009373|Collin Cudd|M|/ecs/src/site/circ/laptopInfo.php.inc
+1440009373|Collin Cudd|M|/ecs/src/site/includes/query.php.inc
+1440702547|Craig Knuth|M|/ecs/src/site/includes/modules/locations.php.inc
+1440702547|Craig Knuth|M|/ecs/src/site/includes/query.php.inc
+1440707003|Craig Knuth|M|/ecs/src/site/includes/query.php.inc
+1442265783|Jay Ray|M|/ecs/src/site/app/about/ios/appabout.php
+1442265783|Jay Ray|M|/ecs/src/site/circ/discharge.php.inc
+1442265783|Jay Ray|M|/ecs/src/site/policytext.php
+1442349699|Craig Knuth|M|/ecs/ecs-database/src/main/resources/db/migrations/V2__AddLocationData.sql
+1442349699|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/production/V23__update_location_webpage.sql
+1442349699|Craig Knuth|A|/ecs/ecs-database/src/main/resources/db/wwwtest/V22__update_location_webpage.sql
+1442595948|Nicholas Blair|M|/ecs/src/site/validate/.htaccess
+1443117617|Katie Anderson|M|/ecs/src/site/circ/charge2.php.inc
+1443117617|Katie Anderson|M|/ecs/src/site/circ/charge3.php.inc
+1443121907|Katie Anderson|M|/ecs/src/site/circ/charge3.php.inc

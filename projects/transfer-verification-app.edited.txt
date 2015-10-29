@@ -1,0 +1,171 @@
+1442445292|Paul Erickson|A|/transfer-verification-app/.bowerrc
+1442445292|Paul Erickson|A|/transfer-verification-app/.gitignore
+1442445292|Paul Erickson|A|/transfer-verification-app/.jshintrc
+1442445292|Paul Erickson|A|/transfer-verification-app/Dockerfile
+1442445292|Paul Erickson|A|/transfer-verification-app/LICENSE
+1442445292|Paul Erickson|A|/transfer-verification-app/README.md
+1442445292|Paul Erickson|A|/transfer-verification-app/app/app.css
+1442445292|Paul Erickson|A|/transfer-verification-app/app/config.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/index.html
+1442445292|Paul Erickson|A|/transfer-verification-app/app/main.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/module.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/route.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/scan/controller.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/scan/module.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/scan/page.html
+1442445292|Paul Erickson|A|/transfer-verification-app/app/scan/route.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/scan/service.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/scan/service_test.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/test/main.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/version/directive.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/version/directive_test.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/version/filter.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/version/filter_test.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/version/module.js
+1442445292|Paul Erickson|A|/transfer-verification-app/app/version/version_test.js
+1442445292|Paul Erickson|A|/transfer-verification-app/bower.json
+1442445292|Paul Erickson|A|/transfer-verification-app/features/barcode-input.feature
+1442445292|Paul Erickson|A|/transfer-verification-app/features/inventoryLocator-input.feature
+1442445292|Paul Erickson|A|/transfer-verification-app/features/protractor.conf.js
+1442445292|Paul Erickson|A|/transfer-verification-app/features/step_definitions/README.md
+1442445292|Paul Erickson|A|/transfer-verification-app/features/step_definitions/barcode-input/steps.js
+1442445292|Paul Erickson|A|/transfer-verification-app/features/step_definitions/inventoryLocator-input/steps.js
+1442445292|Paul Erickson|A|/transfer-verification-app/features/step_definitions/steps.js
+1442445292|Paul Erickson|A|/transfer-verification-app/karma.conf.js
+1442445292|Paul Erickson|A|/transfer-verification-app/package.json
+1442445292|Paul Erickson|A|/transfer-verification-app/sonar-project.properties
+1442445599|Paul Erickson|M|/transfer-verification-app/README.md
+1442445599|Paul Erickson|M|/transfer-verification-app/bower.json
+1442445599|Paul Erickson|M|/transfer-verification-app/package.json
+1442445599|Paul Erickson|M|/transfer-verification-app/sonar-project.properties
+1444321467|zekeWitter|A|/transfer-verification-app/app/batches/batches.html
+1444321467|zekeWitter|A|/transfer-verification-app/app/batches/controller.js
+1444321467|zekeWitter|A|/transfer-verification-app/app/batches/module.js
+1444321467|zekeWitter|A|/transfer-verification-app/app/batches/route.js
+1444321467|zekeWitter|M|/transfer-verification-app/app/index.html
+1444321467|zekeWitter|M|/transfer-verification-app/app/module.js
+1444321467|zekeWitter|M|/transfer-verification-app/app/route.js
+1444321467|zekeWitter|M|/transfer-verification-app/package.json
+1444329330|Paul Erickson|M|/transfer-verification-app/app/batches/batches.html
+1444329330|Paul Erickson|M|/transfer-verification-app/app/batches/controller.js
+1444329330|Paul Erickson|M|/transfer-verification-app/app/batches/module.js
+1444329330|Paul Erickson|M|/transfer-verification-app/app/batches/route.js
+1444329330|Paul Erickson|M|/transfer-verification-app/app/module.js
+1444329330|Paul Erickson|M|/transfer-verification-app/app/scan/controller.js
+1444329330|Paul Erickson|M|/transfer-verification-app/app/scan/page.html
+1444329330|Paul Erickson|M|/transfer-verification-app/app/scan/service.js
+1444330741|Paul Erickson|M|/transfer-verification-app/app/module.js
+1444330741|Paul Erickson|A|/transfer-verification-app/app/service.js
+1444332112|Paul Erickson|M|/transfer-verification-app/app/batches/batches.html
+1444400355|zekeWitter|M|/transfer-verification-app/app/app.css
+1444400355|zekeWitter|M|/transfer-verification-app/app/batches/batches.html
+1444400355|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444400355|zekeWitter|M|/transfer-verification-app/app/config.js
+1444400355|zekeWitter|M|/transfer-verification-app/app/index.html
+1444400355|zekeWitter|M|/transfer-verification-app/app/module.js
+1444400355|zekeWitter|M|/transfer-verification-app/bower.json
+1444400876|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444400876|zekeWitter|M|/transfer-verification-app/app/module.js
+1444403317|zekeWitter|M|/transfer-verification-app/app/app.css
+1444403317|zekeWitter|M|/transfer-verification-app/app/batches/batches.html
+1444403317|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444403317|zekeWitter|A|/transfer-verification-app/app/batches/pagination.html
+1444405110|zekeWitter|D|/transfer-verification-app/app/scan/controller.js
+1444405110|zekeWitter|D|/transfer-verification-app/app/scan/module.js
+1444405110|zekeWitter|D|/transfer-verification-app/app/scan/page.html
+1444405110|zekeWitter|D|/transfer-verification-app/app/scan/route.js
+1444405110|zekeWitter|D|/transfer-verification-app/app/scan/service.js
+1444405110|zekeWitter|D|/transfer-verification-app/app/scan/service_test.js
+1444405110|zekeWitter|A|/transfer-verification-app/app/worksheet/controller.js
+1444405110|zekeWitter|A|/transfer-verification-app/app/worksheet/module.js
+1444405110|zekeWitter|A|/transfer-verification-app/app/worksheet/route.js
+1444405110|zekeWitter|A|/transfer-verification-app/app/worksheet/service.js
+1444405110|zekeWitter|A|/transfer-verification-app/app/worksheet/service_test.js
+1444405110|zekeWitter|A|/transfer-verification-app/app/worksheet/worksheet.html
+1444405687|zekeWitter|M|/transfer-verification-app/app/app.css
+1444405687|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444405687|zekeWitter|D|/transfer-verification-app/app/batches/pagination.html
+1444405687|zekeWitter|M|/transfer-verification-app/app/index.html
+1444405687|zekeWitter|M|/transfer-verification-app/app/module.js
+1444405687|zekeWitter|A|/transfer-verification-app/app/partials/pagination.html
+1444405687|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444407150|zekeWitter|M|/transfer-verification-app/app/app.css
+1444407150|zekeWitter|M|/transfer-verification-app/app/batches/batches.html
+1444407150|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444407150|zekeWitter|M|/transfer-verification-app/app/config.js
+1444407150|zekeWitter|M|/transfer-verification-app/app/module.js
+1444410007|zekeWitter|M|/transfer-verification-app/app/app.css
+1444410007|zekeWitter|M|/transfer-verification-app/app/batches/batches.html
+1444410007|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444412048|zekeWitter|A|/transfer-verification-app/app/sounds/beep.wav
+1444412048|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444412048|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444659268|Jamie Gutkowski|M|/transfer-verification-app/bower.json
+1444667281|Paul Erickson|M|/transfer-verification-app/README.md
+1444668469|Andrew Hoffmann|M|/transfer-verification-app/package.json
+1444670650|Andrew Hoffmann|M|/transfer-verification-app/karma.conf.js
+1444670650|Andrew Hoffmann|M|/transfer-verification-app/package.json
+1444672621|Jamie Gutkowski|M|/transfer-verification-app/app/worksheet/controller.js
+1444672621|Jamie Gutkowski|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444675273|Jamie Gutkowski|M|/transfer-verification-app/app/app.css
+1444675273|Jamie Gutkowski|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444756493|zekeWitter|M|/transfer-verification-app/app/batches/batches.html
+1444756493|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444756493|zekeWitter|M|/transfer-verification-app/app/service.js
+1444756493|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444756493|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444756493|zekeWitter|M|/transfer-verification-app/features/barcode-input.feature
+1444756493|zekeWitter|A|/transfer-verification-app/features/batch-worksheet.feature
+1444756493|zekeWitter|M|/transfer-verification-app/features/inventoryLocator-input.feature
+1444756493|zekeWitter|M|/transfer-verification-app/features/protractor.conf.js
+1444756493|zekeWitter|A|/transfer-verification-app/features/step_definitions/worksheet-input/steps.js
+1444761282|zekeWitter|M|/transfer-verification-app/app/app.css
+1444761282|zekeWitter|M|/transfer-verification-app/app/service.js
+1444761282|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444761282|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444765087|zekeWitter|M|/transfer-verification-app/app/app.css
+1444765087|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444765087|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444765284|zekeWitter|M|/transfer-verification-app/app/app.css
+1444765284|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444765284|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444855692|zekeWitter|M|/transfer-verification-app/app/app.css
+1444855692|zekeWitter|M|/transfer-verification-app/app/batches/module.js
+1444855692|zekeWitter|A|/transfer-verification-app/app/batches/scanController.js
+1444855692|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444855692|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444855876|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444855876|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444855876|zekeWitter|M|/transfer-verification-app/app/app.css
+1444855876|zekeWitter|M|/transfer-verification-app/app/batches/module.js
+1444855876|zekeWitter|A|/transfer-verification-app/app/batches/scanController.js
+1444855876|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444855876|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444934247|zekeWitter|M|/transfer-verification-app/app/app.css
+1444934247|zekeWitter|M|/transfer-verification-app/app/batches/module.js
+1444934247|zekeWitter|D|/transfer-verification-app/app/batches/scanController.js
+1444934247|zekeWitter|A|/transfer-verification-app/app/sounds/beep-bad.wav
+1444934247|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444934247|zekeWitter|M|/transfer-verification-app/app/worksheet/module.js
+1444934247|zekeWitter|A|/transfer-verification-app/app/worksheet/scanController.js
+1444934247|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444934247|zekeWitter|M|/transfer-verification-app/features/batch-worksheet.feature
+1444934247|zekeWitter|M|/transfer-verification-app/features/step_definitions/inventoryLocator-input/steps.js
+1444934247|zekeWitter|M|/transfer-verification-app/features/step_definitions/worksheet-input/steps.js
+1444934661|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444936184|zekeWitter|M|/transfer-verification-app/app/app.css
+1444936184|zekeWitter|M|/transfer-verification-app/app/batches/batches.html
+1444936184|zekeWitter|M|/transfer-verification-app/app/batches/controller.js
+1444936184|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1444936184|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444940752|zekeWitter|M|/transfer-verification-app/app/worksheet/worksheet.html
+1444940752|zekeWitter|M|/transfer-verification-app/features/batch-worksheet.feature
+1444940752|zekeWitter|M|/transfer-verification-app/features/step_definitions/worksheet-input/steps.js
+1445009589|zekeWitter|M|/transfer-verification-app/app/worksheet/controller.js
+1445015313|Craig Knuth|M|/transfer-verification-app/app/worksheet/controller.js
+1445015313|Craig Knuth|M|/transfer-verification-app/features/barcode-input.feature
+1445015313|Craig Knuth|M|/transfer-verification-app/features/protractor.conf.js
+1445015313|Craig Knuth|M|/transfer-verification-app/features/step_definitions/barcode-input/steps.js
+1445015313|Craig Knuth|M|/transfer-verification-app/package.json
+1445016488|Craig Knuth|M|/transfer-verification-app/app/worksheet/controller.js
+1445016488|Craig Knuth|M|/transfer-verification-app/features/barcode-input.feature
