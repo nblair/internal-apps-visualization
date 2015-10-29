@@ -20,4 +20,4 @@ Feed the file `combined.txt` into the command listed below.
 
 Sample command:
 
-> gource attempt1-log-2015-10-27.txt -s 0.4 --highlight-users --highlight-dirs -1600x1080 --user-image-dir avatars/
+> gource attempt5.txt -s 0.25 --highlight-users --highlight-dirs -1600x1080 --user-image-dir avatars/ --file-extensions --user-scale 2 --bloom-intensity 0.5 --hide dirnames --start-date '2014-06-01'
