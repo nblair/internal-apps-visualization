@@ -2,3 +2,8 @@
 .idea
 .project
 *.iml
+*.log
+*.mp4
+*.ppm
+
+workdir
