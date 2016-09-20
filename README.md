@@ -32,7 +32,9 @@ The script will clone each repository (via ssh), produce the gource output, then
 
 Sample command, won't save anything:
 
-> gource yourfilename.txt.log -s 0.25 --highlight-users --highlight-dirs -1600x1080 --user-image-dir avatars/ --file-extensions --user-scale 2 --bloom-intensity 0.5 --hide dirnames --start-date '2014-06-01'
+```
+gource archive/projects.2016-09.txt.log -s 0.25 --highlight-users --highlight-dirs -1600x1080 --user-image-dir avatars/ --file-extensions --user-scale 2 --bloom-intensity 0.5 --hide dirnames --camera-mode overview --start-date '2016-03-01'
+```
 
 Tack on a `-o filename.ppm` to save the output in raw ppm format.
 
