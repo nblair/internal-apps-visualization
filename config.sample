@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+GITLAB_API_URL=https://git.doit.wisc.edu/api/v3/
+GITLAB_PRIVATE_TOKEN=

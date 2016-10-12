@@ -4,12 +4,17 @@ This project is intended to capture the means for producing [Gource](http://gour
 
 ### Requirements
 
-1. A reasonable shell with sed, cat, and sort.
+1. A reasonable shell with sed, cat, sort, grep, and curl.
 2. git
 3. [Gource](http://gource.io/)
-4. [ffmpeg](https://www.ffmpeg.org/)
+4. [jq](https://stedolan.github.io/jq/)
+5. [ffmpeg](https://www.ffmpeg.org/)
 
 The latter 2 are easily installed on a Mac using [Homebrew](http://brew.sh)
+
+### Configuration
+
+Copy the provided `config.sample` file to `config` and populate the GitLab properties. You'll need to create a personal access token to access the GitLab API.
 
 ### Creating the combined git log
 
@@ -33,7 +38,7 @@ The script will clone each repository (via ssh), produce the gource output, then
 Sample command, won't save anything:
 
 ```
-gource archive/projects.2016-09.txt.log -s 0.25 --highlight-users --highlight-dirs -1600x1080 --user-image-dir avatars/ --file-extensions --user-scale 2 --bloom-intensity 0.5 --hide dirnames --camera-mode overview --start-date '2016-03-01'
+gource archive/projects.2016-09.txt.log -s 0.25 --highlight-users --highlight-dirs -1600x1080 --user-image-dir workdir/avatars/ --file-extensions --user-scale 2 --bloom-intensity 0.5 --hide dirnames --camera-mode overview --start-date '2016-03-01'
 ```
 
 Tack on a `-o filename.ppm` to save the output in raw ppm format.
