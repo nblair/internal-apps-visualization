@@ -7,10 +7,10 @@ This project is intended to capture the means for producing [Gource](http://gour
 1. A reasonable shell with sed, cat, sort, grep, and curl.
 2. git
 3. [Gource](http://gource.io/)
-4. [jq](https://stedolan.github.io/jq/)
-5. [ffmpeg](https://www.ffmpeg.org/)
+4. [ffmpeg](https://www.ffmpeg.org/)
+5. [jq](https://stedolan.github.io/jq/)
 
-The latter 2 are easily installed on a Mac using [Homebrew](http://brew.sh)
+The latter 3 are easily installed on a Mac using [Homebrew](http://brew.sh)
 
 ### Configuration
 
